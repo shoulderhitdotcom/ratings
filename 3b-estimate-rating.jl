@@ -1,10 +1,11 @@
 using Parquet2: Dataset
-using DataFrames: DataFrame, innerjoin, groupby, select, stack, Not, unstack, rename
-using DataFrameMacros: @subset, @transform
+using DataFrames: DataFrame, innerjoin, groupby, select, stack, Not, unstack, rename, leftjoin
+using DataFrameMacros: @subset, @transform, @combine
 using Chain: @chain
-using GLM
+using GLM: glm, term, Term, Binomial, LogitLink, coefnames, coef
 using Statistics: mean
 using TableScraper: scrape_tables
+using Dates: Date
 
 include("0-setup.jl")
 include("utils.jl")
@@ -21,8 +22,11 @@ end
 const WHO_WIN_FIX = Dict("b" => "B", "w" => "W")
 const KOMI_FIX = Dict(8.0 => 7.5)
 
+using Dates: Day
+const CUT_OFF_DATE_1YR = Date(maximum(last_2_years.date)) - Day(365)
+
 last_1_years = @chain last_2_years begin
-    @subset :date >= "2022-03-03"
+    @subset Date(:date) >= CUT_OFF_DATE_1YR
 end
 
 const PLAYERS_W_ENOUGH_GAMES_1YR = @chain DataFrame(player=vcat(last_1_years.black, last_1_years.white)) begin
@@ -31,8 +35,6 @@ const PLAYERS_W_ENOUGH_GAMES_1YR = @chain DataFrame(player=vcat(last_1_years.bla
     @subset :nrow >= div(MIN_GAME_THRESHOLD, 2)
     _.player
 end
-
-bb = make_glm_data(last_1_years, PLAYERS_W_ENOUGH_GAMES_1YR)
 
 function make_glm_data(last_2_years, PLAYERS_W_ENOUGH_GAMES)
     last_2_years1 = @chain last_2_years begin
@@ -73,14 +75,14 @@ function make_glm_data(last_2_years, PLAYERS_W_ENOUGH_GAMES)
     return last_2_years4
 end
 
-using StatsModels
 
+data_for_model = make_glm_data(last_2_years, PLAYERS_W_ENOUGH_GAMES)
+formula = Term(:target) ~ term(-1) + sum(Term.(Symbol.(names(data_for_model[:, Not(:target)]))))
+output = glm(formula, data_for_model, Binomial(), LogitLink())
 
-formula = Term(:target) ~ term(-1) + sum(Term.(Symbol.(names(last_2_years4[:, Not(:target)]))))
-output = glm(formula, last_2_years4, Binomial(), LogitLink())
-
-formula_1yr = Term(:target) ~ term(-1) + sum(Term.(Symbol.(names(bb[:, Not(:target)]))))
-output_1yr = glm(formula_1yr, bb, Binomial(), LogitLink())
+data_for_model_1yr = make_glm_data(last_1_years, PLAYERS_W_ENOUGH_GAMES_1YR)
+formula_1yr = Term(:target) ~ term(-1) + sum(Term.(Symbol.(names(data_for_model_1yr[:, Not(:target)]))))
+output_1yr = glm(formula_1yr, data_for_model_1yr, Binomial(), LogitLink())
 
 a = @chain DataFrame(player=coefnames(output)[3:end], strength=coef(output)[3:end]) begin
     sort(:strength, rev=true)
@@ -131,10 +133,23 @@ rating_adjustment = @chain c begin
     latest_sjs_rating - _.Rating[1]
 end
 
+n_2yr = @chain DataFrame(player=vcat(last_2_years.black, last_2_years.white)) begin
+    groupby(:player)
+    @combine(:n = @nrow)
+end
+
+n_1yr = @chain DataFrame(player=vcat(last_1_years.black, last_1_years.white)) begin
+    groupby(:player)
+    @combine(:n_1yr = @nrow)
+end
+
 d = @chain c begin
     @transform :Rating = round(Int, :Rating + rating_adjustment)
     @transform :Rating_1yr = round(Int, :Rating_1yr + rating_adjustment)
-    select(:rank, :player, :Rating, :rank_1yr, :Rating_1yr)
+    leftjoin(n_2yr, on=:player)
+    leftjoin(n_1yr, on=:player)
+    select(:rank, :player, :Rating, :rank_1yr, :Rating_1yr, :n, :n_1yr)
+    sort(:rank)
 end
 
 df_to_md(d, "docs/index.md")
