@@ -42,25 +42,28 @@ function writeln(outfile, str="")
 end
 
 function df_to_md(df, outfile)
-    write(outfile, "| ")
-
-    line = ""
-    for n in names(df)
-        write(outfile, "**$n**")
-        write(outfile, " | ")
-        line = line * "| --- "
-    end
-    writeln(outfile,)
-    line = line * "|"
-
-    writeln(outfile, line)
-
-    for row in eachrow(df)
+    open(outfile, "w") do outfile
         write(outfile, "| ")
-        for cell in row
-            write(outfile, string(cell))
+
+        line = ""
+        for n in names(df)
+            write(outfile, "**$n**")
             write(outfile, " | ")
+            line = line * "| --- "
         end
-        writeln(outfile)
+        writeln(outfile,)
+        line = line * "|"
+
+        writeln(outfile, line)
+
+        for row in eachrow(df)
+            write(outfile, "| ")
+            for cell in row
+                write(outfile, string(cell))
+                write(outfile, " | ")
+            end
+            writeln(outfile)
+        end
     end
+
 end
