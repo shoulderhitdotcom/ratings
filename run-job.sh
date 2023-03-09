@@ -28,6 +28,9 @@ git clone https://$GITHUB_TOKEN@github.com/shoulderhitdotcom/ratings.git
 mv docs/index.md ratings/docs/index.md
 
 cd ratings
+
+git config --global user.email "cloudrun@cloudrun.com"
+git config --global user.name "Google Cloud Run Ratings"
 git commit docs/index.md -m "updated ratings"
 git push
 

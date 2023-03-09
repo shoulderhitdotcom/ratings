@@ -1,6 +1,6 @@
 docker build -t australia-southeast2-docker.pkg.dev/testing-of-bigquery/shoulderhit/ratings .
 docker push australia-southeast2-docker.pkg.dev/testing-of-bigquery/shoulderhit/ratings
-# docker run -it --rm australia-southeast2-docker.pkg.dev/testing-of-bigquery/shoulderhit/ratings
+#docker run -it --rm australia-southeast2-docker.pkg.dev/testing-of-bigquery/shoulderhit/ratings
 
 # docker build -t test-julia .
 # docker run -it --rm test-julia

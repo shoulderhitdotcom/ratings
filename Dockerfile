@@ -19,7 +19,6 @@ RUN pip install -r requirements
 
 COPY Project.toml .
 
-
 # ENTRYPOINT [ "julia" ]
 RUN julia -e 'using Pkg; Pkg.activate("."); Pkg.instantiate(); Pkg.precompile()'
 
@@ -27,10 +26,8 @@ COPY *.py .
 COPY *.jl .
 COPY run-job.sh .
 
-ENV GITHUB_TOKEN=$GITHUB_TOKEN
-
 CMD [ "bash", "run-job.sh" ]
 # CMD [ "bash" ]
-# ENTRYPOINT [ "bash" ]
+#  ENTRYPOINT [ "bash" ]
 # CMD [ "julia", "--project=.", "2-run-job.jl"]
 #CMD [ "julia", "-Jtest.so", "run-job.jl"]
