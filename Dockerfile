@@ -1,18 +1,16 @@
 FROM julia:latest
 
 RUN apt-get update -y && \
-    apt-get install clang -y
-
-RUN apt-get install apt-transport-https ca-certificates gnupg -y && \
+    apt-get install clang -y && \
+    apt-get install apt-transport-https ca-certificates gnupg -y && \
     echo "deb https://packages.cloud.google.com/apt cloud-sdk main" | tee -a /etc/apt/sources.list.d/google-cloud-sdk.list && \
-    curl https://packages.cloud.google.com/apt/doc/apt-key.gpg | apt-key --keyring /usr/share/keyrings/cloud.google.gpg add -
-
-RUN echo "deb [signed-by=/usr/share/keyrings/cloud.google.gpg] http://packages.cloud.google.com/apt cloud-sdk main" | tee -a /etc/apt/sources.list.d/google-cloud-sdk.list && curl https://packages.cloud.google.com/apt/doc/apt-key.gpg | apt-key --keyring /usr/share/keyrings/cloud.google.gpg  add - && apt-get update -y && apt-get install google-cloud-cli -y
+    curl https://packages.cloud.google.com/apt/doc/apt-key.gpg | apt-key --keyring /usr/share/keyrings/cloud.google.gpg add - && \
+    echo "deb [signed-by=/usr/share/keyrings/cloud.google.gpg] http://packages.cloud.google.com/apt cloud-sdk main" | tee -a /etc/apt/sources.list.d/google-cloud-sdk.list && curl https://packages.cloud.google.com/apt/doc/apt-key.gpg | apt-key --keyring /usr/share/keyrings/cloud.google.gpg  add - && apt-get update -y && apt-get install google-cloud-cli -y && \
+    apt-get install python3 && \
+    apt-get install pip -y && \
+    apt-get install git -y
 
 ENV JULIA_DEPOT_PATH=/home/.julia
-
-RUN apt-get install python3 && \
-    apt-get install pip -y
 
 # RUN pip install --upgrade google-cloud-bigquery
 COPY requirements .
@@ -22,15 +20,15 @@ RUN pip install -r requirements
 COPY Project.toml .
 
 # ENTRYPOINT [ "julia" ]
-RUN julia -e 'using Pkg; Pkg.activate("."); Pkg.instantiate()'
-
-RUN apt-get install git -y
+RUN julia -e 'using Pkg; Pkg.activate("."); Pkg.instantiate(); Pkg.precompile()'
 
 ENV GITHUB_TOKEN=$GITHUB_TOKEN
 
-RUN git clone https://$GITHUB_TOKEN@github.com/shoulderhitdotcom/ratings.git
+RUN git clone --depth=1 https://$GITHUB_TOKEN@github.com/shoulderhitdotcom/ratings.git
 
 WORKDIR /ratings
+
+# ENTRYPOINT [ "julia" ]
 
 CMD [ "bash", "run-job.sh" ]
 # CMD [ "bash" ]
