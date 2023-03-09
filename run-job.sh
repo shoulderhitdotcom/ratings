@@ -18,8 +18,16 @@ additions-today-w-sgf.parquet
 
 python3 3a-extract-data-for-rating-estimation.py
 
+
+
+mkdir docs
 julia 3b-estimate-rating.jl
 
+git clone https://$GITHUB_TOKEN@github.com/shoulderhitdotcom/ratings.git
+
+mv docs/index.md ratings/docs/index.md
+
+cd ratings
 git commit docs/index.md -m "updated ratings"
 git push
 
