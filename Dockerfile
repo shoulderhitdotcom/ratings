@@ -23,14 +23,11 @@ COPY requirements .
 
 RUN pip install -r requirements
 
-COPY 1-get-bigquery.py .
-COPY 2-run-job.jl .
-COPY run-job.sh .
-RUN alias python="python3"
-
-RUN mkdir docs
 ENV GITHUB_TOKEN=$GITHUB_TOKEN
 
+RUN git clone https://$GITHUB_TOKEN@github.com/shoulderhitdotcom/ratings.git
+
+WORKDIR /ratings
 CMD [ "bash", "run-job.sh" ]
 # CMD [ "bash" ]
 # ENTRYPOINT [ "bash" ]

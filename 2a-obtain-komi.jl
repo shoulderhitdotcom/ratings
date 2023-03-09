@@ -1,8 +1,9 @@
 # using JDF, DataFrames, DataFrameMacros, TableScraper, Chain
 using Parquet2: Dataset
-using DataFrames: DataFrame
-
+using DataFrames: DataFrame, nrow, select
 using BadukGoWeiqiTools: extract_sgf, komi
+using Chain: @chain
+using Parquet2: writefile
 # using Missings: disallowmissing
 # using StatsBase
 
@@ -54,8 +55,7 @@ tbl.komi .= -1.0
 
 # row = missing_kifu_rows[1]
 # extract sgd and add komi
-println("fetching SGFs; saving 100 kifus at a time")
-for row in 1:2#nrow(tbl)
+for row in 1:nrow(tbl)
     # global ndone
     link = tbl[row, :kifu_link]
     try
@@ -72,12 +72,16 @@ for row in 1:2#nrow(tbl)
         tbl[row, :komi] = parse(Float64, extracted_komi)
     catch e
         println("error at $row")
-        println("failed to convert $extracted_komi to `Float64`")
+        # println("failed to convert $extracted_komi to `Float64`")
         println(e)
     end
 end
 
-tbl
+tbl_sgf = @chain tbl begin
+    select(:date, :kifu_link, :sgf, :komi)
+end
+
+writefile("additions-today-w-sgf.parquet", tbl_sgf)
 
 
 # using BadukGoWeiqiTools: komi
