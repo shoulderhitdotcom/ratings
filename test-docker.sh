@@ -3,7 +3,7 @@
 # docker run --rm gcr.io/testing-of-bigquery/testing-julia-job
 
 docker build -t test-julia .
-docker run --rm test-julia
+docker run -it --rm test-julia
 
 # docker run -it --rm -p 8080:8080 test-julia
 gcloud builds submit -t "gcr.io/testing-of-bigquery/testing-julia-job"

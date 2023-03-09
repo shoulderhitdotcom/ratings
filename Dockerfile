@@ -11,10 +11,6 @@ RUN echo "deb [signed-by=/usr/share/keyrings/cloud.google.gpg] http://packages.c
 
 ENV JULIA_DEPOT_PATH=/home/.julia
 
-COPY install.jl install.jl
-
-RUN julia install.jl
-
 RUN apt-get install python3 && \
     apt-get install pip -y
 
@@ -23,13 +19,21 @@ COPY requirements .
 
 RUN pip install -r requirements
 
+COPY Project.toml .
+
+# ENTRYPOINT [ "julia" ]
+RUN julia -e 'using Pkg; Pkg.activate("."); Pkg.instantiate()'
+
+RUN apt-get install git -y
+
 ENV GITHUB_TOKEN=$GITHUB_TOKEN
 
 RUN git clone https://$GITHUB_TOKEN@github.com/shoulderhitdotcom/ratings.git
 
 WORKDIR /ratings
+
 CMD [ "bash", "run-job.sh" ]
 # CMD [ "bash" ]
 # ENTRYPOINT [ "bash" ]
-# CMD [ "julia", "2-run-job.jl"]
+# CMD [ "julia", "--project=.", "2-run-job.jl"]
 #CMD [ "julia", "-Jtest.so", "run-job.jl"]
