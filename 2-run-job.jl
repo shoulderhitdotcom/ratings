@@ -1,3 +1,5 @@
+using Pkg; Pkg.activate(".");
+
 using JDF
 using DataFrames: DataFrame, antijoin, nrow
 using StatsBase

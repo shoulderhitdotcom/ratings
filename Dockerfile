@@ -19,16 +19,15 @@ RUN pip install -r requirements
 
 COPY Project.toml .
 
+
 # ENTRYPOINT [ "julia" ]
 RUN julia -e 'using Pkg; Pkg.activate("."); Pkg.instantiate(); Pkg.precompile()'
 
+COPY *.py .
+COPY *.jl .
+COPY run-job.sh .
+
 ENV GITHUB_TOKEN=$GITHUB_TOKEN
-
-RUN git clone --depth=1 https://$GITHUB_TOKEN@github.com/shoulderhitdotcom/ratings.git
-
-WORKDIR /ratings
-
-# ENTRYPOINT [ "julia" ]
 
 CMD [ "bash", "run-job.sh" ]
 # CMD [ "bash" ]

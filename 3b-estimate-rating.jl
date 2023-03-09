@@ -1,3 +1,5 @@
+using Pkg; Pkg.activate(".");
+
 using Parquet2: Dataset
 using DataFrames: DataFrame, innerjoin, groupby, select, stack, Not, unstack, rename, leftjoin
 using DataFrameMacros: @subset, @transform, @combine

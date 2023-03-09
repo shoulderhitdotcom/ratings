@@ -1,3 +1,4 @@
+using Pkg; Pkg.activate(".");
 # using JDF, DataFrames, DataFrameMacros, TableScraper, Chain
 using Parquet2: Dataset
 using DataFrames: DataFrame, nrow, select
