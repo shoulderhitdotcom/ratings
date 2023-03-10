@@ -35,9 +35,9 @@ uuid = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
 
 [[deps.BadukGoWeiqiTools]]
 deps = ["Cascadia", "Chain", "CodecZlib", "DataFrameMacros", "DataFrames", "Gumbo", "HTTP", "JDF", "JSON3", "Random", "Serialization", "TableScraper", "Tables"]
-git-tree-sha1 = "2d534e40ce6ab512a338a4b97d5a6b37d4a46e77"
+path = "/home/evalparse/.julia/dev/BadukGoWeiqiTools"
 uuid = "71566503-fddc-4190-936c-ecb38fefcffd"
-version = "0.1.8"
+version = "0.1.9"
 
 [[deps.BangBang]]
 deps = ["Compat", "ConstructionBase", "Future", "InitialValues", "LinearAlgebra", "Requires", "Setfield", "Tables", "ZygoteRules"]
