@@ -65,5 +65,28 @@ function df_to_md(df, outfile)
             writeln(outfile)
         end
     end
+end
 
+function df_to_md(df, io::IOStream)
+    write(io, "| ")
+
+    line = ""
+    for n in names(df)
+        write(io, "**$n**")
+        write(io, " | ")
+        line = line * "| --- "
+    end
+    writeln(io,)
+    line = line * "|"
+
+    writeln(io, line)
+
+    for row in eachrow(df)
+        write(io, "| ")
+        for cell in row
+            write(io, string(cell))
+            write(io, " | ")
+        end
+        writeln(io)
+    end
 end

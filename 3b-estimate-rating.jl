@@ -1,4 +1,5 @@
-using Pkg; Pkg.activate(".");
+using Pkg;
+Pkg.activate(".");
 
 using Chain: @chain
 using DataFrameMacros: @subset, @transform, @combine
@@ -155,3 +156,11 @@ d = @chain c begin
 end
 
 df_to_md(d, "docs/index.md")
+
+
+new_games = Dataset("additions-today.parquet") |> DataFrame
+
+io = open("docs/index.md", "a")
+writeln(io, "\n## Newly added games\n")
+df_to_md(new_games, io)
+close(io)
