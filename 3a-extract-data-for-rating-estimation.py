@@ -11,16 +11,11 @@ print("Got past authentication")
 
 query = """
     SELECT
-        a.*,
-        b.komi
+        *
     FROM
-        `testing-of-bigquery.shoulderhit.kifu_depot_games` as a
-        left join
-        `testing-of-bigquery.shoulderhit.kifu_depot_sgfs` as b
-    on
-        a.date = b.date and a.kifu_link = b.kifu_link
+        `testing-of-bigquery.shoulderhit.kifu_depot`
     where
-        a.date >= (
+        date >= (
             select
                 cast(date_sub(cast(max(date) as date), interval 365*2-1 DAY) as string format 'YYYY-MM-DD')
             from

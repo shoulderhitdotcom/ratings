@@ -1,13 +1,13 @@
 using Pkg; Pkg.activate(".");
 
-using Parquet2: Dataset
-using DataFrames: DataFrame, innerjoin, groupby, select, stack, Not, unstack, rename, leftjoin
-using DataFrameMacros: @subset, @transform, @combine
 using Chain: @chain
+using DataFrameMacros: @subset, @transform, @combine
+using DataFrames: DataFrame, innerjoin, groupby, select, stack, Not, unstack, rename, leftjoin
+using Dates: Date
 using GLM: glm, term, Term, Binomial, LogitLink, coefnames, coef
+using Parquet2: Dataset
 using Statistics: mean
 using TableScraper: scrape_tables
-using Dates: Date
 
 include("0-setup.jl")
 include("utils.jl")
@@ -117,7 +117,7 @@ end
 
 # figure out the adjustment needed for each day
 sjs_ratings = scrape_tables("https://www.goratings.org/en/players/1313.html")[2] |> DataFrame
-using Dates: Date
+
 sjs_ratings = @chain sjs_ratings begin
     select(:Date, :Rating)
     @transform begin
