@@ -1,0 +1,12 @@
+#build settings
+#remote_theme: pages-themes/slate@v0.2.0
+#plugins:
+#- jekyll-remote-theme
+
+title: shoulderhit.com Pro Ratings
+description: The rating you can trust
+
+show_downloads: false
+
+github:
+  is_project_page: false
