@@ -254,22 +254,3 @@
 
 | **comp** | **black** | **white** | **result** | **date** | **kifu_link** | **who_win** | **win_by** | 
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 第5回夢百合杯中国予選 | 唐奕 | 周泓余 | W+R | 2023-03-25 | kifucontents.php?id=JopNsueySQ70CB88exH0Pw%3D%3D | W | R | 
-| 第5回夢百合杯中国予選 | 汪雨博 | 於之瑩 | W+¼ | 2023-03-25 | kifucontents.php?id=Bj%2F74azrPNjf%2FUbQTFKw8g%3D%3D | W | ¼ | 
-| 第5回夢百合杯中国予選 | 李小渓 | 方若曦 | B+R | 2023-03-25 | kifucontents.php?id=mSMqGWOJS%2FodjjvQKc6abg%3D%3D | B | R | 
-| 第5回夢百合杯中国予選 | 潘陽 | 祝菲鴻 | B+R | 2023-03-25 | kifucontents.php?id=wjoN2NS0%2Bsod1xmyl3e67A%3D%3D | B | R | 
-| 第2期韓国棋院選手権戦グループリーグ勝者戦 | 李志賢 | 姜東潤 | B+R | 2023-03-25 | kifucontents.php?id=AcBGPjiDV4zXT28e%2BxiKWg%3D%3D | B | R | 
-| 2022-2023韓国囲碁リーグ | 尹畯相 | 大西竜平 | B+0.5 | 2023-03-24 | kifucontents.php?id=kMuBENda7vTsQxpOc6FCZA%3D%3D | B | 0.5 | 
-| 2022-2023韓国囲碁リーグ | 福岡航太朗 | 申旻埈 | W+R | 2023-03-24 | kifucontents.php?id=bGWmSA6ceF26ngbUXHl2Wg%3D%3D | W | R | 
-| 2022-2023韓国囲碁リーグ | 崔精 | 広瀬優一 | W+R | 2023-03-24 | kifucontents.php?id=%2FM8jF%2FH5LlwpxFIlxN7Caw%3D%3D | W | R | 
-| 2022-2023韓国囲碁リーグ | 酒井佑規 | 洪茂鎭 | W+5.5 | 2023-03-24 | kifucontents.php?id=MxqFIHWVkNHSKX9ii2s3hg%3D%3D | W | 5.5 | 
-| 第10回大舟杯プロシニア最強者戦1回戦 | 金恵臨 | 李相勲 | W+R | 2023-03-24 | kifucontents.php?id=Jghv7RBCSUW2j5c64Jr%2BpA%3D%3D | W | R | 
-| 第22期天元戦（台湾）挑戦手合七番勝負第4局 | 許皓鋐 | 賴均輔 | B+3.5 | 2023-03-24 | kifucontents.php?id=ZYfaRiFLKCNBaiHM2Y%2FO5A%3D%3D | B | 3.5 | 
-| 第5回夢百合杯中国予選 | 喬智健 | 党毅飛 | W+R | 2023-03-24 | kifucontents.php?id=ZTvMCnRgZr0GqDjC%2BCqCHQ%3D%3D | W | R | 
-| 第5回夢百合杯中国予選 | 汪雨博 | 呉依銘 | B+R | 2023-03-24 | kifucontents.php?id=meMPvdy1qS5Dk3XuJDfUMw%3D%3D | B | R | 
-| 第5回夢百合杯中国予選 | 胡煜清 | 楊宇祥 | B+R | 2023-03-24 | kifucontents.php?id=rSHHSxJ%2FqfiJZ5lFLAFmvQ%3D%3D | B | R | 
-| 第5回夢百合杯中国予選 | 謝爾豪 | 田沐沐 | B+R | 2023-03-24 | kifucontents.php?id=ooE48ekm5BiW5KkFNSF7QA%3D%3D | B | R | 
-| 第5回夢百合杯中国予選 | 塗季康 | 連笑 | W+R | 2023-03-24 | kifucontents.php?id=ipwdzwk8yjw8AVLD621mlw%3D%3D | W | R | 
-| 第5回夢百合杯中国予選 | 蒋其潤 | 胡耀宇 | B+¾ | 2023-03-24 | kifucontents.php?id=fbvqRUmOf3CYQtAgr1wsZA%3D%3D | B | ¾ | 
-| 第5回夢百合杯中国予選 | 趙晨宇 | 林子傑 | B+R | 2023-03-24 | kifucontents.php?id=xEeVq%2BsGBH4LtsNyE97mPA%3D%3D | B | R | 
-| 第5回夢百合杯中国予選 | 陸敏全 | 潘陽 | W+R | 2023-03-24 | kifucontents.php?id=7WNk1aAUl6rk%2FeaIA%2B4NLA%3D%3D | W | R | 
