@@ -1,263 +1,270 @@
 | **rank** | **name** | **Rating** | **rank_1yr** | **Rating_1yr** | **n** | **n_1yr** | **country** | **sex** | **date_of_birth** | **player** | 
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1 | Shin Jinseo | 3831 | 1 | 3824 | 194 | 96 | Korea | Male | 2000-03-17 | 申眞諝 | 
-| 2 | Ding Hao | 3692 | 19 | 3602 | 101 | 43 | China | Male | 2000-06-13 | 丁浩 | 
-| 3 | Park Junghwan | 3685 | 13 | 3628 | 182 | 95 | Korea | Male | 1993-01-11 | 朴廷桓 | 
-| 4 | Ke Jie | 3681 | 18 | 3604 | 104 | 52 | China | Male | 1997-08-02 | 柯潔 | 
-| 5 | Gu Zihao | 3676 | 11 | 3640 | 95 | 44 | China | Male | 1998-03-13 | 辜梓豪 | 
-| 6 | Li Xuanhao | 3671 | 2 | 3790 | 104 | 49 | China | Male | 1995-02-01 | 李軒豪 | 
-| 7 | Byun Sangil | 3663 | 20 | 3601 | 167 | 88 | Korea | Male | 1997-01-14 | 卞相壹 | 
-| 8 | Li Qincheng | 3662 | 3 | 3751 | 79 | 37 | China | Male | 1998-10-20 | 李欽誠 | 
-| 9 | Mi Yuting | 3662 | 16 | 3612 | 102 | 47 | China | Male | 1996-01-08 | 芈昱廷 | 
-| 10 | Yang Dingxin | 3638 | 21 | 3601 | 103 | 44 | China | Male | 1998-10-19 | 楊鼎新 | 
-| 11 | Wang Xinghao | 3637 | 6 | 3671 | 107 | 60 | China | Male | 2004-02-02 | 王星昊 | 
-| 12 | Dang Yifei | 3632 | 12 | 3636 | 83 | 36 | China | Male | 1994-06-17 | 党毅飛 | 
-| 13 | Fan Tingyu | 3626 | 5 | 3684 | 99 | 55 | China | Male | 1996-08-06 | 范廷鈺 | 
-| 14 | Zhao Chenyu | 3610 | 15 | 3622 | 80 | 33 | China | Male | 1999-06-04 | 趙晨宇 | 
-| 15 | Shi Yue | 3608 | 8 | 3669 | 86 | 43 | China | Male | 1991-01-11 | 時越 | 
-| 17 | Yang Kaiwen | 3605 | 10 | 3663 | 66 | 30 | China | Male |  | 楊楷文 | 
-| 18 | Li Weiqing | 3603 | 4 | 3710 | 66 | 28 | China | Male | 2000-04-10 | 李維清 | 
-| 19 | Liao Yuanhe | 3592 | 30 | 3549 | 83 | 35 | China | Male | 2000-12-20 | 廖元赫 | 
-| 20 | Lian Xiao | 3588 | 23 | 3586 | 92 | 37 | China | Male | 1994-04-08 | 連笑 | 
-| 21 | Huang Yunsong | 3586 | 35 | 3528 | 90 | 29 | China | Male | 1997-01-15 | 黄雲嵩 | 
-| 22 | Tuo Jiaxi | 3572 | 7 | 3671 | 81 | 34 | China | Male | 1991-01-15 | 柁嘉熹 | 
-| 23 | Peng Liyao | 3564 | 43 | 3475 | 70 | 27 | China | Male | 1992-01-14 | 彭立尭 | 
-| 24 | Xie Ke | 3558 | 29 | 3559 | 83 | 37 | China | Male | 2000-01-14 | 謝科 | 
-| 25 | Shin Minjun | 3558 | 17 | 3605 | 149 | 81 | Korea | Male | 1999-01-11 | 申旻埈 | 
-| 26 | Fan Yin | 3556 | 33 | 3534 | 61 | 26 | China | Male |  | 范胤 | 
-| 27 | Zhang Tao | 3554 | 27 | 3564 | 64 | 30 | China | Male | 1991-03-23 | 張涛 | 
-| 28 | Xie Erhao | 3550 | 9 | 3665 | 76 | 37 | China | Male | 1998-09-26 | 謝爾豪 | 
-| 29 | Tu Xiaoyu | 3549 | 38 | 3516 | 92 | 43 | China | Male |  | 屠暁宇 | 
-| 30 | Kim Myounghoon | 3547 | 32 | 3541 | 93 | 64 | Korea | Male | 1997-04-07 | 金明訓 | 
-| 31 | Jiang Weijie | 3546 | 22 | 3593 | 60 | 30 | China | Male | 1991-10-17 | 江維傑 | 
-| 32 | Iyama Yuta | 3544 | 45 | 3466 | 92 | 45 | Japan | Male | 1989-05-24 | 井山裕太 | 
-| 33 | Xu Jiayang | 3543 | 24 | 3582 | 69 | 39 | China | Male |  | 許嘉陽 | 
-| 34 | Kang Dongyun | 3540 | 26 | 3574 | 147 | 85 | Korea | Male | 1989-01-23 | 姜東潤 | 
-| 35 | Tan Xiao | 3534 | 31 | 3543 | 93 | 41 | China | Male | 1993-03-10 | 檀嘯 | 
-| 36 | Chen Xian | 3527 | 14 | 3624 | 71 | 33 | China | Male | 1997-05-11 | 陳賢 | 
-| 37 | Chen Zhengxun | 3516 | 25 | 3579 | 28 | 16 | China | Male |  | 陳正勲 | 
-| 38 | Yi Lingtao | 3515 | 39 | 3515 | 55 | 24 | China | Male | 2000-05-29 | 伊淩濤 | 
-| 39 | Chen Yunong | 3514 | 28 | 3562 | 40 | 19 | China | Male |  | 陳玉儂 | 
-| 40 | Tang Weixing | 3508 | 40 | 3508 | 94 | 45 | China | Male | 1993-01-15 | 唐韋星 | 
-| 41 | Kim Jiseok | 3505 | 56 | 3420 | 137 | 67 | Korea | Male | 1989-06-13 | 金志錫 | 
-| 42 | Park Geunho | 3499 | 44 | 3468 | 73 | 50 | Korea | Male | 1998-06-14 | 朴鍵昊 | 
-| 43 | Tao Xinran | 3497 | 34 | 3530 | 69 | 29 | China | Male | 1994-07-05 | 陶欣然 | 
-| 44 | Chen Zijian | 3496 | 54 | 3425 | 44 | 15 | China | Male |  | 陳梓健 | 
-| 45 | Park Yeonghun | 3487 | 71 | 3374 | 50 | 23 | Korea | Male | 1985-04-01 | 朴永訓 | 
-| 46 | Han Seungjoo | 3487 | 48 | 3445 | 69 | 26 | Korea | Male | 1996-11-27 | 韓昇周 | 
-| 47 | Weon Seongjin | 3478 | 46 | 3462 | 130 | 71 | Korea | Male | 1985-07-15 | 元晟溱 | 
-| 48 | Lee Changseok | 3477 | 58 | 3411 | 108 | 51 | Korea | Male | 1996-04-27 | 李昌錫 | 
-| 49 | Ichiriki Ryo | 3476 | 57 | 3413 | 118 | 58 | Japan | Male | 1997-06-10 | 一力遼 | 
-| 50 | Jiang Qirun | 3470 | 37 | 3518 | 44 | 22 | China | Male | 2000-10-12 | 蒋其潤 | 
-| 51 | Chen Yaoye | 3468 | 42 | 3478 | 63 | 35 | China | Male | 1989-12-16 | 陳耀燁 | 
-| 52 | Xu Haohong | 3467 | 64 | 3386 | 181 | 93 | Taiwan | Male | 2001-04-30 | 許皓鋐 | 
-| 53 | Hu Zihao | 3453 | 59 | 3407 | 42 | 28 | missing | missing | missing | 胡子豪 | 
-| 54 | Seol Hyunjun | 3453 | 53 | 3432 | 89 | 51 | Korea | Male | 1999-01-29 | 偰玹準 | 
-| 55 | Tong Mengcheng | 3451 | 72 | 3369 | 81 | 35 | China | Male | 1996-04-26 | 童夢成 | 
-| 56 | Wang Zejin | 3449 | 36 | 3523 | 41 | 18 | China | Male |  | 王沢錦 | 
-| 57 | Liu Yuhang | 3447 | 60 | 3406 | 44 | 23 | China | Male | 2001-07-18 | 劉宇航 | 
-| 58 | Shibano Toramaru | 3441 | 49 | 3445 | 111 | 57 | Japan | Male | 1999-11-09 | 芝野虎丸 | 
-| 60 | Jin Yucheng | 3440 | 104 | 3259 | 55 | 31 | China | Male | 2004-06-23 | 金禹丞 | 
-| 61 | Hong Seongji | 3425 | 47 | 3449 | 55 | 27 | Korea | Male | 1987-08-07 | 洪性志 | 
-| 62 | Park Jinsol | 3422 | 68 | 3380 | 33 | 13 | Korea | Male | 1986-09-07 | 朴進率 | 
-| 63 | Li Xiangyu | 3421 | 41 | 3495 | 36 | 20 | China | Male |  | 李翔宇 | 
-| 64 | Park Hamin | 3421 | 69 | 3380 | 63 | 27 | Korea | Male | 1998-02-14 | 朴河旼 | 
-| 65 | Choi Cheolhan | 3409 | 67 | 3383 | 53 | 24 | Korea | Male | 1985-03-12 | 崔哲瀚 | 
-| 66 | Han Yizhou | 3408 | 82 | 3319 | 47 | 21 | China | Male |  | 韓一洲 | 
-| 68 | Lee Yeongkyu | 3405 | 79 | 3333 | 43 | 21 | Korea | Male | 1987-08-23 | 李映九 | 
-| 69 | Hsu Chiayuan | 3405 | 97 | 3277 | 81 | 31 | Japan | Male | 1997-12-24 | 許家元 | 
-| 70 | An Sungjoon | 3400 | 80 | 3325 | 79 | 38 | Korea | Male | 1991-09-16 | 安成浚 | 
-| 72 | Kang Seungmin | 3385 | 66 | 3385 | 65 | 34 | Korea | Male | 1994-11-29 | 姜昇旼 | 
-| 73 | Hong Mujin | 3381 | 81 | 3325 | 44 | 28 | Korea | Male | 1994-05-19 | 洪茂鎭 | 
-| 74 | Xia Chenkun | 3381 | 90 | 3297 | 47 | 19 | China | Male | 1994-10-30 | 夏晨琨 | 
-| 75 | Choi Jeong | 3376 | 77 | 3339 | 196 | 98 | Korea | Female | 1996-10-07 | 崔精 | 
-| 76 | Ye Changxin | 3375 | 55 | 3425 | 37 | 23 | missing | missing | missing | 葉長欣 | 
-| 77 | Huang Mingyu | 3372 | 88 | 3308 | 35 | 15 | missing | missing | missing | 黄明宇 | 
-| 78 | Han Woojin | 3369 | 61 | 3395 | 53 | 52 | missing | missing | missing | 韓友賑 | 
-| 79 | Sim Jaeik | 3366 | 76 | 3343 | 36 | 31 |  | Unknown |  | 沈載益 | 
-| 79 | Sim Jaeik | 3366 | 76 | 3343 | 36 | 31 | Korea | Male | 1998-10-04 | 沈載益 | 
-| 80 | Kim Jinhyu | 3364 | 65 | 3386 | 37 | 17 | Korea | Male | 1996-01-26 | 金眞輝 | 
-| 81 | He Yuhan | 3364 | 73 | 3362 | 37 | 21 | China | Male |  | 何語涵 | 
-| 82 | Lee Wonyoung | 3358 | 70 | 3377 | 51 | 28 | Korea | Male | 1992-05-08 | 李元栄 | 
-| 83 | Lee Jihyun | 3357 | 74 | 3348 | 77 | 65 | Korea | Female | 1979-05-02 | 李志賢 | 
-| 84 | Park Minkyu | 3350 | 114 | 3224 | 52 | 28 | Korea | Male |  | 朴珉奎 | 
-| 85 | Park Sangjin | 3349 | 118 | 3216 | 67 | 36 |  | Unknown | 2001-05-19 | 朴常鎭 | 
-| 87 | Chen Haoxin | 3346 | 91 | 3286 | 48 | 26 | China | Male | 2004-01-05 | 陳豪鑫 | 
-| 88 | Shen Peiran | 3344 | 62 | 3394 | 31 | 17 | China | Male |  | 沈沛然 | 
-| 89 | Moon Minjong | 3343 | 116 | 3220 | 76 | 30 | missing | missing | missing | 文敏鍾 | 
-| 90 | Choi Jaeyoung | 3341 | 147 | 3131 | 39 | 19 | Korea | Male | 1997-04-10 | 崔宰栄 | 
-| 91 | Park Jinsol | 3339 | 84 | 3318 | 30 | 30 | Korea | Male | 1986-09-07 | 朴ジンソル | 
-| 93 | Heo Youngrak | 3338 | 125 | 3202 | 29 | 18 | Korea | Male | 1996-03-01 | 許栄珞 | 
-| 94 | Yu Zhengqi | 3335 | 121 | 3210 | 89 | 46 | Japan | Male | 1995-06-19 | 余正麒 | 
-| 95 | Ryu Minhyung | 3334 | 108 | 3245 | 42 | 20 | Korea | Male | 1991-09-21 | 柳珉瀅 | 
-| 97 | Lai Junfu | 3332 | 93 | 3283 | 159 | 83 | Taiwan | Male | 2002-04-08 | 賴均輔 | 
-| 98 | Park Joonhoon | 3331 | 110 | 3233 | 42 | 23 | Korea | Male | 2000-01-14 | 朴鐘勲 | 
-| 99 | Kim Seongjae | 3330 | 100 | 3269 | 34 | 16 | Korea | Male | 1992-08-11 | 金昇宰 | 
-| 100 | Wang Yuanjun | 3330 | 119 | 3215 | 158 | 80 | Taiwan | Male | 1996-03-14 | 王元均 | 
-| 101 | Han Sanghoon | 3327 | 95 | 3279 | 47 | 28 | Korea | Male | 1988-05-16 | 韓尚勲 | 
-| 102 | Yun Chanhee | 3321 | 127 | 3194 | 52 | 24 | Korea | Male | 1990-05-02 | 尹燦熙 | 
-| 103 | Yu Zhiying | 3315 | 120 | 3211 | 70 | 16 | China | Female | 1997-11-23 | 於之瑩 | 
-| 104 | Song Jihoon | 3314 | 101 | 3264 | 41 | 25 | Korea | Male | 1998-02-23 | 宋知勲 | 
-| 105 | Song Gyusang | 3314 | 85 | 3316 | 38 | 20 | Korea | Male | 1998-09-28 | 宋圭相 | 
-| 106 | Kim Junghyun | 3306 | 75 | 3344 | 45 | 22 | Korea | Male | 1991-04-12 | 金庭賢 | 
-| 107 | Wang Shiyi | 3305 | 83 | 3319 | 26 | 16 | China | Male |  | 王世一 | 
-| 108 | Cho Hanseung | 3302 | 96 | 3277 | 63 | 32 | Korea | Male | 1982-11-27 | 趙漢乗 | 
-| 109 | Lee Wondo | 3300 | 99 | 3273 | 38 | 20 | Korea | Male | 1989-05-30 | 李元道 | 
-| 110 | Lin Junyan | 3292 | 141 | 3141 | 144 | 75 | Taiwan | Male | 1997-11-26 | 林君諺 | 
-| 111 | Hirose Yuichi | 3286 | 132 | 3178 | 37 | 23 | Japan | Male | 2001-08-09 | 広瀬優一 | 
-| 112 | Yamashita Keigo | 3284 | 103 | 3260 | 50 | 17 | Japan | Male | 1978-09-06 | 山下敬吾 | 
-| 113 | Ida Atsushi | 3280 | 142 | 3138 | 42 | 20 | Japan | Male | 1994-03-15 | 伊田篤史 | 
-| 114 | Fukuoka Kotaro | 3272 | 107 | 3246 | 43 | 27 | Japan | Unknown | 2005-12-22 | 福岡航太朗 | 
-| 115 | Lee Yeon | 3270 | 89 | 3306 | 45 | 28 | missing | missing | missing | 李沇 | 
-| 116 | Chen Qirui | 3267 | 156 | 3105 | 174 | 101 | Taiwan | Male | 2000-06-15 | 陳祈睿 | 
-| 118 | Lee Changho | 3262 | 133 | 3175 | 62 | 18 | Korea | Male | 1975-07-29 | 李昌鎬 | 
-| 119 | Yoo Ohseong | 3261 | 92 | 3285 | 36 | 19 | missing | missing | missing | 兪旿成 | 
-| 121 | Cho Wankyu | 3258 | 129 | 3185 | 39 | 14 | missing | missing | missing | 趙完珪 | 
-| 122 | Seki Kotaro | 3254 | 150 | 3125 | 48 | 30 | Japan | Unknown | 2001-11-28 | 関航太郎 | 
-| 123 | Sada Atsushi | 3253 | 106 | 3253 | 75 | 37 | Japan | Male | 1995-12-24 | 佐田篤史 | 
-| 124 | Baek Hyeonwoo | 3252 | 123 | 3208 | 27 | 13 | missing | missing | missing | 白現宇 | 
-| 125 | Takao Shinji | 3250 | 134 | 3174 | 33 | 15 | Japan | Male | 1976-10-26 | 高尾紳路 | 
-| 126 | Murakawa Daisuke | 3250 | 137 | 3155 | 57 | 30 | Japan | Male | 1990-12-14 | 村川大介 | 
-| 128 | Wang Chuxuan | 3246 | 148 | 3129 | 31 | 14 | missing | missing | missing | 王楚軒 | 
-| 129 | Hyun Yoobin | 3240 | 130 | 3183 | 52 | 23 |  | Unknown |  | 玄釉斌 | 
-| 130 | Zhou Hongyu | 3238 | 136 | 3166 | 91 | 29 | China | Female |  | 周泓余 | 
-| 131 | Gon Jiwoo | 3236 | 78 | 3334 | 37 | 14 | missing | missing | missing | 琴沚玗 | 
-| 132 | Hane Naoki | 3234 | 149 | 3126 | 45 | 18 | Japan | Male | 1976-08-14 | 羽根直樹 | 
-| 133 | Seto Taiki | 3225 | 145 | 3134 | 33 | 14 | Japan | Male | 1984-03-27 | 瀬戸大樹 | 
-| 134 | Kim Hyeongwoo | 3225 | 112 | 3226 | 29 | 15 | Korea | Male | 1988-03-02 | 金炯佑 | 
-| 135 | Xiao Zhenghao | 3225 | 159 | 3092 | 98 | 46 | Taiwan | Male | 1988-10-05 | 蕭正浩 | 
-| 137 | Kim Eunji | 3223 | 131 | 3178 | 104 | 93 | missing | missing | missing | 金恩持 | 
-| 138 | Cho U | 3216 | 52 | 3433 | 34 | 13 | Japan | Male | 1980-01-20 | 張栩 | 
-| 139 | Xu Jingen | 3213 | 122 | 3209 | 148 | 93 | missing | missing | missing | 徐靖恩 | 
-| 140 | Ahn Kukhyun | 3211 | 162 | 3086 | 40 | 22 | Korea | Male | 1992-07-23 | 安国鉉 | 
-| 141 | Oh Yujin | 3209 | 161 | 3090 | 123 | 57 | Korea | Female | 1998-06-11 | 呉侑珍 | 
-| 142 | Yuki Satoshi | 3209 | 168 | 3064 | 49 | 23 | Japan | Male | 1972-02-11 | 結城聡 | 
-| 143 | Han Sangcho | 3201 | 105 | 3257 | 29 | 17 | missing | missing | missing | 韓相朝 | 
-| 145 | Kim Sedong | 3194 | 152 | 3119 | 36 | 16 | Korea | Male | 1989-02-08 | 金世東 | 
-| 146 | Lin Lixiang | 3193 | 175 | 3032 | 147 | 78 | Taiwan | Male | 1993-09-07 | 林立祥 | 
-| 148 | Kim Beomseo | 3186 | 102 | 3262 | 33 | 24 | missing | missing | missing | 金凡瑞 | 
-| 150 | Otake Yu | 3184 | 151 | 3120 | 46 | 26 | Japan | Male | 2001-11-14 | 大竹優 | 
-| 151 | Yoo Changhyuk | 3178 | 63 | 3389 | 53 | 24 | Korea | Male | 1966-04-25 | 劉昌赫 | 
-| 153 | Jin Siyoung | 3177 | 146 | 3132 | 33 | 16 | Korea | Male | 1989-09-09 | 陳時暎 | 
-| 154 | Kim Seongji | 3176 | 191 | 2957 | 27 | 14 | missing | missing | missing | 金宣圻 | 
-| 155 | Wang Shuo | 3176 | 144 | 3135 | 26 | 17 | China | Male |  | 王碩 | 
-| 157 | Cho Seungah | 3174 | 184 | 2995 | 115 | 44 |  | Unknown | 1998-08-08 | 曺承亜 | 
-| 158 | Motoki Katsuya | 3172 | 113 | 3225 | 46 | 21 | Japan | Male | 1995-08-02 | 本木克弥 | 
-| 159 | Oh Byungwoo | 3171 | 153 | 3109 | 31 | 16 | missing | missing | missing | 呉秉祐 | 
-| 160 | Onishi Ryuhei | 3169 | 166 | 3067 | 35 | 20 | Japan | Male | 2000-03-14 | 大西竜平 | 
-| 162 | Fujisawa Rina | 3160 | 182 | 3006 | 75 | 42 | Japan | Female | 1998-09-18 | 藤沢里菜 | 
-| 164 | Sakai Yuki | 3148 | 115 | 3222 | 34 | 25 | Japan | Unknown | 2004-04-14 | 酒井佑規 | 
-| 165 | Sun Zhe | 3148 | 117 | 3219 | 27 | 17 | Japan | Male | 1996-02-21 | 孫喆 | 
-| 166 | Gueon Hyojin | 3147 | 128 | 3188 | 86 | 62 | Korea | Female | 1982-03-27 | 権孝珍 | 
-| 167 | Kim Yoonyoung | 3146 | 155 | 3106 | 34 | 27 | Korea | Female | 1989-04-22 | 金侖映 | 
-| 168 | Chen Shiyuan | 3146 | 180 | 3010 | 116 | 57 | Taiwan | Male |  | 陳詩淵 | 
-| 169 | Wang Chunhui | 3145 | 94 | 3279 | 46 | 15 | missing | missing | missing | 王春暉 | 
-| 170 | Lin Shixun | 3140 | 179 | 3011 | 140 | 77 | Taiwan | Male |  | 林士勛 | 
-| 172 | Li Wei | 3121 | 169 | 3057 | 102 | 52 | Taiwan | Male |  | 李維 | 
-| 173 | Jian Jingting | 3117 | 194 | 2947 | 136 | 65 | Taiwan | Male |  | 簡靖庭 | 
-| 174 | Li He | 3113 | 181 | 3008 | 66 | 15 | China | Female | 1992 | 李赫 | 
-| 175 | missing | 3112 | 186 | 2983 | 41 | 36 | missing | missing | missing | 金珉舒 | 
-| 176 | Fang Ruoxi | 3108 | 124 | 3207 | 65 | 15 | China | Female |  | 方若曦 | 
-| 177 | Kim Cheayoung | 3107 | 139 | 3144 | 112 | 68 | Korea | Female | 1996-01-15 | 金彩瑛 | 
-| 178 | Ueno Asami | 3105 | 164 | 3073 | 106 | 51 | Japan | Female | 2001-10-26 | 上野愛咲美 | 
-| 179 | Wu Yiming | 3088 | 165 | 3070 | 65 | 31 | missing | missing | missing | 呉依銘 | 
-| 182 | Kim Seungjun | 3081 | 126 | 3198 | 38 | 24 | Korea | Male | 1973-03-23 | 金承俊 | 
-| 183 | Kim Hyoyoung | 3080 | 154 | 3108 | 32 | 20 | missing | missing | missing | 金孝英 | 
-| 184 | Lu Yiquan | 3078 | 183 | 3002 | 133 | 74 | Taiwan | Male |  | 盧奕銓 | 
-| 186 | Choi Kyubyeong | 3052 | 135 | 3169 | 41 | 21 | Korea | Male | 1963-05-06 | 崔珪昞 | 
-| 187 | Oh Jeonga | 3051 | 177 | 3021 | 51 | 38 | Korea | Female | 1993-03-24 | 呉政娥 | 
-| 188 | Niu Shite | 3049 | 201 | 2923 | 111 | 53 | missing | missing | missing | 牛詩特 | 
-| 189 | Wu Baiyi | 3042 | 199 | 2929 | 28 | 19 | Japan | Male | 1996-01-26 | 呉柏毅 | 
-| 190 | Yang Bowei | 3036 | 200 | 2926 | 75 | 38 | Taiwan | Male | 1998-01-03 | 楊博崴 | 
-| 192 | Heo Seohyun | 3032 | 176 | 3021 | 72 | 48 | missing | missing | missing | 許瑞玹 | 
-| 193 | missing | 3032 | 198 | 2930 | 31 | 26 | missing | missing | missing | 詹宜典 | 
-| 194 | Seo Bongsoo | 3022 | 167 | 3067 | 54 | 29 | Korea | Male | 1953-02-01 | 徐奉洙 | 
-| 196 | Chen Xi | 3007 | 196 | 2933 | 71 | 29 | Taiwan | Male |  | 陳禧 | 
-| 197 | Lin Shuyang | 3005 | 188 | 2960 | 93 | 51 | Taiwan | Male | 1989-09-19 | 林書陽 | 
-| 198 | An Kwanwuk | 2997 | 174 | 3034 | 37 | 16 | Korea | Male | 1961-11-08 | 安官旭 | 
-| 199 | Kim Dayoung | 2996 | 193 | 2951 | 56 | 33 | Korea | Female |  | 金多瑛 | 
-| 201 | Xu Yuqi | 2993 | 217 | 2850 | 79 | 38 | Taiwan | Male |  | 許育祺 | 
-| 202 | Kang Hun | 2990 | 223 | 2826 | 34 | 16 | Korea | Male | 1990-08-21 | 姜勲 | 
-| 205 | Kim Eunseon | 2981 | 209 | 2884 | 49 | 24 | Korea | Female | 1988-09-12 | 金恩善 | 
-| 206 | Lee Youngjoo | 2976 | 202 | 2911 | 42 | 24 | Korea | Female |  | 李映周 | 
-| 207 | Lin Xinwei | 2966 | 220 | 2830 | 56 | 28 | Taiwan | Male |  | 林新為 | 
-| 208 | Li Xiaoxi | 2966 | 163 | 3080 | 64 | 17 | China | Female |  | 李小渓 | 
-| 209 | Nakamura Sumire | 2961 | 197 | 2930 | 111 | 65 | Japan | Unknown | 2009-03-02 | 仲邑菫 | 
-| 210 | Lin Yanchen | 2960 | 207 | 2887 | 78 | 36 | missing | missing | missing | 林彦丞 | 
-| 211 | Kim Soojang | 2957 | 171 | 3051 | 34 | 15 | Korea | Male | 1957-11-15 | 金秀壮 | 
-| 212 | Cho Hyeyeon | 2951 | 232 | 2725 | 49 | 16 | Korea | Female | 1985-06-07 | 趙恵連 | 
-| 213 | Park Jiyeon | 2949 | 210 | 2873 | 65 | 35 | Korea | Female | 1991-05-17 | 朴志娟 | 
-| 214 | Chen Weiting | 2945 | 215 | 2854 | 83 | 50 | missing | missing | missing | 陳威廷 | 
-| 215 | Seo Nungwuk | 2945 | 211 | 2866 | 30 | 15 | Korea | Male | 1958-05-05 | 徐能旭 | 
-| 216 | Chen Shoulian | 2945 | 219 | 2838 | 70 | 31 | missing | missing | missing | 陳首廉 | 
-| 217 | Tanaka Koyu | 2942 | 212 | 2864 | 40 | 29 | Japan | Unknown | 2001-06-14 | 田中康湧 | 
-| 219 | Lee Minjin | 2927 | 204 | 2899 | 50 | 24 | Korea | Female | 1984-07-11 | 李玟眞 | 
-| 220 | Huang Shiyuan | 2927 | 214 | 2859 | 87 | 42 | Taiwan | Male |  | 黄世元 | 
-| 221 | Liu Yaowen | 2926 | 222 | 2827 | 46 | 22 | Taiwan | Male |  | 劉耀文 | 
-| 223 | Nishi Takenobu | 2921 | 192 | 2953 | 38 | 21 | Japan | Male | 1999-09-27 | 西健伸 | 
-| 224 | Xie Yimin | 2921 | 240 | 2696 | 40 | 14 | Japan | Female | 1989-11-16 | 謝依旻 | 
-| 225 | Abe Yoshiki | 2920 | 230 | 2733 | 30 | 15 | Japan | Male | 1996-07-17 | 阿部良希 | 
-| 226 | Kim Chongsu | 2916 | 157 | 3097 | 35 | 18 | Korea | Male | 1962-10-16 | 金鐘秀 | 
-| 227 | Cai Chengwei | 2914 | 225 | 2809 | 85 | 41 | Taiwan | Male |  | 蔡丞韋 | 
-| 230 | Jeong Yujin | 2905 | 213 | 2861 | 69 | 31 | missing | missing | missing | 鄭有珍 | 
-| 231 | Tsuji Shigehito | 2893 | 272 | -251 | 31 | 20 | Japan | Unknown | 2002-03-26 | 辻篤仁 | 
-| 232 | missing | 2888 | 227 | 2796 | 31 | 18 | missing | missing | missing | 朴昭律 | 
-| 233 | Nyu Eiko | 2886 | 226 | 2802 | 49 | 34 | Japan | Female | 1999-05-12 | 牛栄子 | 
-| 234 | Kim Miri | 2875 | 205 | 2895 | 51 | 24 | Korea | Female | 1991-03-24 | 金美里 | 
-| 235 | Lu Yuhua | 2873 | 238 | 2712 | 96 | 59 | missing | missing | missing | 盧鈺樺 | 
-| 236 | Zhang Zhehao | 2865 | 229 | 2758 | 44 | 25 | Taiwan | Male |  | 張哲豪 | 
-| 237 | Cho Daehyeon | 2856 | 203 | 2903 | 27 | 14 | Korea | Male | 1959-04-08 | 趙大賢 | 
-| 238 | Yang Zixuan | 2853 | 241 | 2693 | 105 | 53 | Taiwan | Female |  | 楊子萱 | 
-| 239 | Kim Kihun | 2852 | 206 | 2893 | 29 | 14 | Korea | Male |  | 金基憲 | 
-| 241 | Kim Ilhwan | 2842 | 189 | 2958 | 42 | 21 | Korea | Male | 1956-04-28 | 金日煥 | 
-| 244 | Ueno Risa | 2829 | 236 | 2719 | 33 | 19 | Japan | Unknown | 2006-06-24 | 上野梨紗 | 
-| 245 | missing | 2826 | 239 | 2709 | 57 | 31 | missing | missing | missing | 荘承濬 | 
-| 249 | Park Seungmun | 2804 | 195 | 2943 | 27 | 13 | Korea | Male | 1964-01-03 | 朴勝文 | 
-| 250 | Suzuki Ayumi | 2803 | 257 | 2472 | 46 | 22 | Japan | Female | 1983-09-23 | 鈴木歩 | 
-| 251 | Kang Dajeong | 2796 | 218 | 2842 | 32 | 13 | Korea | Female |  | 姜多情 | 
-| 252 | Chang Suyeong | 2789 | 190 | 2958 | 28 | 14 | Korea | Male | 1952-09-17 | 張秀英 | 
-| 253 | Zhou Pingqiang | 2787 | 243 | 2655 | 43 | 21 | Taiwan | Male |  | 周平強 | 
-| 254 | Kim Dongyeop | 2778 | 221 | 2828 | 29 | 15 | Korea | Male | 1957-01-10 | 金東燁 | 
-| 255 | missing | 2777 | 233 | 2724 | 40 | 21 | missing | missing | missing | 張嘉桓 | 
-| 256 | Paek Seongho | 2777 | 208 | 2884 | 31 | 15 | Korea | Male | 1956-02-10 | 白成豪 | 
-| 257 | missing | 2775 | 235 | 2721 | 44 | 27 | missing | missing | missing | 黄彦誠 | 
-| 258 | Zhou Yinnan | 2762 | 242 | 2692 | 40 | 23 | Taiwan | Male |  | 周尹南 | 
-| 259 | Lin Yuxiang | 2758 | 245 | 2619 | 39 | 22 | Taiwan | Unknown |  | 林宇翔 | 
-| 260 | Jeong Daesang | 2744 | 231 | 2726 | 30 | 16 | Korea | Male | 1957-09-08 | 鄭大相 | 
-| 261 | Kim Kyeongeun | 2743 | 224 | 2822 | 48 | 30 | missing | missing | missing | 金京垠 | 
-| 263 | missing | 2735 | 234 | 2723 | 56 | 35 | missing | missing | missing | 陳劭全 | 
-| 264 | Lin Shimin | 2732 | 255 | 2495 | 44 | 21 | Taiwan | Male |  | 林世民 | 
-| 265 | missing | 2720 | 237 | 2719 | 53 | 31 | missing | missing | missing | 施景尭 | 
-| 266 | Lin Jiehan | 2716 | 254 | 2495 | 35 | 17 | Taiwan | Male |  | 林傑漢 | 
-| 267 | Zeng Pinjie | 2715 | 260 | 2411 | 60 | 27 | missing | missing | missing | 曾品傑 | 
-| 268 | missing | 2696 | 247 | 2589 | 57 | 31 | missing | missing | missing | 林瀚彰 | 
-| 269 | Yu Lijun | 2695 | 246 | 2591 | 89 | 50 | Taiwan | Female |  | 兪俐均 | 
-| 270 | missing | 2691 | 251 | 2568 | 63 | 29 | missing | missing | missing | 孫偉勛 | 
-| 271 | missing | 2672 | 252 | 2564 | 27 | 13 | missing | missing | missing | 王智弘 | 
-| 272 | missing | 2669 | 253 | 2534 | 60 | 30 | missing | missing | missing | 黄袖圃 | 
-| 273 | Bai Xinhui | 2651 | 261 | 2391 | 71 | 33 | missing | missing | missing | 白昕卉 | 
-| 274 | Gao Yun | 2640 | 258 | 2440 | 35 | 15 | Taiwan | Unknown |  | 高昀 | 
-| 276 | Chen Yida | 2620 | 264 | 2285 | 31 | 16 | Taiwan | Male | 1983-11-23 | 陳逸達 | 
-| 277 | missing | 2609 | 256 | 2493 | 35 | 19 | missing | missing | missing | 彭鐏徳 | 
-| 278 | missing | 2608 | 244 | 2650 | 33 | 20 | missing | missing | missing | 彭景華 | 
-| 279 | Su Shengfang | 2590 | 259 | 2439 | 62 | 34 | Taiwan | Female |  | 蘇聖芳 | 
-| 280 | Ding Shaojie | 2583 | 265 | 2261 | 42 | 21 | Taiwan | Male |  | 丁少傑 | 
-| 281 | Zhou Keping | 2578 | 248 | 2577 | 33 | 20 | Taiwan | Male |  | 周可平 | 
-| 282 | missing | 2568 | 250 | 2570 | 38 | 17 | missing | missing | missing | 張庭維 | 
-| 283 | missing | 2559 | 262 | 2387 | 39 | 19 | missing | missing | missing | 黄偉 | 
-| 284 | missing | 2521 | 263 | 2354 | 40 | 30 | missing | missing | missing | 尤浩宇 | 
-| 286 | Lin Yuting | 2440 | 267 | 2116 | 54 | 24 | missing | missing | missing | 林鈺娗 | 
-| 287 | Zhang Kaixin | 2437 | 269 | 2002 | 42 | 17 | Taiwan | Female | 1980-07-04 | 張凱馨 | 
-| 288 | Liu Yifang | 2415 | 266 | 2167 | 46 | 23 | missing | missing | missing | 劉一芳 | 
-| 289 | missing | 2325 | 268 | 2047 | 26 | 13 | missing | missing | missing | 李奎漢 | 
+| 1 | Shin Jinseo | 3855 | 1 | 3848 | 194 | 97 | Korea | Male | 2000-03-17 | 申眞諝 | 
+| 2 | Ding Hao | 3716 | 20 | 3625 | 101 | 43 | China | Male | 2000-06-13 | 丁浩 | 
+| 3 | Park Junghwan | 3711 | 13 | 3653 | 183 | 95 | Korea | Male | 1993-01-11 | 朴廷桓 | 
+| 4 | Ke Jie | 3705 | 18 | 3628 | 104 | 52 | China | Male | 1997-08-02 | 柯潔 | 
+| 5 | Gu Zihao | 3701 | 11 | 3665 | 95 | 44 | China | Male | 1998-03-13 | 辜梓豪 | 
+| 6 | Li Xuanhao | 3695 | 2 | 3814 | 104 | 49 | China | Male | 1995-02-01 | 李軒豪 | 
+| 7 | Li Qincheng | 3687 | 3 | 3775 | 79 | 37 | China | Male | 1998-10-20 | 李欽誠 | 
+| 8 | Byun Sangil | 3686 | 19 | 3626 | 166 | 87 | Korea | Male | 1997-01-14 | 卞相壹 | 
+| 9 | Mi Yuting | 3686 | 16 | 3636 | 102 | 47 | China | Male | 1996-01-08 | 芈昱廷 | 
+| 10 | Yang Dingxin | 3662 | 21 | 3625 | 103 | 44 | China | Male | 1998-10-19 | 楊鼎新 | 
+| 11 | Wang Xinghao | 3662 | 6 | 3696 | 107 | 61 | China | Male | 2004-02-02 | 王星昊 | 
+| 12 | Dang Yifei | 3656 | 12 | 3660 | 83 | 36 | China | Male | 1994-06-17 | 党毅飛 | 
+| 13 | Fan Tingyu | 3650 | 5 | 3708 | 99 | 55 | China | Male | 1996-08-06 | 范廷鈺 | 
+| 15 | Yang Kaiwen | 3629 | 10 | 3687 | 66 | 30 | China | Male |  | 楊楷文 | 
+| 16 | Zhao Chenyu | 3629 | 15 | 3646 | 81 | 33 | China | Male | 1999-06-04 | 趙晨宇 | 
+| 17 | Li Weiqing | 3627 | 4 | 3734 | 66 | 28 | China | Male | 2000-04-10 | 李維清 | 
+| 18 | Shi Yue | 3626 | 8 | 3693 | 87 | 43 | China | Male | 1991-01-11 | 時越 | 
+| 19 | Lian Xiao | 3617 | 23 | 3610 | 93 | 37 | China | Male | 1994-04-08 | 連笑 | 
+| 20 | Liao Yuanhe | 3617 | 30 | 3573 | 83 | 35 | China | Male | 2000-12-20 | 廖元赫 | 
+| 21 | Huang Yunsong | 3610 | 35 | 3552 | 90 | 29 | China | Male | 1997-01-15 | 黄雲嵩 | 
+| 22 | Tuo Jiaxi | 3597 | 7 | 3694 | 81 | 34 | China | Male | 1991-01-15 | 柁嘉熹 | 
+| 23 | Peng Liyao | 3589 | 43 | 3499 | 70 | 27 | China | Male | 1992-01-14 | 彭立尭 | 
+| 24 | Xie Ke | 3582 | 29 | 3583 | 83 | 37 | China | Male | 2000-01-14 | 謝科 | 
+| 25 | Fan Yin | 3580 | 33 | 3558 | 61 | 26 | China | Male |  | 范胤 | 
+| 26 | Shin Minjun | 3580 | 17 | 3629 | 150 | 81 | Korea | Male | 1999-01-11 | 申旻埈 | 
+| 27 | Zhang Tao | 3577 | 27 | 3588 | 64 | 30 | China | Male | 1991-03-23 | 張涛 | 
+| 28 | Xie Erhao | 3574 | 9 | 3689 | 76 | 37 | China | Male | 1998-09-26 | 謝爾豪 | 
+| 29 | Tu Xiaoyu | 3574 | 38 | 3541 | 92 | 43 | China | Male |  | 屠暁宇 | 
+| 30 | Kim Myounghoon | 3571 | 32 | 3566 | 93 | 64 | Korea | Male | 1997-04-07 | 金明訓 | 
+| 31 | Jiang Weijie | 3570 | 22 | 3617 | 60 | 30 | China | Male | 1991-10-17 | 江維傑 | 
+| 32 | Iyama Yuta | 3568 | 45 | 3490 | 92 | 45 | Japan | Male | 1989-05-24 | 井山裕太 | 
+| 33 | Xu Jiayang | 3567 | 24 | 3606 | 69 | 39 | China | Male |  | 許嘉陽 | 
+| 34 | Kang Dongyun | 3564 | 26 | 3590 | 147 | 86 | Korea | Male | 1989-01-23 | 姜東潤 | 
+| 35 | Tan Xiao | 3559 | 31 | 3567 | 93 | 41 | China | Male | 1993-03-10 | 檀嘯 | 
+| 36 | Chen Xian | 3559 | 14 | 3648 | 72 | 33 | China | Male | 1997-05-11 | 陳賢 | 
+| 37 | Chen Zhengxun | 3541 | 25 | 3603 | 28 | 16 | China | Male |  | 陳正勲 | 
+| 38 | Yi Lingtao | 3539 | 39 | 3539 | 55 | 24 | China | Male | 2000-05-29 | 伊淩濤 | 
+| 39 | Chen Yunong | 3538 | 28 | 3586 | 40 | 19 | China | Male |  | 陳玉儂 | 
+| 40 | Tang Weixing | 3532 | 40 | 3532 | 94 | 45 | China | Male | 1993-01-15 | 唐韋星 | 
+| 41 | Kim Jiseok | 3529 | 56 | 3444 | 137 | 67 | Korea | Male | 1989-06-13 | 金志錫 | 
+| 42 | Tao Xinran | 3521 | 34 | 3554 | 69 | 29 | China | Male | 1994-07-05 | 陶欣然 | 
+| 43 | Chen Zijian | 3520 | 54 | 3449 | 44 | 15 | China | Male |  | 陳梓健 | 
+| 44 | Park Geunho | 3519 | 46 | 3486 | 72 | 49 | Korea | Male | 1998-06-14 | 朴鍵昊 | 
+| 45 | Park Yeonghun | 3511 | 71 | 3400 | 50 | 23 | Korea | Male | 1985-04-01 | 朴永訓 | 
+| 46 | Han Seungjoo | 3510 | 48 | 3469 | 69 | 26 | Korea | Male | 1996-11-27 | 韓昇周 | 
+| 47 | Weon Seongjin | 3502 | 44 | 3496 | 130 | 72 | Korea | Male | 1985-07-15 | 元晟溱 | 
+| 48 | Lee Changseok | 3501 | 58 | 3433 | 108 | 51 | Korea | Male | 1996-04-27 | 李昌錫 | 
+| 49 | Ichiriki Ryo | 3496 | 57 | 3440 | 119 | 58 | Japan | Male | 1997-06-10 | 一力遼 | 
+| 50 | Jiang Qirun | 3495 | 37 | 3542 | 44 | 22 | China | Male | 2000-10-12 | 蒋其潤 | 
+| 51 | Chen Yaoye | 3493 | 42 | 3502 | 63 | 35 | China | Male | 1989-12-16 | 陳耀燁 | 
+| 52 | Xu Haohong | 3491 | 67 | 3411 | 182 | 94 | Taiwan | Male | 2001-04-30 | 許皓鋐 | 
+| 53 | Hu Zihao | 3478 | 59 | 3433 | 42 | 28 | missing | missing | missing | 胡子豪 | 
+| 54 | Seol Hyunjun | 3476 | 53 | 3456 | 89 | 51 | Korea | Male | 1999-01-29 | 偰玹準 | 
+| 55 | Tong Mengcheng | 3476 | 72 | 3393 | 81 | 35 | China | Male | 1996-04-26 | 童夢成 | 
+| 56 | Wang Zejin | 3473 | 36 | 3547 | 41 | 18 | China | Male |  | 王沢錦 | 
+| 57 | Liu Yuhang | 3471 | 60 | 3430 | 44 | 23 | China | Male | 2001-07-18 | 劉宇航 | 
+| 58 | Shibano Toramaru | 3469 | 51 | 3463 | 112 | 58 | Japan | Male | 1999-11-09 | 芝野虎丸 | 
+| 60 | Jin Yucheng | 3465 | 104 | 3285 | 55 | 31 | China | Male | 2004-06-23 | 金禹丞 | 
+| 61 | Hong Seongji | 3449 | 47 | 3472 | 54 | 26 | Korea | Male | 1987-08-07 | 洪性志 | 
+| 62 | Park Jinsol | 3446 | 69 | 3408 | 33 | 13 | Korea | Male | 1986-09-07 | 朴進率 | 
+| 63 | Li Xiangyu | 3446 | 41 | 3519 | 36 | 20 | China | Male |  | 李翔宇 | 
+| 64 | Park Hamin | 3444 | 70 | 3406 | 63 | 27 | Korea | Male | 1998-02-14 | 朴河旼 | 
+| 65 | Hsu Chiayuan | 3439 | 90 | 3323 | 82 | 32 | Japan | Male | 1997-12-24 | 許家元 | 
+| 66 | Choi Cheolhan | 3433 | 68 | 3411 | 53 | 24 | Korea | Male | 1985-03-12 | 崔哲瀚 | 
+| 67 | Han Yizhou | 3432 | 81 | 3343 | 47 | 21 | China | Male |  | 韓一洲 | 
+| 69 | Lee Yeongkyu | 3429 | 74 | 3380 | 43 | 22 | Korea | Male | 1987-08-23 | 李映九 | 
+| 70 | An Sungjoon | 3424 | 79 | 3351 | 79 | 38 | Korea | Male | 1991-09-16 | 安成浚 | 
+| 72 | Kang Seungmin | 3408 | 61 | 3425 | 65 | 35 | Korea | Male | 1994-11-29 | 姜昇旼 | 
+| 73 | Xia Chenkun | 3406 | 91 | 3321 | 47 | 19 | China | Male | 1994-10-30 | 夏晨琨 | 
+| 74 | Hong Mujin | 3405 | 80 | 3348 | 44 | 28 | Korea | Male | 1994-05-19 | 洪茂鎭 | 
+| 75 | Ye Changxin | 3399 | 55 | 3449 | 37 | 23 | missing | missing | missing | 葉長欣 | 
+| 76 | Choi Jeong | 3398 | 77 | 3364 | 196 | 98 | Korea | Female | 1996-10-07 | 崔精 | 
+| 77 | Huang Mingyu | 3396 | 86 | 3331 | 35 | 15 | missing | missing | missing | 黄明宇 | 
+| 78 | Han Woojin | 3393 | 62 | 3419 | 53 | 52 | missing | missing | missing | 韓友賑 | 
+| 79 | Sim Jaeik | 3390 | 76 | 3372 | 36 | 31 | Korea | Male | 1998-10-04 | 沈載益 | 
+| 79 | Sim Jaeik | 3390 | 76 | 3372 | 36 | 31 |  | Unknown |  | 沈載益 | 
+| 80 | He Yuhan | 3388 | 73 | 3386 | 37 | 21 | China | Male |  | 何語涵 | 
+| 81 | Kim Jinhyu | 3387 | 66 | 3411 | 37 | 17 | Korea | Male | 1996-01-26 | 金眞輝 | 
+| 82 | Lee Wonyoung | 3386 | 64 | 3413 | 50 | 27 | Korea | Male | 1992-05-08 | 李元栄 | 
+| 83 | Lee Jihyun | 3380 | 75 | 3373 | 77 | 65 | Korea | Female | 1979-05-02 | 李志賢 | 
+| 84 | Park Minkyu | 3374 | 114 | 3248 | 52 | 28 | Korea | Male |  | 朴珉奎 | 
+| 85 | Park Sangjin | 3373 | 120 | 3238 | 67 | 36 |  | Unknown | 2001-05-19 | 朴常鎭 | 
+| 87 | Chen Haoxin | 3371 | 93 | 3310 | 48 | 27 | China | Male | 2004-01-05 | 陳豪鑫 | 
+| 88 | Shen Peiran | 3368 | 63 | 3418 | 31 | 17 | China | Male |  | 沈沛然 | 
+| 89 | Moon Minjong | 3367 | 117 | 3243 | 76 | 30 | missing | missing | missing | 文敏鍾 | 
+| 90 | Choi Jaeyoung | 3363 | 147 | 3155 | 39 | 19 | Korea | Male | 1997-04-10 | 崔宰栄 | 
+| 91 | Park Jinsol | 3362 | 82 | 3343 | 30 | 30 | Korea | Male | 1986-09-07 | 朴ジンソル | 
+| 93 | Heo Youngrak | 3361 | 125 | 3223 | 29 | 18 | Korea | Male | 1996-03-01 | 許栄珞 | 
+| 94 | Yu Zhengqi | 3361 | 119 | 3238 | 89 | 46 | Japan | Male | 1995-06-19 | 余正麒 | 
+| 95 | Ryu Minhyung | 3358 | 108 | 3271 | 42 | 20 | Korea | Male | 1991-09-21 | 柳珉瀅 | 
+| 97 | Lai Junfu | 3357 | 99 | 3297 | 159 | 84 | Taiwan | Male | 2002-04-08 | 賴均輔 | 
+| 98 | Park Joonhoon | 3355 | 109 | 3260 | 42 | 23 | Korea | Male | 2000-01-14 | 朴鐘勲 | 
+| 99 | Wang Yuanjun | 3354 | 118 | 3238 | 159 | 80 | Taiwan | Male | 1996-03-14 | 王元均 | 
+| 100 | Kim Seongjae | 3354 | 101 | 3295 | 34 | 16 | Korea | Male | 1992-08-11 | 金昇宰 | 
+| 101 | Han Sanghoon | 3351 | 96 | 3304 | 47 | 28 | Korea | Male | 1988-05-16 | 韓尚勲 | 
+| 102 | Yun Chanhee | 3345 | 127 | 3219 | 52 | 24 | Korea | Male | 1990-05-02 | 尹燦熙 | 
+| 103 | Yu Zhiying | 3338 | 121 | 3235 | 70 | 16 | China | Female | 1997-11-23 | 於之瑩 | 
+| 104 | Song Jihoon | 3338 | 92 | 3311 | 41 | 26 | Korea | Male | 1998-02-23 | 宋知勲 | 
+| 105 | Song Gyusang | 3337 | 84 | 3341 | 38 | 20 | Korea | Male | 1998-09-28 | 宋圭相 | 
+| 106 | Kim Junghyun | 3331 | 78 | 3358 | 44 | 22 | Korea | Male | 1991-04-12 | 金庭賢 | 
+| 107 | Wang Shiyi | 3329 | 83 | 3343 | 26 | 16 | China | Male |  | 王世一 | 
+| 108 | Cho Hanseung | 3325 | 103 | 3286 | 63 | 33 | Korea | Male | 1982-11-27 | 趙漢乗 | 
+| 109 | Lee Wondo | 3324 | 100 | 3297 | 38 | 20 | Korea | Male | 1989-05-30 | 李元道 | 
+| 110 | Fukuoka Kotaro | 3321 | 95 | 3305 | 42 | 26 | Japan | Unknown | 2005-12-22 | 福岡航太朗 | 
+| 111 | Lin Junyan | 3317 | 139 | 3174 | 145 | 76 | Taiwan | Male | 1997-11-26 | 林君諺 | 
+| 112 | Hirose Yuichi | 3312 | 129 | 3205 | 37 | 23 | Japan | Male | 2001-08-09 | 広瀬優一 | 
+| 113 | Yamashita Keigo | 3310 | 102 | 3289 | 50 | 17 | Japan | Male | 1978-09-06 | 山下敬吾 | 
+| 114 | Ida Atsushi | 3306 | 141 | 3168 | 42 | 21 | Japan | Male | 1994-03-15 | 伊田篤史 | 
+| 115 | Lee Yeon | 3293 | 88 | 3326 | 45 | 28 | missing | missing | missing | 李沇 | 
+| 116 | Chen Qirui | 3291 | 153 | 3129 | 174 | 101 | Taiwan | Male | 2000-06-15 | 陳祈睿 | 
+| 118 | Lee Changho | 3285 | 134 | 3198 | 62 | 18 | Korea | Male | 1975-07-29 | 李昌鎬 | 
+| 119 | Yoo Ohseong | 3284 | 94 | 3310 | 36 | 19 | missing | missing | missing | 兪旿成 | 
+| 121 | Cho Wankyu | 3282 | 128 | 3213 | 39 | 14 | missing | missing | missing | 趙完珪 | 
+| 122 | Sada Atsushi | 3280 | 105 | 3284 | 76 | 37 | Japan | Male | 1995-12-24 | 佐田篤史 | 
+| 123 | Seki Kotaro | 3278 | 150 | 3153 | 48 | 31 | Japan | Unknown | 2001-11-28 | 関航太郎 | 
+| 124 | Baek Hyeonwoo | 3275 | 122 | 3234 | 27 | 13 | missing | missing | missing | 白現宇 | 
+| 125 | Takao Shinji | 3275 | 131 | 3201 | 33 | 15 | Japan | Male | 1976-10-26 | 高尾紳路 | 
+| 126 | Murakawa Daisuke | 3275 | 137 | 3184 | 57 | 31 | Japan | Male | 1990-12-14 | 村川大介 | 
+| 128 | Wang Chuxuan | 3271 | 149 | 3153 | 31 | 14 | missing | missing | missing | 王楚軒 | 
+| 129 | Hyun Yoobin | 3267 | 130 | 3202 | 53 | 23 |  | Unknown |  | 玄釉斌 | 
+| 130 | Zhou Hongyu | 3262 | 135 | 3190 | 91 | 30 | China | Female |  | 周泓余 | 
+| 131 | Hane Naoki | 3261 | 146 | 3156 | 46 | 18 | Japan | Male | 1976-08-14 | 羽根直樹 | 
+| 132 | Gon Jiwoo | 3259 | 89 | 3325 | 37 | 15 | missing | missing | missing | 琴沚玗 | 
+| 133 | Seto Taiki | 3253 | 140 | 3169 | 33 | 14 | Japan | Male | 1984-03-27 | 瀬戸大樹 | 
+| 134 | Kim Hyeongwoo | 3249 | 115 | 3246 | 29 | 16 | Korea | Male | 1988-03-02 | 金炯佑 | 
+| 135 | Xiao Zhenghao | 3249 | 158 | 3117 | 98 | 46 | Taiwan | Male | 1988-10-05 | 蕭正浩 | 
+| 137 | Kim Eunji | 3245 | 132 | 3200 | 104 | 93 | missing | missing | missing | 金恩持 | 
+| 138 | Cho U | 3244 | 50 | 3467 | 35 | 13 | Japan | Male | 1980-01-20 | 張栩 | 
+| 139 | Xu Jingen | 3238 | 124 | 3232 | 149 | 93 | missing | missing | missing | 徐靖恩 | 
+| 140 | Yuki Satoshi | 3235 | 166 | 3090 | 50 | 23 | Japan | Male | 1972-02-11 | 結城聡 | 
+| 141 | Ahn Kukhyun | 3235 | 162 | 3110 | 40 | 22 | Korea | Male | 1992-07-23 | 安国鉉 | 
+| 142 | Oh Yujin | 3231 | 161 | 3113 | 123 | 57 | Korea | Female | 1998-06-11 | 呉侑珍 | 
+| 144 | Han Sangcho | 3224 | 106 | 3283 | 29 | 17 | missing | missing | missing | 韓相朝 | 
+| 145 | Kim Sedong | 3218 | 152 | 3145 | 36 | 16 | Korea | Male | 1989-02-08 | 金世東 | 
+| 146 | Lin Lixiang | 3218 | 174 | 3056 | 147 | 78 | Taiwan | Male | 1993-09-07 | 林立祥 | 
+| 147 | Otake Yu | 3214 | 151 | 3151 | 46 | 26 | Japan | Male | 2001-11-14 | 大竹優 | 
+| 150 | Kim Beomseo | 3206 | 107 | 3277 | 33 | 24 | missing | missing | missing | 金凡瑞 | 
+| 151 | Jin Siyoung | 3201 | 148 | 3155 | 33 | 16 | Korea | Male | 1989-09-09 | 陳時暎 | 
+| 153 | Wang Shuo | 3200 | 145 | 3159 | 26 | 17 | China | Male |  | 王碩 | 
+| 154 | Motoki Katsuya | 3199 | 111 | 3256 | 46 | 21 | Japan | Male | 1995-08-02 | 本木克弥 | 
+| 155 | Kim Seongji | 3198 | 192 | 2981 | 27 | 14 | missing | missing | missing | 金宣圻 | 
+| 156 | Yoo Changhyuk | 3198 | 65 | 3412 | 53 | 24 | Korea | Male | 1966-04-25 | 劉昌赫 | 
+| 157 | Onishi Ryuhei | 3196 | 164 | 3099 | 35 | 19 | Japan | Male | 2000-03-14 | 大西竜平 | 
+| 158 | Cho Seungah | 3195 | 179 | 3035 | 115 | 44 |  | Unknown | 1998-08-08 | 曺承亜 | 
+| 160 | Oh Byungwoo | 3193 | 154 | 3128 | 31 | 16 | missing | missing | missing | 呉秉祐 | 
+| 162 | Fujisawa Rina | 3185 | 181 | 3034 | 75 | 42 | Japan | Female | 1998-09-18 | 藤沢里菜 | 
+| 164 | Sakai Yuki | 3176 | 112 | 3254 | 34 | 25 | Japan | Unknown | 2004-04-14 | 酒井佑規 | 
+| 165 | Chen Shiyuan | 3174 | 182 | 3033 | 117 | 57 | Taiwan | Male |  | 陳詩淵 | 
+| 166 | Sun Zhe | 3173 | 116 | 3246 | 27 | 17 | Japan | Male | 1996-02-21 | 孫喆 | 
+| 167 | Wang Chunhui | 3170 | 97 | 3303 | 46 | 15 | missing | missing | missing | 王春暉 | 
+| 168 | Kim Yoonyoung | 3167 | 157 | 3118 | 34 | 27 | Korea | Female | 1989-04-22 | 金侖映 | 
+| 169 | Lin Shixun | 3167 | 180 | 3034 | 141 | 77 | Taiwan | Male |  | 林士勛 | 
+| 170 | Gueon Hyojin | 3158 | 133 | 3199 | 86 | 61 | Korea | Female | 1982-03-27 | 権孝珍 | 
+| 172 | Li Wei | 3140 | 169 | 3082 | 103 | 52 | Taiwan | Male |  | 李維 | 
+| 173 | Jian Jingting | 3138 | 195 | 2971 | 137 | 65 | Taiwan | Male |  | 簡靖庭 | 
+| 174 | Li He | 3136 | 183 | 3033 | 66 | 15 | China | Female | 1992 | 李赫 | 
+| 175 | 金珉舒 | 3133 | 187 | 3000 | 41 | 36 | missing | missing | missing | 金珉舒 | 
+| 176 | Fang Ruoxi | 3131 | 123 | 3233 | 65 | 15 | China | Female |  | 方若曦 | 
+| 177 | Ueno Asami | 3129 | 168 | 3087 | 107 | 52 | Japan | Female | 2001-10-26 | 上野愛咲美 | 
+| 178 | Kim Cheayoung | 3129 | 142 | 3168 | 112 | 68 | Korea | Female | 1996-01-15 | 金彩瑛 | 
+| 179 | Wu Yiming | 3111 | 165 | 3099 | 65 | 31 | missing | missing | missing | 呉依銘 | 
+| 182 | Lu Yiquan | 3104 | 184 | 3025 | 134 | 74 | Taiwan | Male |  | 盧奕銓 | 
+| 183 | Kim Seungjun | 3102 | 126 | 3221 | 38 | 24 | Korea | Male | 1973-03-23 | 金承俊 | 
+| 184 | Kim Hyoyoung | 3100 | 159 | 3117 | 32 | 20 | missing | missing | missing | 金孝英 | 
+| 186 | Niu Shite | 3073 | 202 | 2946 | 111 | 53 | missing | missing | missing | 牛詩特 | 
+| 187 | Choi Kyubyeong | 3072 | 136 | 3190 | 41 | 21 | Korea | Male | 1963-05-06 | 崔珪昞 | 
+| 188 | Oh Jeonga | 3072 | 178 | 3037 | 51 | 38 | Korea | Female | 1993-03-24 | 呉政娥 | 
+| 189 | Wu Baiyi | 3067 | 197 | 2957 | 28 | 19 | Japan | Male | 1996-01-26 | 呉柏毅 | 
+| 190 | Yang Bowei | 3060 | 201 | 2949 | 75 | 38 | Taiwan | Male | 1998-01-03 | 楊博崴 | 
+| 192 | 詹宜典 | 3054 | 199 | 2953 | 31 | 26 | missing | missing | missing | 詹宜典 | 
+| 193 | Heo Seohyun | 3049 | 177 | 3045 | 73 | 48 | missing | missing | missing | 許瑞玹 | 
+| 194 | Seo Bongsoo | 3042 | 167 | 3089 | 54 | 29 | Korea | Male | 1953-02-01 | 徐奉洙 | 
+| 196 | Chen Xi | 3036 | 198 | 2955 | 72 | 30 | Taiwan | Male |  | 陳禧 | 
+| 197 | Lin Shuyang | 3026 | 190 | 2984 | 94 | 51 | Taiwan | Male | 1989-09-19 | 林書陽 | 
+| 199 | Kim Dayoung | 3017 | 193 | 2978 | 56 | 33 | Korea | Female |  | 金多瑛 | 
+| 200 | Xu Yuqi | 3017 | 216 | 2873 | 79 | 38 | Taiwan | Male |  | 許育祺 | 
+| 201 | An Kwanwuk | 3016 | 175 | 3055 | 37 | 16 | Korea | Male | 1961-11-08 | 安官旭 | 
+| 202 | Kang Hun | 3009 | 222 | 2847 | 34 | 16 | Korea | Male | 1990-08-21 | 姜勲 | 
+| 205 | Kim Eunseon | 3002 | 203 | 2930 | 49 | 24 | Korea | Female | 1988-09-12 | 金恩善 | 
+| 206 | Lee Youngjoo | 2996 | 209 | 2907 | 42 | 24 | Korea | Female |  | 李映周 | 
+| 207 | Lin Xinwei | 2989 | 219 | 2853 | 56 | 28 | Taiwan | Male |  | 林新為 | 
+| 208 | Li Xiaoxi | 2989 | 163 | 3109 | 64 | 17 | China | Female |  | 李小渓 | 
+| 209 | Nakamura Sumire | 2984 | 194 | 2972 | 111 | 66 | Japan | Unknown | 2009-03-02 | 仲邑菫 | 
+| 210 | Lin Yanchen | 2984 | 207 | 2910 | 78 | 36 | missing | missing | missing | 林彦丞 | 
+| 211 | Kim Soojang | 2977 | 171 | 3073 | 34 | 15 | Korea | Male | 1957-11-15 | 金秀壮 | 
+| 212 | Cho Hyeyeon | 2972 | 234 | 2746 | 50 | 16 | Korea | Female | 1985-06-07 | 趙恵連 | 
+| 213 | Park Jiyeon | 2970 | 210 | 2900 | 65 | 35 | Korea | Female | 1991-05-17 | 朴志娟 | 
+| 214 | Tanaka Koyu | 2969 | 211 | 2895 | 40 | 29 | Japan | Unknown | 2001-06-14 | 田中康湧 | 
+| 215 | Chen Shoulian | 2969 | 217 | 2862 | 70 | 31 | missing | missing | missing | 陳首廉 | 
+| 216 | Chen Weiting | 2968 | 215 | 2877 | 83 | 50 | missing | missing | missing | 陳威廷 | 
+| 217 | Seo Nungwuk | 2965 | 212 | 2891 | 30 | 15 | Korea | Male | 1958-05-05 | 徐能旭 | 
+| 219 | Huang Shiyuan | 2950 | 213 | 2882 | 87 | 42 | Taiwan | Male |  | 黄世元 | 
+| 220 | Nishi Takenobu | 2948 | 188 | 2986 | 38 | 21 | Japan | Male | 1999-09-27 | 西健伸 | 
+| 221 | Lee Minjin | 2948 | 205 | 2924 | 50 | 24 | Korea | Female | 1984-07-11 | 李玟眞 | 
+| 222 | Abe Yoshiki | 2946 | 229 | 2761 | 30 | 15 | Japan | Male | 1996-07-17 | 阿部良希 | 
+| 224 | Xie Yimin | 2945 | 239 | 2726 | 40 | 14 | Japan | Female | 1989-11-16 | 謝依旻 | 
+| 225 | Liu Yaowen | 2941 | 221 | 2850 | 47 | 22 | Taiwan | Male |  | 劉耀文 | 
+| 226 | Kim Chongsu | 2936 | 156 | 3121 | 35 | 18 | Korea | Male | 1962-10-16 | 金鐘秀 | 
+| 227 | Cai Chengwei | 2935 | 226 | 2833 | 86 | 41 | Taiwan | Male |  | 蔡丞韋 | 
+| 230 | Jeong Yujin | 2926 | 218 | 2860 | 69 | 31 | missing | missing | missing | 鄭有珍 | 
+| 231 | Tsuji Shigehito | 2919 | 271 | -293 | 31 | 20 | Japan | Unknown | 2002-03-26 | 辻篤仁 | 
+| 232 | Nyu Eiko | 2910 | 225 | 2834 | 49 | 34 | Japan | Female | 1999-05-12 | 牛栄子 | 
+| 233 | 朴昭律 | 2909 | 227 | 2824 | 32 | 18 | missing | missing | missing | 朴昭律 | 
+| 234 | Kim Miri | 2896 | 200 | 2952 | 51 | 24 | Korea | Female | 1991-03-24 | 金美里 | 
+| 235 | Lu Yuhua | 2895 | 237 | 2736 | 97 | 59 | missing | missing | missing | 盧鈺樺 | 
+| 236 | Zhang Zhehao | 2888 | 228 | 2782 | 44 | 25 | Taiwan | Male |  | 張哲豪 | 
+| 237 | Cho Daehyeon | 2876 | 204 | 2925 | 27 | 14 | Korea | Male | 1959-04-08 | 趙大賢 | 
+| 238 | Yang Zixuan | 2875 | 240 | 2716 | 106 | 53 | Taiwan | Female |  | 楊子萱 | 
+| 240 | Kim Kihun | 2872 | 206 | 2915 | 29 | 14 | Korea | Male |  | 金基憲 | 
+| 241 | Kim Ilhwan | 2862 | 189 | 2984 | 42 | 21 | Korea | Male | 1956-04-28 | 金日煥 | 
+| 244 | Ueno Risa | 2854 | 231 | 2750 | 33 | 19 | Japan | Unknown | 2006-06-24 | 上野梨紗 | 
+| 245 | 荘承濬 | 2850 | 238 | 2733 | 57 | 31 | missing | missing | missing | 荘承濬 | 
+| 249 | Suzuki Ayumi | 2827 | 256 | 2499 | 46 | 23 | Japan | Female | 1983-09-23 | 鈴木歩 | 
+| 250 | Park Seungmun | 2823 | 196 | 2968 | 27 | 13 | Korea | Male | 1964-01-03 | 朴勝文 | 
+| 252 | Zhou Pingqiang | 2810 | 242 | 2679 | 43 | 21 | Taiwan | Male |  | 周平強 | 
+| 253 | Chang Suyeong | 2808 | 191 | 2982 | 28 | 14 | Korea | Male | 1952-09-17 | 張秀英 | 
+| 254 | 張嘉桓 | 2800 | 232 | 2748 | 40 | 21 | missing | missing | missing | 張嘉桓 | 
+| 255 | 黄彦誠 | 2798 | 235 | 2745 | 44 | 27 | missing | missing | missing | 黄彦誠 | 
+| 256 | Kim Dongyeop | 2797 | 220 | 2852 | 29 | 15 | Korea | Male | 1957-01-10 | 金東燁 | 
+| 257 | Paek Seongho | 2797 | 208 | 2907 | 31 | 15 | Korea | Male | 1956-02-10 | 白成豪 | 
+| 258 | Zhou Yinnan | 2785 | 241 | 2715 | 40 | 23 | Taiwan | Male |  | 周尹南 | 
+| 259 | Lin Yuxiang | 2781 | 244 | 2643 | 39 | 22 | Taiwan | Unknown |  | 林宇翔 | 
+| 261 | Jeong Daesang | 2764 | 230 | 2754 | 30 | 16 | Korea | Male | 1957-09-08 | 鄭大相 | 
+| 262 | Kim Kyeongeun | 2763 | 224 | 2844 | 48 | 31 | missing | missing | missing | 金京垠 | 
+| 263 | 陳劭全 | 2758 | 233 | 2746 | 56 | 35 | missing | missing | missing | 陳劭全 | 
+| 264 | Lin Shimin | 2755 | 254 | 2518 | 44 | 21 | Taiwan | Male |  | 林世民 | 
+| 265 | 施景尭 | 2744 | 236 | 2743 | 53 | 31 | missing | missing | missing | 施景尭 | 
+| 266 | Zeng Pinjie | 2738 | 259 | 2434 | 60 | 27 | missing | missing | missing | 曾品傑 | 
+| 267 | Lin Jiehan | 2738 | 253 | 2519 | 36 | 17 | Taiwan | Male |  | 林傑漢 | 
+| 268 | 林瀚彰 | 2719 | 246 | 2612 | 57 | 31 | missing | missing | missing | 林瀚彰 | 
+| 269 | Yu Lijun | 2718 | 245 | 2614 | 89 | 50 | Taiwan | Female |  | 兪俐均 | 
+| 270 | 孫偉勛 | 2714 | 250 | 2592 | 63 | 29 | missing | missing | missing | 孫偉勛 | 
+| 271 | 王智弘 | 2695 | 251 | 2587 | 27 | 13 | missing | missing | missing | 王智弘 | 
+| 272 | 黄袖圃 | 2692 | 252 | 2557 | 60 | 30 | missing | missing | missing | 黄袖圃 | 
+| 273 | Bai Xinhui | 2673 | 260 | 2414 | 71 | 33 | missing | missing | missing | 白昕卉 | 
+| 274 | Gao Yun | 2664 | 257 | 2463 | 35 | 15 | Taiwan | Unknown |  | 高昀 | 
+| 276 | Chen Yida | 2644 | 263 | 2308 | 31 | 16 | Taiwan | Male | 1983-11-23 | 陳逸達 | 
+| 277 | 彭鐏徳 | 2632 | 255 | 2516 | 35 | 19 | missing | missing | missing | 彭鐏徳 | 
+| 278 | 彭景華 | 2631 | 243 | 2674 | 33 | 20 | missing | missing | missing | 彭景華 | 
+| 279 | Su Shengfang | 2613 | 258 | 2462 | 62 | 34 | Taiwan | Female |  | 蘇聖芳 | 
+| 280 | Ding Shaojie | 2606 | 264 | 2284 | 42 | 21 | Taiwan | Male |  | 丁少傑 | 
+| 281 | Zhou Keping | 2600 | 247 | 2601 | 33 | 20 | Taiwan | Male |  | 周可平 | 
+| 282 | 張庭維 | 2592 | 249 | 2593 | 38 | 17 | missing | missing | missing | 張庭維 | 
+| 283 | 黄偉 | 2582 | 261 | 2410 | 39 | 19 | missing | missing | missing | 黄偉 | 
+| 284 | 尤浩宇 | 2545 | 262 | 2378 | 40 | 30 | missing | missing | missing | 尤浩宇 | 
+| 286 | Lin Yuting | 2463 | 266 | 2139 | 54 | 24 | missing | missing | missing | 林鈺娗 | 
+| 287 | Zhang Kaixin | 2460 | 268 | 2025 | 42 | 17 | Taiwan | Female | 1980-07-04 | 張凱馨 | 
+| 288 | Liu Yifang | 2438 | 265 | 2190 | 46 | 23 | missing | missing | missing | 劉一芳 | 
+| 289 | 李奎漢 | 2349 | 267 | 2070 | 26 | 13 | missing | missing | missing | 李奎漢 | 
 
 ## Newly added games
 
 | **comp** | **black** | **white** | **result** | **date** | **kifu_link** | **who_win** | **win_by** | 
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 第2期韓国棋院選手権戦グループリーグ勝者戦 | 李元栄 | 朴鍵昊 | W+0.5 | 2023-03-11 | kifucontents.php?id=NdEnrZ3zyRfLQ8YplxFiDw%3D%3D | W | 0.5 | 
-| 2022-2023韓国囲碁リーグ | 張瑞傑 | 金庭賢 | W+1.5 | 2023-03-10 | kifucontents.php?id=FJRa6K9CI9KHd2y4evlkQg%3D%3D | W | 1.5 | 
-| 2022-2023韓国囲碁リーグ | 権孝珍 | 福岡航太朗 | B+R | 2023-03-10 | kifucontents.php?id=jFKiK90zI%2FH3kxjnKoOdvg%3D%3D | B | R | 
-| 2022-2023韓国囲碁リーグ | 大西竜平 | 卞相壹 | W+R | 2023-03-10 | kifucontents.php?id=bUuGY7CAU1x0UISyGRkoQA%3D%3D | W | R | 
-| 2022-2023韓国囲碁リーグ | 洪性志 | 小池芳弘 | B+T | 2023-03-10 | kifucontents.php?id=FlrctDz6UlZlw0Ho2aY3Gw%3D%3D | B | T | 
-| 第10回大舟杯プロシニア最強者戦1回戦 | 姜多情 | 金栄三 | B+10.5 | 2023-03-10 | kifucontents.php?id=YkOBO5s9aJ%2FB0sbOE2ANsw%3D%3D | B | 10.5 | 
+| 第47期棋聖戦挑戦手合七番勝負第6局  | 一力遼 | 芝野虎丸 | B+R | 2023-03-10 | kifucontents.php?id=sYJerp%2FyMsMwMuv6VgB8cA%3D%3D | B | R | 
+| 第5回夢百合杯台湾予選 | 盧奕銓 | 黄世元 | B+R | 2023-03-10 | kifucontents.php?id=JYiJM4AksKiK%2FkP14AVdOw%3D%3D | B | R | 
+| 第5回夢百合杯台湾予選 | 徐靖恩 | 牛詩特 | B+R | 2023-03-10 | kifucontents.php?id=Sg09Q1Un3gAxv5w%2BXc%2Blww%3D%3D | B | R | 
+| 第5回夢百合杯台湾予選 | 陳劭全 | 林瀚彰 | B+R | 2023-03-10 | kifucontents.php?id=1DgSusaL7XfqwFmwwGLWew%3D%3D | B | R | 
+| 第37期中国囲碁天元戦3回戦 | 連笑 | 柁嘉熹 | B+R | 2023-03-10 | kifucontents.php?id=4OcFcJxGS%2BQbjFgeXvIJjA%3D%3D | B | R | 
+| 2022-2023ハナ銀行MZ囲碁スーパーマッチ第9局 | 申眞諝 | 朴廷桓 | B+R | 2023-03-10 | kifucontents.php?id=TnFfOlEFzn1YZLe81y32sQ%3D%3D | B | R | 
+| 第10回大舟杯プロシニア最強者戦1回戦 | 権孝珍 | 李昌鎬 | B+R | 2023-03-10 | kifucontents.php?id=H5AbeI3%2BvWSI7JO7X1hdLQ%3D%3D | B | R | 
+| 第5回夢百合杯台湾予選 | 王元均 | 林士勛 | W+1/4 | 2023-03-10 | kifucontents.php?id=fl7LMVpCulMVZeHjNKF%2FGw%3D%3D | W | 1/4 | 
+| 第5回夢百合杯台湾予選 | 陳威廷 | 陳祈睿 | W+R | 2023-03-10 | kifucontents.php?id=IropZ74mR7M3wmjnKskYdw%3D%3D | W | R | 
+| 第5回夢百合杯台湾予選 | 李維 | 林君諺 | W+R | 2023-03-10 | kifucontents.php?id=CGJ5qKxQLOUhktjUV21EVQ%3D%3D | W | R | 
+| 第5回夢百合杯台湾予選 | 劉一芳 | 林立祥 | W+R | 2023-03-10 | kifucontents.php?id=94%2B%2F4SXkZrwfXLtS8UAETQ%3D%3D | W | R | 
+| 第37期中国囲碁天元戦3回戦 | 辜梓豪 | 趙晨宇 | W+¼ | 2023-03-10 | kifucontents.php?id=bHr1Mj6ByoJN3iNMR2jjUA%3D%3D | W | ¼ | 
+| 第37期中国囲碁天元戦3回戦 | 蒋其潤 | 丁浩 | W+1¼ | 2023-03-10 | kifucontents.php?id=JnmDJ%2FZkHhPvvhUf5ogdJA%3D%3D | W | 1¼ | 
+| 第37期中国囲碁天元戦3回戦 | 謝科 | 党毅飛 | W+R | 2023-03-10 | kifucontents.php?id=wcviF9ufBNqxKP88xsYYww%3D%3D | W | R | 

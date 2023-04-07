@@ -147,13 +147,16 @@ n_1yr = @chain DataFrame(player=vcat(last_1_years.black, last_1_years.white)) be
 end
 
 player_info = Dataset("player-info.parquet") |> DataFrame
+player_names_mapping = Dataset("player_names_mapping.parquet") |> DataFrame
 
 d = @chain c begin
     @transform :Rating = round(Int, :Rating + rating_adjustment)
     @transform :Rating_1yr = round(Int, :Rating_1yr + rating_adjustment)
     leftjoin(n_2yr, on=:player)
     leftjoin(n_1yr, on=:player)
-    leftjoin(player_info, on=:player=>:name)
+    leftjoin(player_names_mapping, on=:player=>:name)
+    @transform :english = coalesce(:english, :player)
+    leftjoin(player_info, on=:english)
     select(:rank, :english=>:name, :Rating, :rank_1yr, :Rating_1yr, :n, :n_1yr, :country, :sex, :date_of_birth, :player)
     sort(:rank)
 end

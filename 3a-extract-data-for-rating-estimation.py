@@ -32,10 +32,22 @@ query = """
     SELECT
         *
     FROM
-        `testing-of-bigquery.shoulderhit.player_info`
+        `testing-of-bigquery.shoulderhit.player_information`
 """
 query_job = client.query(query)  # Make an API request.
 
 # this data will be used to calculate the ratings
 tmp = query_job.to_dataframe()
 tmp.to_parquet('player-info.parquet')
+
+query = """
+    SELECT
+        *
+    FROM
+        `testing-of-bigquery.shoulderhit.player_names_mapping`
+"""
+query_job = client.query(query)  # Make an API request.
+
+# this data will be used to calculate the ratings
+tmp = query_job.to_dataframe()
+tmp.to_parquet('player_names_mapping.parquet')
