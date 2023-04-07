@@ -256,9 +256,3 @@
 
 | **comp** | **black** | **white** | **result** | **date** | **kifu_link** | **who_win** | **win_by** | 
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 第19回アジア競技大会中国予選 | 丁浩 | 党毅飛 | B+R | 2023-04-07 | kifucontents.php?id=8iUD%2FuNdOFih3CiQ22hJlA%3D%3D | B | R | 
-| 第19回アジア競技大会中国予選 | 楊楷文 | 連笑 | B+R | 2023-04-07 | kifucontents.php?id=hfCsoXa0DSYiClLhD9vcMA%3D%3D | B | R | 
-| 第27期馬橋杯中国囲碁新人王戦2回戦 | 胡子豪 | 王春暉 | W+R | 2023-04-07 | kifucontents.php?id=e9QbTqlxwaxDptL3s%2FzF2A%3D%3D | W | R | 
-| 第10回大舟杯プロシニア最強者戦2回戦 | 劉昌赫 | 李基燮 | B+R | 2023-04-07 | kifucontents.php?id=4KLiUQ6UX1EjEb3veqaHYQ%3D%3D | B | R | 
-| 第10回大舟杯プロシニア最強者戦2回戦 | 姜多情 | 金恵敏 | W+7.5 | 2023-04-07 | kifucontents.php?id=jG%2F%2FXfxvcBtSo0zUhyckXw%3D%3D | W | 7.5 | 
-| 第28回GSカルテックス杯プロ棋戦1回戦 | 崔哲瀚 | 許映皓 | W+R | 2023-04-07 | kifucontents.php?id=JTGFB1uDjOlnbw8PohNkzg%3D%3D | W | R | 
