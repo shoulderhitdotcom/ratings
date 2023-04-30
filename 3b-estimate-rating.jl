@@ -2,7 +2,7 @@ using Pkg;
 Pkg.activate(".");
 
 using Chain: @chain
-using DataFrameMacros: @subset, @transform, @combine, @m
+using DataFrameMacros: @subset, @transform, @combine
 using DataFrames: DataFrame, innerjoin, groupby, select, stack, Not, unstack, rename, leftjoin
 using Dates: Date
 using GLM: glm, term, Term, Binomial, LogitLink, coefnames, coef
