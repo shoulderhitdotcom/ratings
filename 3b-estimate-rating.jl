@@ -186,8 +186,10 @@ df_to_md(e, "docs/index.md")
 new_games = Dataset("additions-today.parquet") |> DataFrame
 
 io = open("docs/index.md", "a")
-writeln("io", "noyis = no one younger is stronger")
-writeln("io", "noois = no one older is stronger")
+
+writeln(io, "noyis = no one younger is stronger")
+writeln(io, "noois = no one older is stronger")
+
 writeln(io, "\n## Newly added games\n")
 df_to_md(new_games, io)
 
