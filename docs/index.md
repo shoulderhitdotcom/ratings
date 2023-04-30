@@ -252,6 +252,8 @@
 | 278 | Lin Yuting | 2411 | 278 | 2107 | 52 | 25 | missing | missing | missing | 林鈺娗 | missing | missing | 
 | 279 | Zhang Kaixin | 2373 | 280 | 2020 | 35 | 16 | Taiwan | Female | 1980-07-04 | 張凱馨 | missing | missing | 
 | 280 | Liu Yifang | 2358 | 277 | 2151 | 45 | 23 | missing | missing | missing | 劉一芳 | missing | missing | 
+noyis = no one younger is stronger
+noois = no one older is stronger
 
 ## Newly added games
 
