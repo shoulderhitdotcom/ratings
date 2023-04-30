@@ -2,7 +2,7 @@ using Pkg;
 Pkg.activate(".");
 
 using Chain: @chain
-using DataFrameMacros: @subset, @transform, @combine
+using DataFrameMacros: @subset, @transform, @combine, @m
 using DataFrames: DataFrame, innerjoin, groupby, select, stack, Not, unstack, rename, leftjoin
 using Dates: Date
 using GLM: glm, term, Term, Binomial, LogitLink, coefnames, coef
@@ -106,9 +106,11 @@ adj = (b.strength_mean-b.strength_1yr_mean)[1]
 
 c = @chain DataFrame(player=coefnames(output_1yr)[3:end], strength=coef(output_1yr)[3:end]) begin
     sort(:strength, rev=true)
+    @subset :strength != 0 # these are usually the NA values
     @transform :rank_1yr = @bycol 1:length(:player)
     rename(:strength => :strength_1yr)
     innerjoin(a, on=:player)
+    @subset :strength != 0 # these are usually the NA values
     sort(:rank)
     @transform :strength_1yr = :strength_1yr + adj
     @transform :Rating = :strength * 400 / log(10)
@@ -161,12 +163,32 @@ d = @chain c begin
     sort(:rank)
 end
 
-df_to_md(d, "docs/index.md")
+
+# trying to figure out which player has no stronger older player
+# 1) only young plyers can stronger  (noows)
+# 2) no one younger is stronger    (noyis)
+e = @chain d begin
+    @transform :date_of_birth = @passmissing Date(:date_of_birth)
+    @transform :youngest = @bycol accumulate(max, :date_of_birth)
+    @transform :noyis = @passmissing begin
+        :date_of_birth == :youngest ? "noyis" : ""
+    end
+    @transform :oldest = @bycol accumulate(min, :date_of_birth)
+    @transform :noows = @passmissing begin
+        :date_of_birth > :oldest ? "" : "noois"
+    end
+    select(Not([:youngest, :oldest]))
+end
+
+df_to_md(e, "docs/index.md")
 
 
 new_games = Dataset("additions-today.parquet") |> DataFrame
 
 io = open("docs/index.md", "a")
+writeln("io", "noyis = no one younger is stronger")
+writeln("io", "noois = no one older is stronger")
 writeln(io, "\n## Newly added games\n")
 df_to_md(new_games, io)
+
 close(io)
