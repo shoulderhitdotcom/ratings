@@ -253,6 +253,7 @@
 | 278 | Lin Yuting | 2412 | 278 | 2105 | 52 | 24 | missing | missing | missing | 林鈺娗 | missing | missing | 
 | 279 | Zhang Kaixin | 2374 | 280 | 2015 | 35 | 16 | Taiwan | Female | 1980-07-04 | 張凱馨 | missing | missing | 
 | 280 | Liu Yifang | 2359 | 277 | 2147 | 45 | 23 | missing | missing | missing | 劉一芳 | missing | missing | 
+
 noyis = no one younger is stronger
 noois = no one older is stronger
 
