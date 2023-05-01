@@ -249,16 +249,6 @@
 | 277 | Lin Yuting | 2448 | 271 | 2149 | 51 | 23 | missing | missing | missing | 林鈺娗 | missing | missing | 
 | 278 | Zhang Kaixin | 2398 | 273 | 2046 | 37 | 16 | Taiwan | Female | 1980-07-04 | 張凱馨 | missing | missing | 
 | 279 | Liu Yifang | 2392 | 270 | 2184 | 44 | 22 | missing | missing | missing | 劉一芳 | missing | missing | 
-noyis = no one younger is stronger
-
-noyis = no one younger is stronger
-noois = no one older is stronger
-
-
-## Newly added games
-
-| **comp** | **black** | **white** | **result** | **date** | **kifu_link** | **who_win** | **win_by** | 
-| --- | --- | --- | --- | --- | --- | --- | --- |
 
 noyis = no one younger is stronger
 noois = no one older is stronger
