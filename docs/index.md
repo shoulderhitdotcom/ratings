@@ -265,13 +265,3 @@ noois = no one older is stronger
 
 | **comp** | **black** | **white** | **result** | **date** | **kifu_link** | **who_win** | **win_by** | 
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 第19回アジア競技大会中国予選 | 陸敏全 | 李赫 | W+¾ | 2023-05-27 | kifucontents.php?id=1VvYQLvurOzj7mMeE%2F9pLw%3D%3D | W | ¾ | 
-| 第19回アジア競技大会中国予選 | 方若曦 | 呉依銘 | W+R | 2023-05-27 | kifucontents.php?id=U%2B9h6EGgxEbazcm5OsBw3Q%3D%3D | W | R | 
-| 第19回アジア競技大会中国予選 | 於之瑩 | 周泓余 | W+R | 2023-05-27 | kifucontents.php?id=3efirWCETwa4Z2kQ8nABVA%3D%3D | W | R | 
-| 第19回アジア競技大会中国予選 | 李赫 | 唐嘉雯 | W+R | 2023-05-27 | kifucontents.php?id=THLf66bVRVO9KM6tGetnYg%3D%3D | W | R | 
-| 第2期韓国棋院選手権戦16強戦 | 宋知勲 | 姜東潤 | W+R | 2023-05-27 | kifucontents.php?id=G2uSnmo%2Bv%2BFa4Pf6kSwNMQ%3D%3D | W | R | 
-| 2022-2023韓国囲碁リーグ準プレーオフ第2戦 | 朴炫洙 | 朴永訓 | W+R | 2023-05-26 | kifucontents.php?id=UvtOxuJ1KI9AAkP%2Fvg7TKg%3D%3D | W | R | 
-| 2022-2023韓国囲碁リーグ準プレーオフ第2戦 | 兪旿成 | 尹畯相 | W+R | 2023-05-26 | kifucontents.php?id=BlNyt9X5tF5R0p6mGJ%2F5jA%3D%3D | W | R | 
-| 2022-2023韓国囲碁リーグ準プレーオフ第2戦 | 崔精 | 金眞輝 | B+R | 2023-05-26 | kifucontents.php?id=PxLWKewVqyss2y%2FFpPqP3A%3D%3D | B | R | 
-| 2022-2023韓国囲碁リーグ準プレーオフ第2戦 | 朴鐘勲 | 洪茂鎭 | B+0.5 | 2023-05-26 | kifucontents.php?id=YVTKLYMhd3kCj7Wb3giUfw%3D%3D | B | 0.5 | 
-| 2022-2023韓国囲碁リーグ準プレーオフ第2戦 | 申旻埈 | 朴廷桓 | W+R | 2023-05-26 | kifucontents.php?id=VwRMWF8XkzERJ%2Bvx%2FRz1rQ%3D%3D | W | R | 
