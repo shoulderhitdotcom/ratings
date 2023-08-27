@@ -261,10 +261,3 @@ noois = no one older is stronger
 
 | **comp** | **black** | **white** | **result** | **date** | **kifu_link** | **who_win** | **win_by** | 
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2023晋城国際囲碁招待戦決勝 | 結城聡 | 武宮正樹 | B+¾ | 2023-08-26 | kifucontents.php?id=mz4n%2B4p%2FoaX5rXqWOOEG3g%3D%3D | B | ¾ | 
-| 2023晋城国際囲碁招待戦準決勝 | 芮廼偉 | 武宮正樹 | W+R | 2023-08-26 | kifucontents.php?id=SCpPwuNejyugk7wOkE3J5A%3D%3D | W | R | 
-| 2023晋城国際囲碁招待戦準決勝 | 結城聡 | 曺薫鉉 | B+R | 2023-08-26 | kifucontents.php?id=6E%2FcIzlXxP2YC1l4Y%2BsBZw%3D%3D | B | R | 
-| 第28回三星火災杯中国予選 | 柯潔 | 党毅飛 | W+1.5 | 2023-08-26 | kifucontents.php?id=k6oJNTo228zFhuWtNxMqqA%3D%3D | W | 1.5 | 
-| 第28回三星火災杯中国予選 | 王星昊 | 楊鼎新 | B+R | 2023-08-26 | kifucontents.php?id=9XEGqyg03VAmGUMIYWaFrA%3D%3D | B | R | 
-| 第2期韓国棋院選手権戦16強戦勝者戦 | 卞相壹 | 安成浚 | B+R | 2023-08-26 | kifucontents.php?id=q%2Bf1FO6a%2B7o2OvcmcbemTQ%3D%3D | B | R | 
-| 第28回三星火災杯韓国予選 | 朴永訓 | 李映九 | W+R | 2023-08-26 | kifucontents.php?id=KKTJ8hLgXsxEJ2fAcVgwGw%3D%3D | W | R | 
