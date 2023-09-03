@@ -257,16 +257,3 @@ noois = no one older is stronger
 
 | **comp** | **black** | **white** | **result** | **date** | **kifu_link** | **who_win** | **win_by** | 
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 第28回三星火災杯中国予選 | 周泓余 | 於之瑩 | B+R | 2023-09-02 | kifucontents.php?id=LzLhGb1QH35Ed%2BTNqs5jRQ%3D%3D | B | R | 
-| 第28回三星火災杯中国予選 | 李欽誠 | 范廷鈺 | B+0.5 | 2023-09-02 | kifucontents.php?id=z5JAPAuFpOcp5Hf7E7qEBg%3D%3D | B | 0.5 | 
-| 2023蔚山広域市長杯全国囲碁大会プロシニア最強戦2回戦 | 金承俊 | 曺薫鉉 | B+R | 2023-09-02 | kifucontents.php?id=9v2gcntyr%2B1dLP3djbLgng%3D%3D | B | R | 
-| 2023蔚山広域市長杯全国囲碁大会プロシニア最強戦2回戦 | 徐奉洙 | 梁建 | B+1.5 | 2023-09-02 | kifucontents.php?id=d1M%2F9D7bpWKRBPO8ljCrew%3D%3D | B | 1.5 | 
-| 2023蔚山広域市長杯全国囲碁大会プロシニア最強戦2回戦 | 劉昌赫 | 崔明勲 | W+R | 2023-09-02 | kifucontents.php?id=DE0J9KVV0a3lnUvMTnAhow%3D%3D | W | R | 
-| 2023蔚山広域市長杯全国囲碁大会プロシニア最強戦2回戦 | 朴勝文 | 李昌鎬 | W+R | 2023-09-02 | kifucontents.php?id=TdrULJhHaEwOxN4Fnby62w%3D%3D | W | R | 
-| 2023蔚山広域市長杯全国囲碁大会プロシニア最強戦1回戦 | 崔明勲 | 権孝珍 | B+R | 2023-09-02 | kifucontents.php?id=7OF8aMiGSMGUwN%2Fik%2FLnTg%3D%3D | B | R | 
-| 2023蔚山広域市長杯全国囲碁大会プロシニア最強戦1回戦 | 梁建 | 李聖宰 | B+R | 2023-09-02 | kifucontents.php?id=Drxp14OE%2FNJMyNkJG9zYlA%3D%3D | B | R | 
-| 2023蔚山広域市長杯全国囲碁大会プロシニア最強戦1回戦 | 白大鉉 | 金承俊 | W+R | 2023-09-02 | kifucontents.php?id=zYYTvnWmOYcDqe54x71gLw%3D%3D | W | R | 
-| 2023蔚山広域市長杯全国囲碁大会プロシニア最強戦1回戦 | 尹炫晳 | 朴勝文 | W+1.5 | 2023-09-02 | kifucontents.php?id=%2Bh2Y%2F2aIuA9cjKjzhAzP1w%3D%3D | W | 1.5 | 
-| 2023韓国女子囲碁リーグ | 金湊笌 | 仲邑菫 | W+R | 2023-09-01 | kifucontents.php?id=y7MNsAv1jDM9LQIWpHlu9g%3D%3D | W | R | 
-| 2023韓国女子囲碁リーグ | 李度弦 | 金珉舒 | B+R | 2023-09-01 | kifucontents.php?id=PA%2FqVeaspTKAVxGToLUrkg%3D%3D | B | R | 
-| 2023韓国女子囲碁リーグ | 金多瑛 | 呉侑珍 | B+R | 2023-09-01 | kifucontents.php?id=RHY%2FBzlVAJ7q39%2FqBp6bFA%3D%3D | B | R | 
