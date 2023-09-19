@@ -52,6 +52,7 @@ function make_glm_data(last_2_years, PLAYERS_W_ENOUGH_GAMES)
     end
 
     last_2_years2 = @chain last_2_years1 begin
+        @subset :black != :white # there's 李小渓 vs 李小渓 game so just remove; not big deal
         stack([:black, :white], [:komi, :who_win, :rowid])
         @transform :side = :variable == "black" ? 1 : -1
         select(Not(:variable))
@@ -68,11 +69,12 @@ function make_glm_data(last_2_years, PLAYERS_W_ENOUGH_GAMES)
 
     end
 
+    cols_to_remove = intersect([:rowid, :komi, Symbol("0.0"), Symbol("-1.0")], Symbol.(names(last_2_years3)))
     last_2_years4 = @chain last_2_years1 begin
         @transform :target = :who_win == "B"
         select(:komi, :rowid, :target)
         innerjoin(last_2_years3, on=:rowid)
-        select(Not([:rowid, :komi, Symbol("0.0"), Symbol("-1.0")]))
+        select(Not(cols_to_remove))
     end
 
     return last_2_years4
