@@ -255,12 +255,3 @@ noois = no one older is stronger
 
 | **comp** | **black** | **white** | **result** | **date** | **kifu_link** | **who_win** | **win_by** | 
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 第50期天元戦予選 | 瀬戸大樹 | 渡辺寛大 | B+R | 2023-09-21 | kifucontents.php?id=RDip%2BlTfpSLbNfjE85mkgg%3D%3D | B | R | 
-| 第49期碁聖戦予選 | 井口豊秀 | 山下敬吾 | W+R | 2023-09-21 | kifucontents.php?id=mEDNUXkFsEwIYInnmKx7yg%3D%3D | W | R | 
-| 第49期碁聖戦予選 | 三谷哲也 | 張栩 | B+R | 2023-09-21 | kifucontents.php?id=iZghorx0A%2F0BschIScrUHg%3D%3D | B | R | 
-| 第48期棋聖戦Cリーグ | 結城聡 | 鶴山淳志 | B+0.5 | 2023-09-21 | kifucontents.php?id=SQSnzYgkakIObyXakBuwiQ%3D%3D | B | 0.5 | 
-| 第16期棋王戦（台湾）リーグ | 王元均 | 蕭正浩 | W+R | 2023-09-21 | kifucontents.php?id=qZai12SGd6tmMOzn5Giizg%3D%3D | W | R | 
-| 第5回聶衛平杯中国予選 | 胡子豪 | 田沐沐 | B+R | 2023-09-21 | kifucontents.php?id=Xsl0Pf3eKWfmJXyKI%2FyL%2FA%3D%3D | B | R | 
-| 第46期名人戦（韓国）2回戦 | 卞相壹 | 朴鐘勲 | B+R | 2023-09-21 | kifucontents.php?id=WdU7U8w0%2BFXR2WoaPV%2FJ2g%3D%3D | B | R | 
-| 2023韓国シニア囲碁リーグ | 車敏洙 | 李相勲 | W+R | 2023-09-21 | kifucontents.php?id=QVc%2BJb9LjgkuG3GfDLfeoQ%3D%3D | W | R | 
-| 2023韓国シニア囲碁リーグ | 金基憲 | 劉昌赫 | W+R | 2023-09-21 | kifucontents.php?id=2Y4b%2B4BdNzqXQ7%2B%2Fb2fi7Q%3D%3D | W | R | 
