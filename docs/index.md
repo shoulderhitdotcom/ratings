@@ -253,12 +253,3 @@ noois = no one older is stronger
 
 | **comp** | **black** | **white** | **result** | **date** | **kifu_link** | **who_win** | **win_by** | 
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 第19回アジア競技大会囲碁男子個人戦予選第2戦 | 柯潔 | 賴均輔 | B+R | 2023-09-24 | kifucontents.php?id=T8HTVRCIVqRfduUXwjD4TA%3D%3D | B | R | 
-| 第19回アジア競技大会囲碁男子個人戦予選第1戦 | 申眞諝 | 楊鼎新 | B+R | 2023-09-24 | kifucontents.php?id=Bdev5dQRzgauHBHSJV8%2Fdw%3D%3D | B | R | 
-| 第19回アジア競技大会囲碁男子個人戦予選第1戦 | 朴廷桓 | 柯潔 | W+R | 2023-09-24 | kifucontents.php?id=9q7DJ069MzNyhAr7hihN9g%3D%3D | W | R | 
-| 第19回アジア競技大会囲碁男子個人戦予選第1戦 | 一力遼 | 曽富康 | B+R | 2023-09-24 | kifucontents.php?id=FIccuxPyIxMVHOBdvl0IjQ%3D%3D | B | R | 
-| 第5回聶衛平杯中国予選 | 陳家瑞 | 李昊潼 | W+R | 2023-09-24 | kifucontents.php?id=OnXqWMoS%2FV%2BzrG8CK035cQ%3D%3D | W | R | 
-| 第5回聶衛平杯中国予選 | 胡子豪 | 黄邱鉉 | B+R | 2023-09-24 | kifucontents.php?id=MqqYfA32nsXKyUSlpZGyeQ%3D%3D | B | R | 
-| 2023韓国女子囲碁リーグ | 金湊笌 | 金恩善 | B+R | 2023-09-23 | kifucontents.php?id=vIuVkgrrsAYb5DTn3mymFQ%3D%3D | B | R | 
-| 2023韓国女子囲碁リーグ | 趙恵連 | 金珉舒 | B+R | 2023-09-23 | kifucontents.php?id=6ej8S%2Bz%2FJRE1mIMoR4juJg%3D%3D | B | R | 
-| 2023韓国女子囲碁リーグ | 金多瑛 | 金彩瑛 | W+R | 2023-09-23 | kifucontents.php?id=1dxYA5soiUAgv%2BbL1W4kUg%3D%3D | W | R | 
