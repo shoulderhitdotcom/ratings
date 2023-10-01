@@ -247,19 +247,3 @@ noois = no one older is stronger
 
 | **comp** | **black** | **white** | **result** | **date** | **kifu_link** | **who_win** | **win_by** | 
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 第19回アジア競技大会囲碁男子団体戦予選第4戦 | 趙晨宇 | 卞相壹 | B+R | 2023-09-30 | kifucontents.php?id=s20LsQQLQtSgdAw2OOFtaQ%3D%3D | B | R | 
-| 第19回アジア競技大会囲碁男子団体戦予選第4戦 | 金明訓 | 芈昱廷 | B+R | 2023-09-30 | kifucontents.php?id=8lsPxUug%2FLC1vCVBbdVDPw%3D%3D | B | R | 
-| 第19回アジア競技大会囲碁男子団体戦予選第4戦 | 楊鼎新 | 朴廷桓 | W+R | 2023-09-30 | kifucontents.php?id=7vdG5Y6hgM6NjFy61VkWvA%3D%3D | W | R | 
-| 第19回アジア競技大会囲碁男子団体戦予選第4戦 | 申眞諝 | 柯潔 | B+R | 2023-09-30 | kifucontents.php?id=5PUp2p%2BwAJr7IPl78IjjzQ%3D%3D | B | R | 
-| 第19回アジア競技大会囲碁男子団体戦予選第4戦 | 楊楷文 | 申旻埈 | W+R | 2023-09-30 | kifucontents.php?id=GC9Ybt7K%2FyObkmDjl3Y3bA%3D%3D | W | R | 
-| 第19回アジア競技大会囲碁女子団体戦予選第4戦 | 金恩持 | 上野愛咲美 | W+1¼ | 2023-09-30 | kifucontents.php?id=pSU1IOgoWdBUjqCSpe2PYA%3D%3D | W | 1¼ | 
-| 第19回アジア競技大会囲碁女子団体戦予選第4戦 | 上野梨紗 | 呉侑珍 | W+R | 2023-09-30 | kifucontents.php?id=lRxfMD%2B55b9ZdfBlISh%2B8A%3D%3D | W | R | 
-| 第19回アジア競技大会囲碁女子団体戦予選第4戦 | 崔精 | 藤沢里菜 | B+R | 2023-09-30 | kifucontents.php?id=WtjmVwEloIlj6B8Kwf6cBw%3D%3D | B | R | 
-| 第19回アジア競技大会囲碁男子団体戦予選第3戦 | 関航太郎 | 卞相壹 | W+R | 2023-09-30 | kifucontents.php?id=J9uPjrzWFRVbX9mWODo69g%3D%3D | W | R | 
-| 第19回アジア競技大会囲碁男子団体戦予選第3戦 | 金明訓 | 芝野虎丸 | B+R | 2023-09-30 | kifucontents.php?id=Ve7AMWvxy%2BMULaUZg0dujw%3D%3D | B | R | 
-| 第19回アジア競技大会囲碁男子団体戦予選第3戦 | 一力遼 | 朴廷桓 | W+R | 2023-09-30 | kifucontents.php?id=UcoTr8II2SsracBtzQBRwQ%3D%3D | W | R | 
-| 第19回アジア競技大会囲碁男子団体戦予選第3戦 | 申眞諝 | 佐田篤史 | B+R | 2023-09-30 | kifucontents.php?id=HZfwxnosM9sF1Moc45RnYA%3D%3D | B | R | 
-| 第19回アジア競技大会囲碁男子団体戦予選第3戦 | 井山裕太 | 申旻埈 | W+R | 2023-09-30 | kifucontents.php?id=vJqa%2BHc4z7mRCBm7PLrGqA%3D%3D | W | R | 
-| 第19回アジア競技大会囲碁女子団体戦予選第3戦 | 金恩持 | 呉依銘 | W+R | 2023-09-30 | kifucontents.php?id=uqxQoYoNfkZZRLJoFokADQ%3D%3D | W | R | 
-| 第19回アジア競技大会囲碁女子団体戦予選第3戦 | 於之瑩 | 呉侑珍 | W+2¼ | 2023-09-30 | kifucontents.php?id=qQ%2BOTudpME00MIOy1XW6Ow%3D%3D | W | 2¼ | 
-| 第19回アジア競技大会囲碁女子団体戦予選第3戦 | 崔精 | 李赫 | B+R | 2023-09-30 | kifucontents.php?id=R%2FgYoZqyY3ORdC6rQgAD7g%3D%3D | B | R | 
