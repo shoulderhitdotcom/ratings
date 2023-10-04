@@ -245,21 +245,3 @@ noois = no one older is stronger
 
 | **comp** | **black** | **white** | **result** | **date** | **kifu_link** | **who_win** | **win_by** | 
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 第19回アジア競技大会囲碁男子団体戦決勝  | 卞相壹 | 李欽誠 | W+3¼ | 2023-10-03 | kifucontents.php?id=40CwqIzSPXDr690ow6TYpQ%3D%3D | W | 3¼ | 
-| 第19回アジア競技大会囲碁男子団体戦決勝  | 趙晨宇 | 金明訓 | W+2¼ | 2023-10-03 | kifucontents.php?id=j49%2F2Sf3HOXWhWj96ia4VQ%3D%3D | W | 2¼ | 
-| 第19回アジア競技大会囲碁男子団体戦決勝  | 朴廷桓 | 芈昱廷 | B+R | 2023-10-03 | kifucontents.php?id=w3T51bAHd%2F%2BkL0ly6vHTlg%3D%3D | B | R | 
-| 第19回アジア競技大会囲碁男子団体戦決勝  | 楊鼎新 | 申眞諝 | W+R | 2023-10-03 | kifucontents.php?id=WqwqjE%2Fi7ut9ZQuHZzjMKg%3D%3D | W | R | 
-| 第19回アジア競技大会囲碁男子団体戦決勝  | 申旻埈 | 柯潔 | B+¾ | 2023-10-03 | kifucontents.php?id=I9rED0WAxmhi6E7rvR6fjw%3D%3D | B | ¾ | 
-| 第19回アジア競技大会囲碁女子団体戦決勝 | 呉依銘 | 金恩持 | B+R | 2023-10-03 | kifucontents.php?id=4RodOjTCdzzyU4oe0XkDyQ%3D%3D | B | R | 
-| 第19回アジア競技大会囲碁女子団体戦決勝 | 呉侑珍 | 於之瑩 | B+¾ | 2023-10-03 | kifucontents.php?id=7CIMRzK73etkL9WhQx6CEg%3D%3D | B | ¾ | 
-| 第19回アジア競技大会囲碁女子団体戦決勝 | 李赫 | 崔精 | B+R | 2023-10-03 | kifucontents.php?id=kfr7v089hjMDJMtr74JONw%3D%3D | B | R | 
-| 第19回アジア競技大会囲碁男子団体戦3位決定戦  | 許皓鋐 | 関航太郎 | B+R | 2023-10-03 | kifucontents.php?id=x9uaSQAES0yE8JjLRlqKEQ%3D%3D | B | R | 
-| 第19回アジア競技大会囲碁男子団体戦3位決定戦  | 芝野虎丸 | 賴均輔 | B+R | 2023-10-03 | kifucontents.php?id=ai0pyB%2FXDPlG3rdj235RXA%3D%3D | B | R | 
-| 第19回アジア競技大会囲碁男子団体戦3位決定戦  | 王元均 | 一力遼 | W+¼ | 2023-10-03 | kifucontents.php?id=4vIAhCImnQ7rBKskA3UPYg%3D%3D | W | ¼ | 
-| 第19回アジア競技大会囲碁男子団体戦3位決定戦  | 佐田篤史 | 許家元 | B+R | 2023-10-03 | kifucontents.php?id=d6Mjg%2FeiNukIZmr3B2Ud%2FA%3D%3D | B | R | 
-| 第19回アジア競技大会囲碁男子団体戦3位決定戦  | 徐靖恩 | 井山裕太 | W+R | 2023-10-03 | kifucontents.php?id=0ApMxS1P62UEesMveQkFZg%3D%3D | W | R | 
-| 第19回アジア競技大会囲碁男子団体戦準決勝 | 関航太郎 | 卞相壹 | W+R | 2023-10-02 | kifucontents.php?id=Mkzx0h8cKd64gB2CaykJnA%3D%3D | W | R | 
-| 第19回アジア競技大会囲碁男子団体戦準決勝 | 金明訓 | 芝野虎丸 | B+R | 2023-10-02 | kifucontents.php?id=16fspSEIZ3qXWk7E%2FRBqDg%3D%3D | B | R | 
-| 第19回アジア競技大会囲碁男子団体戦準決勝 | 一力遼 | 朴廷桓 | W+R | 2023-10-02 | kifucontents.php?id=v8FL%2BWneKyJikkXtmuZdtA%3D%3D | W | R | 
-| 第19回アジア競技大会囲碁男子団体戦準決勝 | 申眞諝 | 佐田篤史 | B+R | 2023-10-02 | kifucontents.php?id=8vQNbJqq95EIfX%2BG0THMag%3D%3D | B | R | 
-| 第19回アジア競技大会囲碁男子団体戦準決勝 | 井山裕太 | 申旻埈 | W+R | 2023-10-02 | kifucontents.php?id=O9yBc2DWyX9ASZuxdtZRKw%3D%3D | W | R | 
