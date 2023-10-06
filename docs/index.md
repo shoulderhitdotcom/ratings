@@ -247,22 +247,3 @@ noois = no one older is stronger
 
 | **comp** | **black** | **white** | **result** | **date** | **kifu_link** | **who_win** | **win_by** | 
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 第50期天元戦予選 | 福岡航太朗 | 三浦太郎 | B+R | 2023-10-05 | kifucontents.php?id=8o%2FfBXuuKE3miYtEBRcplw%3D%3D | B | R | 
-| 第50期天元戦予選 | 牛栄子 | 柳時熏 | W+R | 2023-10-05 | kifucontents.php?id=5NJHoXcQxp5jizhkev8GtA%3D%3D | W | R | 
-| 第46期名人戦（韓国）敗者組2回戦 | 韓相朝 | 韓友賑 | W+R | 2023-10-05 | kifucontents.php?id=QO5%2BEhO37Ar8BOkRoqlO0w%3D%3D | W | R | 
-| 第2期韓国棋院選手権戦8強戦 | 安成浚 | 姜東潤 | B+R | 2023-10-05 | kifucontents.php?id=F6uU%2B%2BxBxNADouJJpUOGAQ%3D%3D | B | R | 
-| 2023韓国シニア囲碁リーグ | 金日煥 | 崔珪昞 | B+3.5 | 2023-10-05 | kifucontents.php?id=JTGTEoNUYg0WYRHuDxnhig%3D%3D | B | 3.5 | 
-| 2023韓国シニア囲碁リーグ | 李英信 | 金燦佑 | W+10.5 | 2023-10-05 | kifucontents.php?id=kp5RGulQ%2Fhehv%2B66fjpVDQ%3D%3D | W | 10.5 | 
-| 2023韓国シニア囲碁リーグ | 姜勲 | 徐能旭 | W+R | 2023-10-05 | kifucontents.php?id=jwU533vxOGdEwM2MRaE16A%3D%3D | W | R | 
-| 2023韓国シニア囲碁リーグ | 金栄三 | 安官旭 | B+R | 2023-10-05 | kifucontents.php?id=IfAtBTxtGkZeQNRQvA%2BX8w%3D%3D | B | R | 
-| 2023韓国シニア囲碁リーグ | 張秀英 | 朴勝文 | W+7.5 | 2023-10-05 | kifucontents.php?id=3mTz63Nk3vdQkKFY82sDQw%3D%3D | W | 7.5 | 
-| 2023韓国シニア囲碁リーグ | 鄭大相 | 金秀壮 | W+R | 2023-10-05 | kifucontents.php?id=l8KOGJEZUAXQvwsCqibvOA%3D%3D | W | R | 
-| 2023韓国シニア囲碁リーグ | 金鐘秀 | 金基憲 | B+2.5 | 2023-10-05 | kifucontents.php?id=uCoiF4qEAjyEMgg60mXk6Q%3D%3D | B | 2.5 | 
-| 2023韓国シニア囲碁リーグ | 尹炫晳 | 金東勉 | B+5.5 | 2023-10-05 | kifucontents.php?id=rVF7bHS%2FB9AMZCm6d5Mi%2FA%3D%3D | B | 5.5 | 
-| 2023韓国シニア囲碁リーグ | 徐奉洙 | 李相勲 | B+15.5 | 2023-10-05 | kifucontents.php?id=HHOGIxpd9VoFXcWtDWeBKw%3D%3D | B | 15.5 | 
-| 2023韓国シニア囲碁リーグ | 権孝珍 | 劉昌赫 | W+7.5 | 2023-10-05 | kifucontents.php?id=3kH3ZzyQPHEtJRb%2Bnxawbg%3D%3D | W | 7.5 | 
-| 2023韓国シニア囲碁リーグ | 金東燁 | 呉圭喆 | W+16.5 | 2023-10-05 | kifucontents.php?id=V%2FzS0C1grI0vtQXPtswhag%3D%3D | W | 16.5 | 
-| 2023韓国シニア囲碁リーグ | 白成豪 | 車敏洙 | W+17.5 | 2023-10-05 | kifucontents.php?id=%2BhZhDBy58okC6InXW6zGJA%3D%3D | W | 17.5 | 
-| 第50期天元戦予選 | 余正麒 | 阿部良希 | B+R | 2023-10-04 | kifucontents.php?id=z4YXEl54dgW2HGXBiZlLyQ%3D%3D | B | R | 
-| 第79期本因坊戦予選 | 瀬戸大樹 | 渡辺貢規 | B+R | 2023-10-04 | kifucontents.php?id=k1PxLmsLmrTYhBxU%2FrSXew%3D%3D | B | R | 
-| 第79期本因坊戦予選 | 村川大介 | 安東陽向 | B+R | 2023-10-04 | kifucontents.php?id=bjrpt8FP1x4dqkq%2FylVYoQ%3D%3D | B | R | 
