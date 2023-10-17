@@ -247,20 +247,3 @@ noois = no one older is stronger
 
 | **comp** | **black** | **white** | **result** | **date** | **kifu_link** | **who_win** | **win_by** | 
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 第42期女流本因坊戦挑戦手合五番勝負第2局  | 藤沢里菜 | 上野梨紗 | B+R | 2023-10-16 | kifucontents.php?id=aPYUhchPRENyIP%2FAyDZ1Jg%3D%3D | B | R | 
-| 2023韓国女子囲碁リーグ | 金珉舒 | 朴昭律 | W+3.5 | 2023-10-15 | kifucontents.php?id=hsFdGmg9ci8kylwqrLskKQ%3D%3D | W | 3.5 | 
-| 2023韓国女子囲碁リーグ | 崔精 | 金湊笌 | B+R | 2023-10-15 | kifucontents.php?id=TizBKvv7LDx%2BlIXHUfh2Qw%3D%3D | B | R | 
-| 2023韓国女子囲碁リーグ | 金多瑛 | 高ミソ | B+R | 2023-10-15 | kifucontents.php?id=p9QWWCVYjRWrQQxLFFgmew%3D%3D | B | R | 
-| 第5回聶衛平杯囲碁マスターズ決勝 | 王星昊 | 孔傑 | B+R | 2023-10-15 | kifucontents.php?id=u4s8CemygmM%2BvQHzsx9GbA%3D%3D | B | R | 
-| 第5回聶衛平杯囲碁マスターズ青年組決勝 | 王星昊 | 酒井佑規 | B+R | 2023-10-15 | kifucontents.php?id=0OqC8HJyPOHkI066MEPv1A%3D%3D | B | R | 
-| 第5回聶衛平杯囲碁マスターズ中年組決勝 | 孔傑 | 古力 | B+R | 2023-10-15 | kifucontents.php?id=Unl32tzAX9TuLDbEKWO7ew%3D%3D | B | R | 
-| 第11期中環碁聖戦16強戦 | 劉耀文 | 黄世元 | B+R | 2023-10-15 | kifucontents.php?id=fMFhKQO4epw5VPHd4WzSrQ%3D%3D | B | R | 
-| 第11期中環碁聖戦16強戦 | 李維 | 簡靖庭 | W+R | 2023-10-15 | kifucontents.php?id=7O6DDSwF1op42gHK44KE3A%3D%3D | W | R | 
-| 第11期中環碁聖戦16強戦 | 曾品傑 | 盧奕銓 | B+R | 2023-10-15 | kifucontents.php?id=ERPBAnkMmslY1qXV1j7z4A%3D%3D | B | R | 
-| 第11期中環碁聖戦16強戦 | 賴均輔 | 陳詩淵 | B+R | 2023-10-15 | kifucontents.php?id=kqtOQHeA76Vwb%2BPjvkrYPg%3D%3D | B | R | 
-| 第11期中環碁聖戦16強戦 | 周平強 | 徐靖恩 | W+5.5 | 2023-10-15 | kifucontents.php?id=DgZY7SldRijOltOTTs0nXw%3D%3D | W | 5.5 | 
-| 第11期中環碁聖戦16強戦 | 王元均 | 牛詩特 | B+R | 2023-10-15 | kifucontents.php?id=QkH1OV%2BLhOgr1rG9uCXYoQ%3D%3D | B | R | 
-| 第11期中環碁聖戦16強戦 | 陳祈睿 | 蔡丞韋 | B+R | 2023-10-15 | kifucontents.php?id=Rmn7t%2FcMDw%2Fcd9Y7lM%2F8ug%3D%3D | B | R | 
-| 2023韓国女子囲碁リーグ | 金京垠 | 柳珠儇 | B+R | 2023-10-14 | kifucontents.php?id=DFMJ0geB%2Fyg6OQlRXw6k0Q%3D%3D | B | R | 
-| 2023韓国女子囲碁リーグ | 曺承亜 | 金恵敏 | B+R | 2023-10-14 | kifucontents.php?id=wfOYTt1GosVvNEj2gpYwqQ%3D%3D | B | R | 
-| 2023韓国女子囲碁リーグ | 朴泰姬 | 李舒煐 | B+10.5 | 2023-10-14 | kifucontents.php?id=0BANJGD2JNUOtHAbkiBfeg%3D%3D | B | 10.5 | 
