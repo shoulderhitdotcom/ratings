@@ -240,22 +240,3 @@ noois = no one older is stronger
 
 | **comp** | **black** | **white** | **result** | **date** | **kifu_link** | **who_win** | **win_by** | 
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 第42期女流本因坊戦挑戦手合五番勝負第3局  | 上野梨紗 | 藤沢里菜 | B+R | 2023-10-21 | kifucontents.php?id=dhjZPf4M%2FZIeXB3JG2FCTw%3D%3D | B | R | 
-| 第2期韓国棋院選手権戦8強戦 | 申眞諝 | 宋知勲 | W+R | 2023-10-21 | kifucontents.php?id=XhJ06UILb4%2BiSyEbSRxO9g%3D%3D | W | R | 
-| 第19期国手戦（台湾） | 張懐一 | 徐靖恩 | W+R | 2023-10-20 | kifucontents.php?id=I8uoP3RJ0k6YF2AbAj0CPQ%3D%3D | W | R | 
-| 第19期国手戦（台湾） | 林書陽 | 党希昀 | B+R | 2023-10-20 | kifucontents.php?id=xY1PDCI%2BDj3yFrLUZKPWNg%3D%3D | B | R | 
-| 第19期国手戦（台湾） | 李奎漢 | 蔡丞韋 | W+R | 2023-10-20 | kifucontents.php?id=jdCVuWK8%2FjrxIdvFXUNVhg%3D%3D | W | R | 
-| 第19期国手戦（台湾） | 林怡廷 | 劉建昌 | B+R | 2023-10-20 | kifucontents.php?id=EbFwZK37iPjq1M6ddc3CBA%3D%3D | B | R | 
-| 第19期国手戦（台湾） | 張庭維 | 董友棠 | W+R | 2023-10-20 | kifucontents.php?id=oOBkLg4cNnDqKQuncYALPw%3D%3D | W | R | 
-| 第19期国手戦（台湾） | 賴均輔 | 尤浩宇 | B+R | 2023-10-20 | kifucontents.php?id=gQFg8Rff0Cy5Qgck3yHfuQ%3D%3D | B | R | 
-| 第19期国手戦（台湾） | 張凱馨 | 盧奕銓 | W+R | 2023-10-20 | kifucontents.php?id=7%2BDxEFN1Q60kgUjkr6At8Q%3D%3D | W | R | 
-| 第19期国手戦（台湾） | 陳品樺 | 李嘉馨 | W+R | 2023-10-20 | kifucontents.php?id=hRVE7BkYGaYvgMUImks4wQ%3D%3D | W | R | 
-| 第19期国手戦（台湾） | 曾品傑 | 孫偉勛 | B+5.5 | 2023-10-20 | kifucontents.php?id=A5GZ97sDkdMR99nPkU2rFQ%3D%3D | B | 5.5 | 
-| 第19期国手戦（台湾） | 楊博崴 | 黄彦誠 | B+R | 2023-10-20 | kifucontents.php?id=YrcmAzfa54FcWxhFjYSgsw%3D%3D | B | R | 
-| 第19期国手戦（台湾） | 林傑漢 | 詹宜典 | W+R | 2023-10-20 | kifucontents.php?id=7lr5YGK61FDNAyUjb25U7A%3D%3D | W | R | 
-| 第19期国手戦（台湾） | 林士勛 | 林鈺娗 | B+R | 2023-10-20 | kifucontents.php?id=ODqxKJFbYI0gKPZ7tkR1KQ%3D%3D | B | R | 
-| 第19期国手戦（台湾） | 黄家胤 | 林世民 | W+R | 2023-10-20 | kifucontents.php?id=7N0teOE2B8RNLdZy1d1zMA%3D%3D | W | R | 
-| 第19期国手戦（台湾） | 陳詩淵 | 簡靖庭 | W+R | 2023-10-20 | kifucontents.php?id=CuuHG708a9qZnnxCmFvDEg%3D%3D | W | R | 
-| 第19期国手戦（台湾） | 牛詩特 | 陳祈睿 | W+R | 2023-10-20 | kifucontents.php?id=KFOCd%2F4NzsysdmdoCPXOnQ%3D%3D | W | R | 
-| 第19期国手戦（台湾） | 林君諺 | 沈逸恩 | W+R | 2023-10-20 | kifucontents.php?id=Tt4TRp4AlcYXhYGSsuaYVw%3D%3D | W | R | 
-| 第19期国手戦（台湾） | 林立祥 | 林聖賢 | B+R | 2023-10-20 | kifucontents.php?id=bJAsNqPv4MD%2FhIRbSd4e3g%3D%3D | B | R | 
