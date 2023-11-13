@@ -249,16 +249,3 @@ noois = no one older is stronger
 
 | **comp** | **black** | **white** | **result** | **date** | **kifu_link** | **who_win** | **win_by** | 
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 第1回中国職業囲碁新人公開戦4回戦 | 楊智文 | 張歆宇 | B+R | 2023-11-12 | kifucontents.php?id=lPHFYqZgmnWp56SgKuxjWg%3D%3D | B | R | 
-| 第1回中国職業囲碁新人公開戦4回戦 | 陳軼哲 | 李嘉弈 | B+R | 2023-11-12 | kifucontents.php?id=0MQri6m8o5ASpa8zPzuzEg%3D%3D | B | R | 
-| 第1回中国職業囲碁新人公開戦4回戦 | 段博尭 | 陳心颺 | B+R | 2023-11-12 | kifucontents.php?id=mPYzLM1oH8k%2Fba0F6HYTrA%3D%3D | B | R | 
-| 第1回中国職業囲碁新人公開戦4回戦 | 仇孜林 | 戴琪高 | W+R | 2023-11-12 | kifucontents.php?id=%2FXx1FFcIeeLNmj7Kvac5ng%3D%3D | W | R | 
-| 第1回中国職業囲碁新人公開戦3回戦 | 賈得一 | 桂詩雲 | B+R | 2023-11-12 | kifucontents.php?id=JLJwLAUVlM4TtsGWuLGcow%3D%3D | B | R | 
-| 第1回中国職業囲碁新人公開戦3回戦 | 陳心颺 | 呉俊毅 | B+¾ | 2023-11-12 | kifucontents.php?id=2K1B0IG%2BoTIiWr7aXzrTGQ%3D%3D | B | ¾ | 
-| 第1回中国職業囲碁新人公開戦3回戦 | 曾楚典 | 魏笑林 | W+R | 2023-11-12 | kifucontents.php?id=jYm%2BfTCytuvs5eQqPquHqA%3D%3D | W | R | 
-| 第1回中国職業囲碁新人公開戦3回戦 | 劉硯暢 | 陳鉄哲 | W+R | 2023-11-12 | kifucontents.php?id=E0yfUIdb3RS4s8grcJWQuQ%3D%3D | W | R | 
-| 第6回太平書鎮杯囲棋元老戦4強戦 | 華学明 | 王汝南 | W+R | 2023-11-12 | kifucontents.php?id=7LXbixbKoNchmqwVgNCrWA%3D%3D | W | R | 
-| 第6回太平書鎮杯囲棋元老戦4強戦 | 華以剛 | 聶衛平 | W+¼ | 2023-11-12 | kifucontents.php?id=g9whKi3AFOcl4i7k7dZQKw%3D%3D | W | ¼ | 
-| 第3回蘭雪軒杯全国女子囲碁大会決勝 | 金彩瑛 | 金恩持 | W+0.5 | 2023-11-12 | kifucontents.php?id=wvxXZayMbdrzJq1F21iTJg%3D%3D | W | 0.5 | 
-| 第3回蘭雪軒杯全国女子囲碁大会準決勝 | 金彩瑛 | 呉侑珍 | B+R | 2023-11-12 | kifucontents.php?id=2Zr9VxdsVuFj%2FAoL1rLYbg%3D%3D | B | R | 
-| 第3回蘭雪軒杯全国女子囲碁大会準決勝 | 曺承亜 | 金恩持 | W+R | 2023-11-12 | kifucontents.php?id=%2BFAB%2Ff7p%2B2qalulMok4h6w%3D%3D | W | R | 
