@@ -259,25 +259,3 @@ noois = no one older is stronger
 
 | **comp** | **black** | **white** | **result** | **date** | **kifu_link** | **who_win** | **win_by** | 
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 第25回農心辛ラーメン杯世界囲碁最強戦第8戦 | 余正麒 | 謝爾豪 | W+R | 2023-12-03 | kifucontents.php?id=qkHs89A6EDUxTCgcESzMEg%3D%3D | W | R | 
-| 第6回呉清源杯世界女子囲碁選手権決勝三番勝負第2局  | 藤沢里菜 | 崔精 | W+R | 2023-12-03 | kifucontents.php?id=nnYLwdpLcWFoYucjTidCzw%3D%3D | W | R | 
-| 2023博思軟件杯中国囲碁新秀争覇戦リーグ | 許一笛 | 馬靖原 | B+R | 2023-12-03 | kifucontents.php?id=b%2FBOqFBZQ9u1VkrK2TYAmw%3D%3D | B | R | 
-| 2023博思軟件杯中国囲碁新秀争覇戦リーグ | 王春暉 | 傅健恒 | W+¼ | 2023-12-03 | kifucontents.php?id=H7mohhwLHozlLwD2fmFIBA%3D%3D | W | ¼ | 
-| 2023博思軟件杯中国囲碁新秀争覇戦リーグ | 韓卓然 | 戴琪高 | B+R | 2023-12-03 | kifucontents.php?id=QQrfgN9DrFt5cuQ0Cb%2F1cA%3D%3D | B | R | 
-| 2023博思軟件杯中国囲碁新秀争覇戦リーグ | 李欣宸 | 李沢鋭 | W+R | 2023-12-03 | kifucontents.php?id=iyiYLQXWgJhk69CVS0ZwiA%3D%3D | W | R | 
-| 2023韓国シニア囲碁リーグプレーオフ第2戦 | 車敏洙 | 安官旭 | W+R | 2023-12-02 | kifucontents.php?id=NxEYdOj8JVGDqqGVMA0avQ%3D%3D | W | R | 
-| 2023韓国シニア囲碁リーグプレーオフ第2戦 | 依田紀基 | 劉昌赫 | W+9.5 | 2023-12-02 | kifucontents.php?id=mmB0PCZhmfcSwT1W8witGA%3D%3D | W | 9.5 | 
-| 2023韓国シニア囲碁リーグプレーオフ第2戦 | 金東燁 | 金秀壮 | W+0.5 | 2023-12-02 | kifucontents.php?id=99LAByvNOpg5c1jLMBi3lA%3D%3D | W | 0.5 | 
-| 第6回呉清源杯世界女子囲碁選手権決勝三番勝負第1局  | 崔精 | 藤沢里菜 | B+R | 2023-12-02 | kifucontents.php?id=Y5yM%2Bafpb6371QUvF9%2B3pQ%3D%3D | B | R | 
-| 第25回農心辛ラーメン杯世界囲碁最強戦第7戦 | 朴廷桓 | 謝爾豪 | W+R | 2023-12-02 | kifucontents.php?id=wK48XQD7bOvZEDGdBg42xA%3D%3D | W | R | 
-| 2023博思軟件杯中国囲碁新秀争覇戦リーグ | 李沢鋭 | 韓卓然 | B+R | 2023-12-02 | kifucontents.php?id=cJZ%2FjVG4zTNjDjBg7vRdGw%3D%3D | B | R | 
-| 2023博思軟件杯中国囲碁新秀争覇戦リーグ | 馬靖原 | 王春暉 | W+R | 2023-12-02 | kifucontents.php?id=iBhI3zzsD1Ma1RoXwSR97Q%3D%3D | W | R | 
-| 2023博思軟件杯中国囲碁新秀争覇戦リーグ | 傅健恒 | 李欣宸 | B+1¾ | 2023-12-02 | kifucontents.php?id=6q7m5mpbCPVUYumviZYkYw%3D%3D | B | 1¾ | 
-| 2023博思軟件杯中国囲碁新秀争覇戦リーグ | 戴琪高 | 許一笛 | W+2¼ | 2023-12-02 | kifucontents.php?id=GnsASieCR4y5XSLqCcNbzg%3D%3D | W | 2¼ | 
-| 2023博思軟件杯中国囲碁新秀争覇戦リーグ | 戴琪高 | 馬靖原 | B+R | 2023-12-02 | kifucontents.php?id=vWtC8oQETfHbCBFnBrfhEg%3D%3D | B | R | 
-| 2023博思軟件杯中国囲碁新秀争覇戦リーグ | 許一笛 | 李沢鋭 | W+R | 2023-12-02 | kifucontents.php?id=1%2BHJcmEIsTNQvQpPj72zJw%3D%3D | W | R | 
-| 2023博思軟件杯中国囲碁新秀争覇戦リーグ | 韓卓然 | 傅健恒 | W+R | 2023-12-02 | kifucontents.php?id=uK0UxE5knyVvx2Mt2xIPzg%3D%3D | W | R | 
-| 2023博思軟件杯中国囲碁新秀争覇戦リーグ | 李欣宸 | 王春暉 | B+R | 2023-12-02 | kifucontents.php?id=AdwvFjtH0bTKbzx36cdbZw%3D%3D | B | R | 
-| 2023韓国シニア囲碁リーグプレーオフ第1戦 | 劉昌赫 | 金秀壮 | B+R | 2023-12-01 | kifucontents.php?id=VE%2FiQpXwBbdkHb8RG7tnlQ%3D%3D | B | R | 
-| 2023韓国シニア囲碁リーグプレーオフ第1戦 | 依田紀基 | 金東燁 | B+24.5 | 2023-12-01 | kifucontents.php?id=Hq7FOvgEUN22DdMophAeMQ%3D%3D | B | 24.5 | 
-| 2023韓国シニア囲碁リーグプレーオフ第1戦 | 車敏洙 | 安官旭 | B+1.5 | 2023-12-01 | kifucontents.php?id=wQJqMRPknQGsKN0hT56kRw%3D%3D | B | 1.5 | 
