@@ -257,9 +257,3 @@ noois = no one older is stronger
 
 | **comp** | **black** | **white** | **result** | **date** | **kifu_link** | **who_win** | **win_by** | 
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 第2回衢州・爛柯杯世界囲碁公開戦中国予選 | 呉依銘 | 羅楚玥 | W+¼ | 2023-12-28 | kifucontents.php?id=eJtzGyGoX0k%2Bv202Q%2Feppg%3D%3D | W | ¼ | 
-| 第7回クラウン・ヘテ杯1回戦 | 崔勝喆 | 金湊笌 | W+R | 2023-12-28 | kifucontents.php?id=rPYGe2a8B4vzZvI6TBROqQ%3D%3D | W | R | 
-| 第7回クラウン・ヘテ杯1回戦 | 李沇 | 郭圓根 | B+1.5 | 2023-12-28 | kifucontents.php?id=3qfS%2FgHBWDYjIjV15x1YRA%3D%3D | B | 1.5 | 
-| 第7回クラウン・ヘテ杯1回戦 | 元齊焄 | 偰玹準 | W+R | 2023-12-28 | kifucontents.php?id=iZ5XjPPenIT%2B%2B8Sso%2BgEsg%3D%3D | W | R | 
-| 第7回クラウン・ヘテ杯1回戦 | 朴河旼 | 金志明 | B+R | 2023-12-28 | kifucontents.php?id=k7IPcDG3JgCR2TUU%2B%2FINdw%3D%3D | B | R | 
-| 第5期ソパルコサノル最高棋士決定戦予選 | 鄭有珍 | 朴材根 | W+R | 2023-12-28 | kifucontents.php?id=zfOhHEzI97Vd90AV0pLp%2Fw%3D%3D | W | R | 
