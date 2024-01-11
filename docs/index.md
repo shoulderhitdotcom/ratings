@@ -257,17 +257,3 @@ noois = no one older is stronger
 
 | **comp** | **black** | **white** | **result** | **date** | **kifu_link** | **who_win** | **win_by** | 
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 第7回クラウン・ヘテ杯2回戦 | 朴河旼 | 宋圭相 | W+R | 2024-01-10 | kifucontents.php?id=K6URM1Y22ihRf%2Fs0vH3BGw%3D%3D | W | R | 
-| 第7回クラウン・ヘテ杯2回戦 | 韓友賑 | 文敏鍾 | W+R | 2024-01-10 | kifucontents.php?id=wQVt86%2BKv%2FL7kommbIB2bA%3D%3D | W | R | 
-| 第23期天元戦（台湾）予選 | 林士勛 | 張凱馨 | B+R | 2024-01-09 | kifucontents.php?id=IPwhb3BiPY29FRLudCnvog%3D%3D | B | R | 
-| 第23期天元戦（台湾）予選 | 曾品傑 | 沈逸恩 | W+4.5 | 2024-01-09 | kifucontents.php?id=CTb6B%2B6h6ag5cBAexmNGGA%3D%3D | W | 4.5 | 
-| 第23期天元戦（台湾）予選 | 周尹南 | 李維 | W+R | 2024-01-09 | kifucontents.php?id=vQENqMGSIuvsc6OeM1nDyQ%3D%3D | W | R | 
-| 第23期天元戦（台湾）予選 | 黄偉 | 林彦丞 | W+R | 2024-01-09 | kifucontents.php?id=ce7zDyEZ%2ByVZxGl5xB9nPA%3D%3D | W | R | 
-| 第23期天元戦（台湾）予選 | 彭景華 | 許育祺 | W+3.5 | 2024-01-09 | kifucontents.php?id=U2ZuuVul%2Fsw7sMNs3buIJw%3D%3D | W | 3.5 | 
-| 第23期天元戦（台湾）予選 | 施景尭 | 簡靖庭 | W+1.5 | 2024-01-09 | kifucontents.php?id=AuyWq2UOXwdqHy6Y%2FNUjHA%3D%3D | W | 1.5 | 
-| 第23期天元戦（台湾）予選 | 楊博崴 | 陳威廷 | B+R | 2024-01-09 | kifucontents.php?id=pX%2BrVLGCDUd4mx0WpC447w%3D%3D | B | R | 
-| 第23期天元戦（台湾）予選 | 林怡廷 | 陳首廉 | W+R | 2024-01-09 | kifucontents.php?id=1TlAqInRe%2BOiAy5WSGnYUg%3D%3D | W | R | 
-| 第23期天元戦（台湾）予選 | 牛詩特 | 林世民 | W+0.5 | 2024-01-09 | kifucontents.php?id=aeIkkTPJNzWT9NsRKLQq1A%3D%3D | W | 0.5 | 
-| 第23期天元戦（台湾）予選 | 陳詩淵 | 林傑漢 | B+R | 2024-01-09 | kifucontents.php?id=GE%2F8rQD2FzUUYzq6kLe4jA%3D%3D | B | R | 
-| 第23期天元戦（台湾）予選 | 盧鈺樺 | 戴嘉伸 | W+R | 2024-01-09 | kifucontents.php?id=%2BVqtMhxlfOTtww%2FjNoR2Ew%3D%3D | W | R | 
-| 第23期天元戦（台湾）予選 | 黄世元 | 陳禧 | B+R | 2024-01-09 | kifucontents.php?id=wglW5NOWvyYJ39zkenFZpw%3D%3D | B | R | 
