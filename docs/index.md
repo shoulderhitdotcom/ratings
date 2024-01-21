@@ -258,22 +258,3 @@ noois = no one older is stronger
 
 | **comp** | **black** | **white** | **result** | **date** | **kifu_link** | **who_win** | **win_by** | 
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2023年浙江平湖・当湖十局杯中国囲碁早碁戦決勝 | 黄明宇 | 時越 | B+R | 2024-01-20 | kifucontents.php?id=1z47Flpe9p9wsRteqAVDWw%3D%3D | B | R | 
-| 第2期韓国棋院選手権戦準決勝敗者戦 | 宋知勲 | 姜東潤 | W+R | 2024-01-20 | kifucontents.php?id=HhF%2F00YBCCaeM4jutzrReg%3D%3D | W | R | 
-| 2023-2024韓国囲碁リーグ | 朴鍵昊 | 朴鐘勲 | W+R | 2024-01-19 | kifucontents.php?id=%2BYWWEGdxPuxW381I5jb34Q%3D%3D | W | R | 
-| 2023-2024韓国囲碁リーグ | 安成浚 | 李元栄 | W+2.5 | 2024-01-19 | kifucontents.php?id=jVag%2BleY1afvC0zQOaEVxA%3D%3D | W | 2.5 | 
-| 2023-2024韓国囲碁リーグ | 金明訓 | 偰玹準 | W+1.5 | 2024-01-19 | kifucontents.php?id=8goHEOlxxnNU4RVwHWqXkQ%3D%3D | W | 1.5 | 
-| 2023-2024韓国囲碁リーグ | 崔哲瀚 | 楊楷文 | B+4.5 | 2024-01-19 | kifucontents.php?id=3Rpv8WxvXpTxpfalczV3sQ%3D%3D | B | 4.5 | 
-| 第23期天元戦（台湾）勝部3回戦 | 楊博崴 | 李維 | B+R | 2024-01-19 | kifucontents.php?id=4uQKdGCEpuizCvFFyoV79w%3D%3D | B | R | 
-| 第23期天元戦（台湾）勝部3回戦 | 林士勛 | 陳祈睿 | B+R | 2024-01-19 | kifucontents.php?id=YSy%2B8%2BVzf1u%2BpokS7zKNTw%3D%3D | B | R | 
-| 第23期天元戦（台湾）敗部2回戦 | 沈逸恩 | 林彦丞 | B+R | 2024-01-19 | kifucontents.php?id=yaXEX9fGOH4GPRR85A%2B6%2Bw%3D%3D | B | R | 
-| 第23期天元戦（台湾）敗部2回戦 | 陳詩淵 | 盧奕銓 | B+R | 2024-01-19 | kifucontents.php?id=0Rp%2B26Ut63Tu6fPOBo2eYA%3D%3D | B | R | 
-| 第23期天元戦（台湾）敗部2回戦 | 許育祺 | 簡靖庭 | W+2.5 | 2024-01-19 | kifucontents.php?id=itwPfWbfqGgojcPt1KH77g%3D%3D | W | 2.5 | 
-| 第23期天元戦（台湾）敗部2回戦 | 林書陽 | 林立祥 | W+1.5 | 2024-01-19 | kifucontents.php?id=uDAb%2Bbyys%2Bf36VEJuFHfMQ%3D%3D | W | 1.5 | 
-| 2023年浙江平湖・当湖十局杯中国囲碁早碁戦準決勝 | 黄明宇 | 趙晨宇 | B+R | 2024-01-19 | kifucontents.php?id=Q7dzXRcrpJXUJ%2FDDxLQaxA%3D%3D | B | R | 
-| 2023年浙江平湖・当湖十局杯中国囲碁早碁戦準決勝 | 時越 | 黄静遠 | B+R | 2024-01-19 | kifucontents.php?id=jksx%2BQBmuR%2B7r36Rd2BR6g%3D%3D | B | R | 
-| 2023-2024韓国囲碁リーグ | 元晟溱 | 申眞諝 | W+R | 2024-01-18 | kifucontents.php?id=JJZcN3PedvdVdUEYeHsnsA%3D%3D | W | R | 
-| 2023-2024韓国囲碁リーグ | 金昇宰 | 韓友賑 | W+R | 2024-01-18 | kifucontents.php?id=X6EjLJ2Og9JwJuLWPxqWow%3D%3D | W | R | 
-| 2023-2024韓国囲碁リーグ | 韓熊熙 | 朴ジンソル | B+R | 2024-01-18 | kifucontents.php?id=IX7nhnb6KS5YmgzIjm5LVw%3D%3D | B | R | 
-| 2023-2024韓国囲碁リーグ | 申眞諝 | 元晟溱 | B+R | 2024-01-18 | kifucontents.php?id=qMaXsNU8N6kptG%2BOuExkLw%3D%3D | B | R | 
-| 2023-2024韓国囲碁リーグ | 宋知勲 | 白現宇 | W+R | 2024-01-18 | kifucontents.php?id=59GS2zPU1Wsvvb2OAelweQ%3D%3D | W | R | 
