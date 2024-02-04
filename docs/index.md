@@ -265,11 +265,3 @@ noois = no one older is stronger
 
 | **comp** | **black** | **white** | **result** | **date** | **kifu_link** | **who_win** | **win_by** | 
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 第15回春蘭杯台湾予選 | 賴均輔 | 陳祈睿 | W+R | 2024-02-02 | kifucontents.php?id=Dgix8xk4W3PSIYGfQyuxcQ%3D%3D | W | R | 
-| 第15回春蘭杯台湾予選 | 蔡丞韋 | 王元均 | W+R | 2024-02-02 | kifucontents.php?id=NxjKLiMVB1YMs8WHQCVTJQ%3D%3D | W | R | 
-| 第15回春蘭杯台湾予選 | 簡靖庭 | 徐靖恩 | B+R | 2024-02-02 | kifucontents.php?id=bIp3WbGkN26FunozTyWFqw%3D%3D | B | R | 
-| 第15回春蘭杯台湾予選 | 林君諺 | 許皓鋐 | W+R | 2024-02-02 | kifucontents.php?id=It2Hy2g5AgJ6v1PoBhseug%3D%3D | W | R | 
-| 2023-2024韓国囲碁リーグ | 申眞諝 | 姜東潤 | B+R | 2024-02-02 | kifucontents.php?id=zIFqZShkCp4S2VvuUGohdg%3D%3D | B | R | 
-| 2023-2024韓国囲碁リーグ | 韓昇周 | 金昇宰 | B+R | 2024-02-02 | kifucontents.php?id=mLADWLyO2pVmB%2BhZlaolEw%3D%3D | B | R | 
-| 2023-2024韓国囲碁リーグ | 朴ジンソル | 朴珉奎 | B+R | 2024-02-02 | kifucontents.php?id=EMQ%2B73ujIk4wPW79qTNq8w%3D%3D | B | R | 
-| 2023-2024韓国囲碁リーグ | 崔宰栄 | 白現宇 | W+0.5 | 2024-02-02 | kifucontents.php?id=K0xrUTj48oTBXTAiNIXcaA%3D%3D | W | 0.5 | 
