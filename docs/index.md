@@ -265,8 +265,3 @@ noois = no one older is stronger
 
 | **comp** | **black** | **white** | **result** | **date** | **kifu_link** | **who_win** | **win_by** | 
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 第7期女子棋聖戦（韓国）イベント対局 | 金多瑛金魯炅 | 金美里宋慧領 | B+R | 2024-02-11 | kifucontents.php?id=ekDmycam5YhPGvTWwshbZg%3D%3D | B | R | 
-| 2023-2024韓国囲碁リーグ | 朴永訓 | 韓昇周 | W+R | 2024-02-10 | kifucontents.php?id=0Z9dEnKHDecgIp29Ehudhg%3D%3D | W | R | 
-| 2023-2024韓国囲碁リーグ | 姜東潤 | 金眞輝 | W+R | 2024-02-10 | kifucontents.php?id=Dbczjft6EEKG%2FV0LZH84eg%3D%3D | W | R | 
-| 2023-2024韓国囲碁リーグ | 朴廷桓 | 朴珉奎 | B+R | 2024-02-10 | kifucontents.php?id=sIps2fYd6J2iqYVJwXEmIw%3D%3D | B | R | 
-| 2023-2024韓国囲碁リーグ | 党毅飛 | 李志賢 | W+R | 2024-02-10 | kifucontents.php?id=8MbEAjJCxZBpOowkx%2BN4Xw%3D%3D | W | R | 
