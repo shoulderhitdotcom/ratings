@@ -263,26 +263,3 @@ noois = no one older is stronger
 
 | **comp** | **black** | **white** | **result** | **date** | **kifu_link** | **who_win** | **win_by** | 
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 第25回中国囲碁甲級リーグプレーオフ | 党毅飛 | 李軒豪 | W+¼ | 2024-02-17 | kifucontents.php?id=fqi3GvlzxPUNIS3%2BNG%2FhDw%3D%3D | W | ¼ | 
-| 第25回中国囲碁甲級リーグプレーオフ | 屠暁宇 | 楊鼎新 | W+R | 2024-02-17 | kifucontents.php?id=wLFGmeIXuBedDD5ZJoduMQ%3D%3D | W | R | 
-| 第25回中国囲碁甲級リーグプレーオフ | 元晟溱 | 謝爾豪 | W+R | 2024-02-17 | kifucontents.php?id=WMBRXYBOocV4YiWgQgXCxw%3D%3D | W | R | 
-| 第25回中国囲碁甲級リーグプレーオフ | 何語涵 | 廖元赫 | W+R | 2024-02-17 | kifucontents.php?id=544pPR%2B00RB0W3AIXrcI7A%3D%3D | W | R | 
-| 第25回中国囲碁甲級リーグプレーオフ | 沈沛然 | 韓一洲 | B+R | 2024-02-17 | kifucontents.php?id=b%2BF1rejVEId1VYcBWNM6xw%3D%3D | B | R | 
-| 第25回中国囲碁甲級リーグプレーオフ | 陳浩 | 李維清 | B+R | 2024-02-17 | kifucontents.php?id=QCRpKBuqBn9YLkwMTxmV3g%3D%3D | B | R | 
-| 第25回中国囲碁甲級リーグプレーオフ | 王星昊 | 姜東潤 | B+R | 2024-02-17 | kifucontents.php?id=VRDBRB4noioaVRDgQuQdCw%3D%3D | B | R | 
-| 第25回中国囲碁甲級リーグプレーオフ | 王楚軒 | 陳梓健 | B+R | 2024-02-17 | kifucontents.php?id=SaH8%2B1yD%2Fk6xtjavV%2FMwNQ%3D%3D | B | R | 
-| 第25回中国囲碁甲級リーグプレーオフ | 金志錫 | 夏晨琨 | W+R | 2024-02-17 | kifucontents.php?id=vVaiwPFIF4xJu5isrikjkA%3D%3D | W | R | 
-| 第25回中国囲碁甲級リーグプレーオフ | 丁浩 | 丁世雄 | B+R | 2024-02-17 | kifucontents.php?id=qJB0vikA6vBLN8PdoBVIbA%3D%3D | B | R | 
-| 第25回中国囲碁甲級リーグプレーオフ | 卞相壹 | 柁嘉熹 | B+R | 2024-02-17 | kifucontents.php?id=cW2%2BmavEvvds5Tc%2F3JKgSA%3D%3D | B | R | 
-| 第25回中国囲碁甲級リーグプレーオフ | 蒋其潤 | 金禹丞 | W+R | 2024-02-17 | kifucontents.php?id=INBN2rKQMRztjPvgFTPp1A%3D%3D | W | R | 
-| 第25回中国囲碁甲級リーグプレーオフ | 陳賢 | 伊淩涛 | W+R | 2024-02-17 | kifucontents.php?id=k8IwFflQXLXAxxxQaxepLw%3D%3D | W | R | 
-| 第25回中国囲碁甲級リーグプレーオフ | 江維傑 | 趙晨宇 | B+R | 2024-02-17 | kifucontents.php?id=%2FlYOKcTYtbJSwHpVdasHAw%3D%3D | B | R | 
-| 第25回中国囲碁甲級リーグプレーオフ | 芈昱廷 | 申旻埈 | B+R | 2024-02-17 | kifucontents.php?id=ZY0ZyalS9cqcSFkwW9CbNQ%3D%3D | B | R | 
-| 第25回中国囲碁甲級リーグプレーオフ | 范廷鈺 | 黄雲嵩 | W+R | 2024-02-17 | kifucontents.php?id=GJ9j8ArBi%2BQ4kkQ%2FvanJ%2BQ%3D%3D | W | R | 
-| 2024ミレニアム天元戦準決勝 | 徐儁雨 | 白現宇 | W+R | 2024-02-17 | kifucontents.php?id=ZLNVjmuij6b3y8AgPkWy9A%3D%3D | W | R | 
-| 2024ミレニアム天元戦準決勝 | 文敏鍾 | 韓友賑 | W+R | 2024-02-17 | kifucontents.php?id=MPX9u2SCZhEiCBdPFXNRGA%3D%3D | W | R | 
-| 2024ミレニアム天元戦2回戦 | 徐儁雨 | 金恩持 | B+R | 2024-02-17 | kifucontents.php?id=xfgLxYDW9lpfoo9lcEFt5w%3D%3D | B | R | 
-| 第48期棋聖戦挑戦手合七番勝負第5局  | 井山裕太 | 一力遼 | W+R | 2024-02-16 | kifucontents.php?id=c5hnMNKb0TQSwGXPtSAFYA%3D%3D | W | R | 
-| 第15回春蘭杯台湾予選 | 許皓鋐 | 簡靖庭 | B+R | 2024-02-16 | kifucontents.php?id=Ih6JpXAZ6X4WXuV8sAmTQw%3D%3D | B | R | 
-| 2024ミレニアム天元戦1回戦 | 金恩持 | 金昇珍 | B+R | 2024-02-16 | kifucontents.php?id=7P%2BV%2F3qsoWlLTsn4yDhZBg%3D%3D | B | R | 
-| 第2期韓国棋院選手権戦決勝五番勝負第2局 | 偰玹準 | 朴廷桓 | W+R | 2024-02-16 | kifucontents.php?id=FQQFneUkRtRysQ7JSbuAoA%3D%3D | W | R | 
