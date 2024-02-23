@@ -259,26 +259,3 @@ noois = no one older is stronger
 
 | **comp** | **black** | **white** | **result** | **date** | **kifu_link** | **who_win** | **win_by** | 
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 第35期女流名人戦リーグ | 牛栄子 | 謝依旻 | W+2.5 | 2024-02-22 | kifucontents.php?id=PIRYNXLUS3zHdj5xYwxmmw%3D%3D | W | 2.5 | 
-| 第50期名人戦予選 | 杉内寿子 | 蘇耀国 | W+R | 2024-02-22 | kifucontents.php?id=4pC3r%2BKomKhvKTWtLwXlUw%3D%3D | W | R | 
-| 第49期棋聖戦Bリーグ | 小山空也 | 村川大介 | B+0.5 | 2024-02-22 | kifucontents.php?id=kVnchiUjE1muzyv5TECXxw%3D%3D | B | 0.5 | 
-| 第49期棋聖戦予選 | 長谷川直 | 六浦雄太 | W+8.5 | 2024-02-22 | kifucontents.php?id=4ctDd5fqbamntV8QFsoZvw%3D%3D | W | 8.5 | 
-| 第79期本因坊戦1回戦 | 富士田明彦 | 芝野虎丸 | W+R | 2024-02-22 | kifucontents.php?id=gmbcnY5rT%2BCfjnD3ip1INw%3D%3D | W | R | 
-| 第25回農心辛ラーメン杯世界囲碁最強戦第13戦 | 申眞諝 | 丁浩 | B+R | 2024-02-22 | kifucontents.php?id=i32H1ntz4lgxQaqf%2F02G9g%3D%3D | B | R | 
-| 第1回農心白山水杯世界囲碁シニア最強戦第8戦 | 馬暁春 | 曺薫鉉 | W+R | 2024-02-22 | kifucontents.php?id=nvhJ5wdefBcIckBEM38K9g%3D%3D | W | R | 
-| 第15回春蘭杯韓国予選 | 姜東潤 | 金明訓 | W+R | 2024-02-22 | kifucontents.php?id=WhdCCN71v5igPiE%2Bza0GYQ%3D%3D | W | R | 
-| 第68期関西棋院第一位決定戦2回戦 | 大川拓也 | 佐田篤史 | W+R | 2024-02-21 | kifucontents.php?id=ZkoSe8wZi%2Frd2xu816sNMw%3D%3D | W | R | 
-| 第72期王座戦予選 | 髙嶋湧吾 | 瀬戸大樹 | W+R | 2024-02-21 | kifucontents.php?id=P5A%2BfylxDl5sSSpwSXkhHg%3D%3D | W | R | 
-| 第49期棋聖戦予選 | 影山敏之 | 藤田怜央 | W+R | 2024-02-21 | kifucontents.php?id=POxwp%2Bj8jhuXEumvJ2RL0A%3D%3D | W | R | 
-| 第2回衢州・爛柯杯世界囲碁公開戦日本予選 | 広瀬優一 | 酒井佑規 | W+R | 2024-02-21 | kifucontents.php?id=krJWq7gdZ19h%2BeSYZMUYqw%3D%3D | W | R | 
-| 第2回衢州・爛柯杯世界囲碁公開戦日本予選 | 上野愛咲美 | 藤沢里菜 | B+R | 2024-02-21 | kifucontents.php?id=SGbvgPKtQRUJ9RHfcZ4mJA%3D%3D | B | R | 
-| 第2回衢州・爛柯杯世界囲碁公開戦日本予選 | 福岡航太朗 | 余正麒 | B+R | 2024-02-21 | kifucontents.php?id=%2FL2ChCwB5Iuis%2FMZ%2B4otcw%3D%3D | B | R | 
-| 第2回衢州・爛柯杯世界囲碁公開戦日本予選 | 藤沢里菜 | 上野梨紗 | B+R | 2024-02-21 | kifucontents.php?id=avo804ySLOmK9xGiWTmf5g%3D%3D | B | R | 
-| 第2回衢州・爛柯杯世界囲碁公開戦日本予選 | 上野愛咲美 | 牛栄子 | B+1.5 | 2024-02-21 | kifucontents.php?id=x4NWe8sYFOkTi5heIrSfHw%3D%3D | B | 1.5 | 
-| 第2回衢州・爛柯杯世界囲碁公開戦日本予選 | 富士田明彦 | 余正麒 | W+5.5 | 2024-02-21 | kifucontents.php?id=KxDTS1wpaWpOG7x%2BXlrRsQ%3D%3D | W | 5.5 | 
-| 第2回衢州・爛柯杯世界囲碁公開戦日本予選 | 許家元 | 酒井佑規 | W+R | 2024-02-21 | kifucontents.php?id=54RGO4hf32dZkRxBB3PQeQ%3D%3D | W | R | 
-| 第25回農心辛ラーメン杯世界囲碁最強戦第12戦 | 柯潔 | 申眞諝 | W+2.5 | 2024-02-21 | kifucontents.php?id=Wr7wVVPrr8pR0kfnyhIf7Q%3D%3D | W | 2.5 | 
-| 第1回農心白山水杯世界囲碁シニア最強戦第7戦 | 武宮正樹 | 馬暁春 | W+12.5 | 2024-02-21 | kifucontents.php?id=UnSX%2BQM%2FhXtg9viQiPjHYg%3D%3D | W | 12.5 | 
-| 第23期天元戦（台湾）敗部3回戦 | 簡靖庭 | 陳詩淵 | B+R | 2024-02-20 | kifucontents.php?id=nvCjcgLjx1dY2m0526j14Q%3D%3D | B | R | 
-| 第23期天元戦（台湾）敗部3回戦 | 林立祥 | 沈逸恩 | B+R | 2024-02-20 | kifucontents.php?id=KE3dw5H69%2BarGb8hZ7lp9g%3D%3D | B | R | 
-| 第25回マキシムコーヒー杯入神最強戦2回戦 | 卞相壹 | 朴永訓 | B+R | 2024-02-20 | kifucontents.php?id=OJLTAjpASGR7QYUd3kPwXg%3D%3D | B | R | 
