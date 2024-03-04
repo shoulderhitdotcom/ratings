@@ -259,15 +259,3 @@ noois = no one older is stronger
 
 | **comp** | **black** | **white** | **result** | **date** | **kifu_link** | **who_win** | **win_by** | 
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 第23回西南棋王戦2回戦 | 范廷鈺 | 廖元赫 | B+R | 2024-03-02 | kifucontents.php?id=HiHPNMv%2BZE%2FjaZc5Ug%2F4bQ%3D%3D | B | R | 
-| 第23回西南棋王戦2回戦 | 李翔宇 | 楊鼎新 | W+R | 2024-03-02 | kifucontents.php?id=%2B%2BtDw6JEixxokBVdGzQ0wg%3D%3D | W | R | 
-| 第23回西南棋王戦2回戦 | 丁浩 | 党毅飛 | B+R | 2024-03-02 | kifucontents.php?id=SwXDwQ44ysLZqWKZQQ%2BbVQ%3D%3D | B | R | 
-| 第23回西南棋王戦2回戦 | 謝爾豪 | 柯潔 | W+R | 2024-03-02 | kifucontents.php?id=7aVs2YhEebrr1XXI03d3mQ%3D%3D | W | R | 
-| 第23回西南棋王戦1回戦 | 廖元赫 | 辜梓豪 | B+R | 2024-03-02 | kifucontents.php?id=59lTz85rPSU1WWG0BFMyJg%3D%3D | B | R | 
-| 第23回西南棋王戦1回戦 | 陳梓健 | 楊鼎新 | W+R | 2024-03-02 | kifucontents.php?id=%2F47vCuB4MS%2B1QElr9gtluQ%3D%3D | W | R | 
-| 第23回西南棋王戦1回戦 | 謝爾豪 | 唐韋星 | B+R | 2024-03-02 | kifucontents.php?id=ib07nCvzqaPZNtF5ZW5p%2Fg%3D%3D | B | R | 
-| 第23回西南棋王戦1回戦 | 古力 | 丁浩 | W+R | 2024-03-02 | kifucontents.php?id=DbTBWoXDXoWg6DaapFUI1Q%3D%3D | W | R | 
-| 第23回西南棋王戦1回戦 | 柯潔 | 劉宇航 | B+R | 2024-03-02 | kifucontents.php?id=3Q7Rt3W6r5geJY%2F9071n3w%3D%3D | B | R | 
-| 第23回西南棋王戦1回戦 | 屠暁宇 | 范廷鈺 | W+R | 2024-03-02 | kifucontents.php?id=pCE7NqEbgLH0JqnvOyfdwQ%3D%3D | W | R | 
-| 第23回西南棋王戦1回戦 | 鄭載想 | 党毅飛 | W+R | 2024-03-02 | kifucontents.php?id=sJeWgHXGsRFUfL1tK1T5Ig%3D%3D | W | R | 
-| 第23回西南棋王戦1回戦 | 李軒豪 | 李翔宇 | W+¼ | 2024-03-02 | kifucontents.php?id=BJcUosa4hs%2FRulr%2FGSIcXw%3D%3D | W | ¼ | 
