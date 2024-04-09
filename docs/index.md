@@ -239,13 +239,3 @@ noois = no one older is stronger
 
 | **comp** | **black** | **white** | **result** | **date** | **kifu_link** | **who_win** | **win_by** | 
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 第11期会津中央病院・女流立葵杯予選 | 奥田あや | 上野梨紗 | W+R | 2024-04-08 | kifucontents.php?id=j2TU74Zo3pwSLsMoTarhhQ%3D%3D | W | R | 
-| 第79期本因坊戦準決勝  | 余正麒 | 井山裕太 | B+R | 2024-04-08 | kifucontents.php?id=kJmAQF7grHyioM5Cwc47IQ%3D%3D | B | R | 
-| 第5期名人戦（台湾）決勝七番勝負第1局  | 許皓鋐 | 林君諺 | B+R | 2024-04-08 | kifucontents.php?id=kvEv73MSFqNGpU8edjpv%2FQ%3D%3D | B | R | 
-| 2024博思軟件杯中国囲碁新秀争覇戦予選 | 章重恒 | 楊楚焜 | W+R | 2024-04-08 | kifucontents.php?id=F4KrdSvM8vHR0QQgYU3Tyg%3D%3D | W | R | 
-| 2024博思軟件杯中国囲碁新秀争覇戦予選 | 尹成志 | 周雨萱 | B+R | 2024-04-08 | kifucontents.php?id=%2BIx2RF6cQG%2Bsc4giS6Q0vw%3D%3D | B | R | 
-| 2024博思軟件杯中国囲碁新秀争覇戦予選 | 劉硯暢 | 黄皓 | B+2¾ | 2024-04-08 | kifucontents.php?id=8DBbhxP5Qie9QL41rCV5lQ%3D%3D | B | 2¾ | 
-| 2024博思軟件杯中国囲碁新秀争覇戦予選 | 周逸瀟 | 謝佳言 | B+3¾ | 2024-04-08 | kifucontents.php?id=9tWOHRHy9UQ8l7TpljOTNA%3D%3D | B | 3¾ | 
-| 第5期ソパルコサノル最高棋士決定戦リーグ | 朴珉奎 | 朴廷桓 | W+R | 2024-04-08 | kifucontents.php?id=6LTF5KwoLWiRTNG09%2Bh1Qw%3D%3D | W | R | 
-| 第12回河燦錫国手杯英才最強戦予選 | 韓遒永 | 仲邑菫 | B+R | 2024-04-08 | kifucontents.php?id=h%2BhS%2BMd7%2B%2BzTX%2B01plKW%2Fw%3D%3D | B | R | 
-| 第12回河燦錫国手杯英才最強戦予選 | 李旻䄷 | 仲邑菫 | W+6.5 | 2024-04-08 | kifucontents.php?id=mWZ0YFrj%2FRvJuM1PKnLozg%3D%3D | W | 6.5 | 
