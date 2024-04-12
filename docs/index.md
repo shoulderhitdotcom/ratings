@@ -237,16 +237,3 @@ noois = no one older is stronger
 
 | **comp** | **black** | **white** | **result** | **date** | **kifu_link** | **who_win** | **win_by** | 
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 第49期棋聖戦予選 | 村本渉 | 髙嶋湧吾 | W+R | 2024-04-11 | kifucontents.php?id=N96U0kgOuZGHpBeFOHz10Q%3D%3D | W | R | 
-| 第49期棋聖戦予選 | 関山利道 | 坂井嵩司 | B+0.5 | 2024-04-11 | kifucontents.php?id=xxR%2BFy3NpDXExVo%2F3NfJdQ%3D%3D | B | 0.5 | 
-| 第49期棋聖戦予選 | 西岡正織 | 久保勝昭 | B+8.5 | 2024-04-11 | kifucontents.php?id=4BlaCVRFSzME4sBFKGA17A%3D%3D | B | 8.5 | 
-| 第79期本因坊戦準決勝  | 芝野虎丸 | 平田智也 | B+R | 2024-04-11 | kifucontents.php?id=vQH5ifJjhyO2NnaYGQu7SA%3D%3D | B | R | 
-| 第49期名人戦リーグ  | 張栩 | 井山裕太 | W+R | 2024-04-11 | kifucontents.php?id=GC9GXc5avK%2BcT9PAcRdX0g%3D%3D | W | R | 
-| 第51期天元戦予選 | 森田道博 | 杉内寿子 | B+R | 2024-04-11 | kifucontents.php?id=%2FKxOH4J3KwujfaFDDc%2Bngg%3D%3D | B | R | 
-| 第9回扇興杯女流最強戦予選 | 徐文燕 | 上野梨紗 | W+R | 2024-04-11 | kifucontents.php?id=2UIXa46PLtJ318sBEMbDgQ%3D%3D | W | R | 
-| 2024博思軟件杯中国囲碁新秀争覇戦2回戦 | 肖沢彬 | 尹成志 | W+R | 2024-04-11 | kifucontents.php?id=z333V1YsdDJ1oX%2BbQoIoJg%3D%3D | W | R | 
-| 2024博思軟件杯中国囲碁新秀争覇戦2回戦 | 呉依銘 | 許一笛 | W+R | 2024-04-11 | kifucontents.php?id=%2BGJ%2FwLd9Kujx0QaMJcsxig%3D%3D | W | R | 
-| 2024博思軟件杯中国囲碁新秀争覇戦1回戦 | 李欣宸 | 楊楚焜 | B+R | 2024-04-11 | kifucontents.php?id=ku5nBjzr5LP98fsL3qufFg%3D%3D | B | R | 
-| 2024博思軟件杯中国囲碁新秀争覇戦1回戦 | 呉俊毅 | 呉依銘 | W+R | 2024-04-11 | kifucontents.php?id=qdtwiCeqvfyuD1GMLDVe8A%3D%3D | W | R | 
-| 第5期ソパルコサノル最高棋士決定戦リーグ | 安成浚 | 仲邑菫 | B+2.5 | 2024-04-11 | kifucontents.php?id=%2F6JW%2FZGT6nC44hwcGUM1ew%3D%3D | B | 2.5 | 
-| 第29回GSカルテックス杯プロ棋戦1回戦 | 元晟溱 | 金昌勲 | B+R | 2024-04-11 | kifucontents.php?id=FI%2BqY3PMYwmKCPd367L%2BLA%3D%3D | B | R | 
