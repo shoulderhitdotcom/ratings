@@ -239,16 +239,3 @@ noois = no one older is stronger
 
 | **comp** | **black** | **white** | **result** | **date** | **kifu_link** | **who_win** | **win_by** | 
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 第35期女流名人戦挑戦手合三番勝負第2局  | 藤沢里菜 | 上野愛咲美 | B+R | 2024-04-17 | kifucontents.php?id=cTfK6%2FFtX637bGaS%2BPlzWQ%3D%3D | B | R | 
-| 第49期棋聖戦予選 | 渡辺寛大 | 今分太郎 | W+R | 2024-04-17 | kifucontents.php?id=NIlQqSW2jwa1mVSugktAaQ%3D%3D | W | R | 
-| 第50期名人戦予選 | 川村和憲 | 村川大介 | W+R | 2024-04-17 | kifucontents.php?id=Trtofl4EusB2FRvGu1LLjA%3D%3D | W | R | 
-| 第50期名人戦予選 | 谷口徹 | 大川拓也 | B+R | 2024-04-17 | kifucontents.php?id=CUvJyAYIh03zbAZQYxBHlw%3D%3D | B | R | 
-| 第38期中国囲碁天元戦挑戦手合三番勝負第3局 | 芈昱廷 | 連笑 | W+R | 2024-04-17 | kifucontents.php?id=aGO1KSbcYxEiNRQ2zXErlg%3D%3D | W | R | 
-| 第29回LG杯韓国予選 | 文敏鍾 | 安成浚 | B+2.5 | 2024-04-17 | kifucontents.php?id=0MQUxGzyu%2FMIPLDMLuYIiA%3D%3D | B | 2.5 | 
-| 第29回LG杯韓国予選 | 趙漢乗 | 金明訓 | W+R | 2024-04-17 | kifucontents.php?id=Hrl0zYRtYlS0NQrarmaGZg%3D%3D | W | R | 
-| 第29回LG杯韓国予選 | 崔精 | 朴永訓 | B+R | 2024-04-17 | kifucontents.php?id=1VaQrumdmfdtKpgphGeP0A%3D%3D | B | R | 
-| 第29回LG杯日本予選 | 酒井佑規 | 広瀬優一 | B+1.5 | 2024-04-16 | kifucontents.php?id=FqlDaRdueg1q2j9%2FuiFRdQ%3D%3D | B | 1.5 | 
-| 第29回LG杯日本予選 | 許家元 | 伊田篤史 | B+R | 2024-04-16 | kifucontents.php?id=opCNtW1Ar0iNGykkIay%2BAg%3D%3D | B | R | 
-| 第29回LG杯日本予選 | 広瀬優一 | 伊田篤史 | W+R | 2024-04-16 | kifucontents.php?id=BpCkdXBPOHDL7WAjZ33duw%3D%3D | W | R | 
-| 第29回LG杯日本予選 | 許家元 | 酒井佑規 | B+R | 2024-04-16 | kifucontents.php?id=Qevzku84TUMpsbx5eu97Xg%3D%3D | B | R | 
-| 第29回LG杯台湾予選 | 賴均輔 | 許皓鋐 | B+R | 2024-04-16 | kifucontents.php?id=vYNYl6PvYSLJ7AzGJldr%2BA%3D%3D | B | R | 
