@@ -240,6 +240,3 @@ noois = no one older is stronger
 
 | **comp** | **black** | **white** | **result** | **date** | **kifu_link** | **who_win** | **win_by** | 
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 第49期名人戦リーグ  | 関航太郎 | 富士田明彦 | W+R | 2024-04-22 | kifucontents.php?id=e3RbwXABNUWNxNHgupN8vw%3D%3D | W | R | 
-| 第63期十段戦予選 | 趙治勲 | 秋山次郎 | W+R | 2024-04-22 | kifucontents.php?id=HxZXJxtI6uYVLgdy1bywQQ%3D%3D | W | R | 
-| 第49期棋聖戦Bリーグ | 本木克弥 | 柳時熏 | W+0.5 | 2024-04-22 | kifucontents.php?id=9gQ5XXIqZm0QHJvZOwBvVw%3D%3D | W | 0.5 | 
