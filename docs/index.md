@@ -236,17 +236,3 @@ noois = no one older is stronger
 
 | **comp** | **black** | **white** | **result** | **date** | **kifu_link** | **who_win** | **win_by** | 
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 第2回衢州爛柯杯ワールド囲碁オープン3回戦 | 謝科 | 朴廷桓 | W+¼ | 2024-04-27 | kifucontents.php?id=KTPnaflquUVOvDMQEljg2Q%3D%3D | W | ¼ | 
-| 第2回衢州爛柯杯ワールド囲碁オープン3回戦  | 賴均輔 | 丁浩 | W+R | 2024-04-27 | kifucontents.php?id=ZrJqglz%2BwC7%2BTVa10Og0vg%3D%3D | W | R | 
-| 第2回衢州爛柯杯ワールド囲碁オープン3回戦  | 上野愛咲美 | 辜梓豪 | W+R | 2024-04-27 | kifucontents.php?id=JsjdI2ScmO3%2F9HmBu%2BtOtA%3D%3D | W | R | 
-| 第2回衢州爛柯杯ワールド囲碁オープン3回戦 | 姜東潤 | 柯潔 | B+1¾ | 2024-04-27 | kifucontents.php?id=1CNwByD20kYDepVTMC9LIg%3D%3D | B | 1¾ | 
-| 第2回衢州爛柯杯ワールド囲碁オープン3回戦  | 范廷鈺 | 井山裕太 | W+R | 2024-04-27 | kifucontents.php?id=GH4Ah4isTbKNWOZh0Ud0dg%3D%3D | W | R | 
-| 第2回衢州爛柯杯ワールド囲碁オープン3回戦 | 張涛 | 申眞諝 | W+R | 2024-04-27 | kifucontents.php?id=ATxxL%2F7YEz%2FdU9KsFluSdg%3D%3D | W | R | 
-| 第2回衢州爛柯杯ワールド囲碁オープン3回戦 | 卞相壹 | 蒋其潤 | B+2¾ | 2024-04-27 | kifucontents.php?id=25v%2BOdnBkWq7%2BQy6ndW%2Few%3D%3D | B | 2¾ | 
-| 第2回衢州爛柯杯ワールド囲碁オープン3回戦 | 元晟溱 | 楊鼎新 | W+1¼ | 2024-04-27 | kifucontents.php?id=uCr%2FizPAIKpy%2FOJDUXM0rw%3D%3D | W | 1¼ | 
-| 2024新人王戦（台湾）準決勝 | 林彦丞 | 徐靖恩 | W+R | 2024-04-26 | kifucontents.php?id=%2FwBMB9s1cc%2FDb8OMA5hfhQ%3D%3D | W | R | 
-| 2024新人王戦（台湾）準決勝  | 陳祈睿 | 簡靖庭 | B+R | 2024-04-26 | kifucontents.php?id=exQX0ooJFLUUNlFcKv5n6Q%3D%3D | B | R | 
-| 第11回大舟杯プロシニア最強者戦2回戦 | 姜多情 | 金恵敏 | W+R | 2024-04-26 | kifucontents.php?id=WkpPIsODZ%2BHgYV%2FeqQa%2BMw%3D%3D | W | R | 
-| 第11回大舟杯プロシニア最強者戦2回戦 | 李聖宰 | 劉昌赫 | B+R | 2024-04-26 | kifucontents.php?id=cTrmKKn8eFByrdcoBRrXmg%3D%3D | B | R | 
-| 第29回GSカルテックス杯プロ棋戦2回戦 | 崔精 | 朴常鎭 | W+R | 2024-04-26 | kifucontents.php?id=jzShzTL8XUBR447bQpVVrQ%3D%3D | W | R | 
-| 第12回河燦錫国手杯英才最強戦1回戦 | 金昇珍 | 朱炫禹 | B+R | 2024-04-26 | kifucontents.php?id=oOqd0zzk5JvheGyeXskLGw%3D%3D | B | R | 
