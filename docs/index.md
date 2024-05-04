@@ -236,10 +236,3 @@ noois = no one older is stronger
 
 | **comp** | **black** | **white** | **result** | **date** | **kifu_link** | **who_win** | **win_by** | 
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 第23期天元戦（台湾）挑戦手合七番勝負第1局 | 林士勛 | 許皓鋐 | W+R | 2024-05-03 | kifucontents.php?id=GJmF2Eaqc7nwRVW91qM4PA%3D%3D | W | R | 
-| 第11回大舟杯プロシニア最強者戦2回戦 | 崔明勲 | 韓鐘振 | W+2.5 | 2024-05-03 | kifucontents.php?id=1pvO%2BxCjtSZTxiGWA9iWtA%3D%3D | W | 2.5 | 
-| 第11回大舟杯プロシニア最強者戦2回戦 | 徐奉洙 | 金恩善 | B+R | 2024-05-03 | kifucontents.php?id=ABj6b53uHOl08H2fyhIkwQ%3D%3D | B | R | 
-| 第29回GSカルテックス杯プロ棋戦2回戦 | 申旻埈 | 許栄珞 | B+R | 2024-05-03 | kifucontents.php?id=YEN%2Btz3QrPJgHSysPAnmyQ%3D%3D | B | R | 
-| 第4回IBK企業銀行杯女子囲碁マスターズ予選 | 李スルジュ | 曺承亜 | B+R | 2024-05-03 | kifucontents.php?id=Z1pYxyliF1HpG6efTtvN%2BQ%3D%3D | B | R | 
-| 第12回河燦錫国手杯英才最強戦1回戦 | 金恩持 | 申有旻 | B+0.5 | 2024-05-03 | kifucontents.php?id=oqvwCUl0%2BThbAVdh4fqjnw%3D%3D | B | 0.5 | 
-| 第49期名人戦リーグ  | 富士田明彦 | 許家元 | W+R | 2024-05-02 | kifucontents.php?id=7Jc50qa%2Bx%2FMP7lg5oovR%2BA%3D%3D | W | R | 
