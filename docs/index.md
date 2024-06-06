@@ -241,13 +241,3 @@ noois = no one older is stronger
 
 | **comp** | **black** | **white** | **result** | **date** | **kifu_link** | **who_win** | **win_by** | 
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 第68期関西棋院第一位決定戦3回戦 | 田中康湧 | 西村仁 | B+R | 2024-06-05 | kifucontents.php?id=ArzKXJMOwmxH69Rz7%2BRdoQ%3D%3D | B | R | 
-| 第50期名人戦予選 | 八幡直樹 | 岩田紗絵加 | W+R | 2024-06-05 | kifucontents.php?id=AA7JtCDFkYZcFLasxQXx9g%3D%3D | W | R | 
-| 第50期名人戦予選 | 阿部良希 | 今村俊也 | B+R | 2024-06-05 | kifucontents.php?id=PbmaKYS2vNnujYUwGyBf1A%3D%3D | B | R | 
-| 2024年全国囲碁錦標戦（団体）女子団体第5戦 | 曺承亜 | 崔精 | W+R | 2024-06-05 | kifucontents.php?id=BuUnW3pvsnU2Q4otIVZuxA%3D%3D | W | R | 
-| 2024年全国囲碁錦標戦（団体）女子団体第5戦 | 魯佳 | 劉慧玲 | B+R | 2024-06-05 | kifucontents.php?id=rnEIBuV2xGPCcln%2BvpKgIA%3D%3D | B | R | 
-| 2024年全国囲碁錦標戦（団体）乙級第5戦 | 徐靖恩 | 鄔光亜 | W+R | 2024-06-05 | kifucontents.php?id=B0PQtNO7xp6xqrf%2BmcHVKw%3D%3D | W | R | 
-| 2024年全国囲碁錦標戦（団体）乙級第5戦 | 周睿羊 | 賴均輔 | W+R | 2024-06-05 | kifucontents.php?id=etD7DUpfoXOFGTERweC4aQ%3D%3D | W | R | 
-| 2024年全国囲碁錦標戦（団体）丙級第5戦 | 程宏昊 | 呉依銘 | B+R | 2024-06-05 | kifucontents.php?id=0qdm08TjnxxJLpIv%2FQAPZA%3D%3D | B | R | 
-| 2024年全国囲碁錦標戦（団体）丙級第5戦 | 芝野虎丸 | 韋一博 | B+3¾ | 2024-06-05 | kifucontents.php?id=wB74YpXQpoprLa2n4RBiBw%3D%3D | B | 3¾ | 
-| 第28期馬橋杯中国囲碁新人王戦決勝三番勝負第1局 | 王楚軒 | 周子弈 | B+R | 2024-06-05 | kifucontents.php?id=JNGknxmTiuL%2F2boZG8aB1A%3D%3D | B | R | 
