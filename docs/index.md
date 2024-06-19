@@ -236,24 +236,3 @@ noois = no one older is stronger
 
 | **comp** | **black** | **white** | **result** | **date** | **kifu_link** | **who_win** | **win_by** | 
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 第5回早碁争覇戦4回戦  | 徐靖恩 | 陳祈睿 | B+R | 2024-06-18 | kifucontents.php?id=8wAz4HqQW8BO%2FIDF3H6mtQ%3D%3D | B | R | 
-| 第5回早碁争覇戦4回戦  | 賴均輔 | 王元均 | W+R | 2024-06-18 | kifucontents.php?id=Qg0WyvhHveY0TNZe%2ForEQQ%3D%3D | W | R | 
-| 第11回中国女子囲碁甲級リーグ | 金恩持 | 汪雨博 | B+R | 2024-06-18 | kifucontents.php?id=7K%2FxK4%2Bv%2BWg6zKYGl1ADKQ%3D%3D | B | R | 
-| 第11回中国女子囲碁甲級リーグ | 潘陽 | 張子涵 | W+1¼ | 2024-06-18 | kifucontents.php?id=rCYu2SV7FsUjVQMxm0rBDA%3D%3D | W | 1¼ | 
-| 第11回中国女子囲碁甲級リーグ | 厳惜驀 | 丁柯文 | W+R | 2024-06-18 | kifucontents.php?id=aSKpwCbhI9suqmxrZjgUJA%3D%3D | W | R | 
-| 第11回中国女子囲碁甲級リーグ | 王晨星 | 羅楚玥 | W+R | 2024-06-18 | kifucontents.php?id=qce7Zt385Bya5SH0Raqu9w%3D%3D | W | R | 
-| 第11回中国女子囲碁甲級リーグ | 陸敏全 | 李思璇 | B+R | 2024-06-18 | kifucontents.php?id=Aye6OHogDulWrg3tIRvd8g%3D%3D | B | R | 
-| 第11回中国女子囲碁甲級リーグ | 呉侑珍 | 於之瑩 | B+R | 2024-06-18 | kifucontents.php?id=5omlQa9Ilus3doKpUtNYfA%3D%3D | B | R | 
-| 第11回中国女子囲碁甲級リーグ | 馮韻嘉 | 周泓余 | W+R | 2024-06-18 | kifucontents.php?id=59aR7roSldQM7%2BQYhds%2FGA%3D%3D | W | R | 
-| 第11回中国女子囲碁甲級リーグ | 呉依銘 | 徐海哲 | W+4¼ | 2024-06-18 | kifucontents.php?id=OJF367p1veC4gKlbwZSLyw%3D%3D | W | 4¼ | 
-| 第11回中国女子囲碁甲級リーグ | 方若曦 | 高星 | B+R | 2024-06-18 | kifucontents.php?id=jxfD3NS1BYVV95Pcjj6gYA%3D%3D | B | R | 
-| 第11回中国女子囲碁甲級リーグ | 岳佳妍 | 蔡碧涵 | W+R | 2024-06-18 | kifucontents.php?id=rStyUqm7KT%2F5JgKEaKW%2Fdw%3D%3D | W | R | 
-| 第11回中国女子囲碁甲級リーグ | 李赫 | 黄子萍 | B+R | 2024-06-18 | kifucontents.php?id=K5Je%2B0NKsjRsf13nOyOJXw%3D%3D | B | R | 
-| 第11回中国女子囲碁甲級リーグ | 陳一鳴 | 李鑫怡 | B+R | 2024-06-18 | kifucontents.php?id=04%2FWpQz0CTp7IZb3vHlgeA%3D%3D | B | R | 
-| 第11回中国女子囲碁甲級リーグ | 曾楚典 | 芮廼偉 | W+R | 2024-06-18 | kifucontents.php?id=yKIHALZYhif7UFZOZg4gXg%3D%3D | W | R | 
-| 第11回中国女子囲碁甲級リーグ | 唐奕 | 李小渓 | B+R | 2024-06-18 | kifucontents.php?id=6qvPYVuzPrDMwAuls2Reaw%3D%3D | B | R | 
-| 第11回中国女子囲碁甲級リーグ | 唐嘉雯 | 陳蔓淇 | B+R | 2024-06-18 | kifucontents.php?id=oJbMjonaf61%2BO7wS6SWtHw%3D%3D | B | R | 
-| 第18回GGオークション杯女流対シニア連勝対抗戦第3局 | 岳亮 | 趙恵連 | B+R | 2024-06-17 | kifucontents.php?id=5xk83kzsRyAxMLl5Z5TvKw%3D%3D | B | R | 
-| 第50期名人戦予選 | 常石隆志 | 藤沢里菜 | W+1.5 | 2024-06-17 | kifucontents.php?id=dW783%2FrXy532JrkBlRHG7g%3D%3D | W | 1.5 | 
-| 第31期阿含・桐山杯全日本早碁オープン戦1回戦 | 佐田篤史 | 井山裕太 | W+R | 2024-06-17 | kifucontents.php?id=7J%2FKmPYoUK8MIyJ7kynUQg%3D%3D | W | R | 
-| 第72期王座戦1回戦 | 余正麒 | 酒井佑規 | W+R | 2024-06-17 | kifucontents.php?id=rJloV6T2WEOLmrUFggowfw%3D%3D | W | R | 
