@@ -234,22 +234,5 @@ noois = no one older is stronger
 
 | **comp** | **black** | **white** | **result** | **date** | **kifu_link** | **who_win** | **win_by** | 
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 第11回中国女子囲碁甲級リーグ | 汪雨博 | 岳佳妍 | B+R | 2024-07-07 | kifucontents.php?id=6J4Rzg6ogehqh3SwJMRlLg%3D%3D | B | R | 
-| 第11回中国女子囲碁甲級リーグ | 潘陽 | 李小渓 | B+2¾ | 2024-07-07 | kifucontents.php?id=eKYe6Ig1NNP0b%2BaczdzxrA%3D%3D | B | 2¾ | 
-| 第11回中国女子囲碁甲級リーグ | 李赫 | 厳惜驀 | B+R | 2024-07-07 | kifucontents.php?id=ECBmHDoQXymyRQ%2FD2yCbow%3D%3D | B | R | 
-| 第11回中国女子囲碁甲級リーグ | 徐海哲 | 李思璇 | W+R | 2024-07-07 | kifucontents.php?id=m5aoGFbXchcIvOumAkzz%2Fw%3D%3D | W | R | 
-| 第11回中国女子囲碁甲級リーグ | 於之瑩 | 章重恒 | B+R | 2024-07-07 | kifucontents.php?id=SwomZ3Id8p0EaO2hLamTEg%3D%3D | B | R | 
-| 第11回中国女子囲碁甲級リーグ | 尹渠 | 方若曦 | W+R | 2024-07-07 | kifucontents.php?id=isWcRMTZJWC905vV3YfWkw%3D%3D | W | R | 
-| 第11回中国女子囲碁甲級リーグ | 羅楚玥 | 陳蔓淇 | B+R | 2024-07-07 | kifucontents.php?id=ZmNCznPuS1C2DERfcYkdrw%3D%3D | B | R | 
-| 第11回中国女子囲碁甲級リーグ | 趙千越 | 趙奕斐 | W+R | 2024-07-07 | kifucontents.php?id=RjAYYqT8%2BbKOEskuIA7z%2FA%3D%3D | W | R | 
-| 第11回中国女子囲碁甲級リーグ | 陸敏全 | 李小渓 | B+R | 2024-07-07 | kifucontents.php?id=kg9pQvWV%2FJBeDBoWOb6jEg%3D%3D | B | R | 
-| 第11回中国女子囲碁甲級リーグ | 蔡碧涵 | 馮韻嘉 | W+R | 2024-07-07 | kifucontents.php?id=1hcnCE9qamladgXtWdHhOA%3D%3D | W | R | 
-| 第11回中国女子囲碁甲級リーグ | 呉依銘 | 陳一鳴 | B+¾ | 2024-07-07 | kifucontents.php?id=2HQ7UtdVsAMX3PmLZIp8rQ%3D%3D | B | ¾ | 
-| 第11回中国女子囲碁甲級リーグ | 高星 | 黄子萍 | B+R | 2024-07-07 | kifucontents.php?id=WlxQQ%2B%2Fj%2FiRAS63zhBs7fg%3D%3D | B | R | 
-| 第11回中国女子囲碁甲級リーグ | 唐嘉雯 | 丁柯文 | B+1¾ | 2024-07-07 | kifucontents.php?id=22%2FQbHRFgb0ngJGNykOO2Q%3D%3D | B | 1¾ | 
-| 第11回中国女子囲碁甲級リーグ | 唐奕 | 張子涵 | W+2¼ | 2024-07-07 | kifucontents.php?id=7OkibuLtZPa5iY9%2BW%2F9tNQ%3D%3D | W | 2¼ | 
-| 第11回中国女子囲碁甲級リーグ | 祝菲鴻 | 芮廼偉 | W+R | 2024-07-07 | kifucontents.php?id=faPRQHu3dKfo7cdLRiCQHA%3D%3D | W | R | 
-| 2024チャレンジ囲碁リーグプレーオフ | 呉侑珍 | 睦鎮碩 | W+R | 2024-07-06 | kifucontents.php?id=Y%2B5DRLRDxGyrVBDiojRSSQ%3D%3D | W | R | 
-| 2024チャレンジ囲碁リーグプレーオフ | 韓雄奎 | 沈載益 | B+0.5 | 2024-07-06 | kifucontents.php?id=T7yxmcuycD1f3F%2FrOfQvcQ%3D%3D | B | 0.5 | 
-| 2024チャレンジ囲碁リーグプレーオフ | 尹畯相 | 姜昇旼 | W+R | 2024-07-06 | kifucontents.php?id=JhoufWlWeJUYIN0xN%2FcPzw%3D%3D | W | R | 
-| 2024チャレンジ囲碁リーグプレーオフ | 羅玄 | 趙漢乗 | W+0.5 | 2024-07-06 | kifucontents.php?id=uNN8UJO%2FExsbCPqrCwO13w%3D%3D | W | 0.5 | 
+| 2024チャレンジ囲碁リーグチャンピオン決定戦 | 韓雄奎 | 羅玄 | B+R | 2024-07-07 | kifucontents.php?id=s1XpzoU1%2Bwq3pWeGJpu%2B4A%3D%3D | B | R | 
+| 2024チャレンジ囲碁リーグチャンピオン決定戦 | 姜昇旼 | 睦鎮碩 | B+R | 2024-07-07 | kifucontents.php?id=cYHMqzMu9yZ8FcERohyQxQ%3D%3D | B | R | 
