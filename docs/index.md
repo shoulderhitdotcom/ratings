@@ -234,10 +234,3 @@ noois = no one older is stronger
 
 | **comp** | **black** | **white** | **result** | **date** | **kifu_link** | **who_win** | **win_by** | 
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 第63期十段戦予選 | 西健伸 | 瀬戸大樹 | W+R | 2024-07-18 | kifucontents.php?id=deb7eFP6%2FIeLMSR%2Fe4lKUg%3D%3D | W | R | 
-| 第31期阿含・桐山杯全日本早碁オープン戦1回戦 | 結城聡 | 余正麒 | W+4.5 | 2024-07-18 | kifucontents.php?id=qsMFU8axUSGyrtrYJVW1FQ%3D%3D | W | 4.5 | 
-| 第26回農心杯日本予選 | 許家元 | 関航太郎 | B+R | 2024-07-18 | kifucontents.php?id=mCgZfrPjQmSiOx6%2B3HLF7A%3D%3D | B | R | 
-| 2024年全国囲碁昇段戦第7戦 | 陳家瑞 | 韓卓然 | W+R | 2024-07-18 | kifucontents.php?id=XWdk9f9MExT7N2P92ZFxIw%3D%3D | W | R | 
-| 2024年全国囲碁昇段戦第7戦 | 胡子豪 | 王春暉 | W+R | 2024-07-18 | kifucontents.php?id=Cl8A2998oLbtBTfOz7b6tg%3D%3D | W | R | 
-| 第26回農心杯韓国予選 | 偰玹準 | 卞相壹 | B+R | 2024-07-18 | kifucontents.php?id=HlfLOxAVG58RhFjPgFFGtQ%3D%3D | B | R | 
-| 第4回IBK企業銀行杯女子囲碁マスターズ準決勝 | 趙恵連 | 呉侑珍 | W+R | 2024-07-17 | kifucontents.php?id=PxsYDoNhl%2FYTGEA5r4nLJg%3D%3D | W | R | 
