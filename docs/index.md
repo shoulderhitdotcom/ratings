@@ -234,6 +234,3 @@ noois = no one older is stronger
 
 | **comp** | **black** | **white** | **result** | **date** | **kifu_link** | **who_win** | **win_by** | 
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2024韓国女子囲碁リーグ | 金珉舒 | 趙恵連 | B+3.5 | 2024-07-20 | kifucontents.php?id=hmIsU6kX0EuUHd7srlSg3A%3D%3D | B | 3.5 | 
-| 2024韓国女子囲碁リーグ | 金秀眞 | 李スルジュ | W+R | 2024-07-20 | kifucontents.php?id=WFZruisHnE1NdgmVfn7nvw%3D%3D | W | R | 
-| 2024韓国女子囲碁リーグ | 金多瑛 | 金恩持 | W+1.5 | 2024-07-20 | kifucontents.php?id=geDD2zRuYu3rB8qaVtKHTA%3D%3D | W | 1.5 | 
