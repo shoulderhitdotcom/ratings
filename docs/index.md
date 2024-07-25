@@ -234,8 +234,3 @@ noois = no one older is stronger
 
 | **comp** | **black** | **white** | **result** | **date** | **kifu_link** | **who_win** | **win_by** | 
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 第63期十段戦予選 | 中野泰宏 | 清成哲也 | W+R | 2024-07-24 | kifucontents.php?id=ZfyqLyJ%2F%2F1QCYPs24df36w%3D%3D | W | R | 
-| 第50期碁聖戦予選 | 八幡直樹 | 西村仁 | W+R | 2024-07-24 | kifucontents.php?id=Z1ehqhA7xJ58fKqikpVZQQ%3D%3D | W | R | 
-| 第2回ルーキー囲碁英雄戦決勝 | 許才源 | 韓友賑 | W+R | 2024-07-24 | kifucontents.php?id=snT11Q4dXgMdaF8FVflvvQ%3D%3D | W | R | 
-| 第5期ソパルコサノル最高棋士決定戦リーグ | 朴珉奎 | 金庭賢 | W+1.5 | 2024-07-24 | kifucontents.php?id=HpxKEewt2eCNa8vGpKaC9g%3D%3D | W | 1.5 | 
-| 第47期名人戦（韓国）予選 | 仲邑菫 | 元晟溱 | W+R | 2024-07-24 | kifucontents.php?id=AMgJDYItCRx2xrxWcSf9Dw%3D%3D | W | R | 
