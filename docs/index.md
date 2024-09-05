@@ -87,7 +87,7 @@
 | 87 | Zhang Qiang | 3375 | 88 | 3373 | 31 | 20 | China | Male | 0001-01-01 | 張強 | missing | missing | 
 | 88 | Baek Hyeonwoo | 3368 | 118 | 3270 | 36 | 15 | missing | missing | missing | 白現宇 | missing | missing | 
 | 89 | Park Minkyu | 3366 | 95 | 3349 | 70 | 33 | Korea | Male | 0001-01-01 | 朴珉奎 | missing | missing | 
-| 91 | Yu Zhengqi | 3364 | 87 | 3376 | 96 | 44 | Japan | Male | 1995-06-19 | 余正麒 | missing | missing | 
+| 91 | Yu Zhengqi | 3364 | 87 | 3376 | 97 | 45 | Japan | Male | 1995-06-19 | 余正麒 | missing | missing | 
 | 94 | Wang Chunhui | 3357 | 83 | 3388 | 48 | 37 | missing | missing | missing | 王春暉 | missing | missing | 
 | 95 | Hsu Chiayuan | 3352 | 100 | 3332 | 87 | 47 | Japan | Male | 1997-12-24 | 許家元 | missing | missing | 
 | 97 | Yamashita Keigo | 3348 | 86 | 3378 | 36 | 13 | Japan | Male | 1978-09-06 | 山下敬吾 | missing | missing | 
@@ -229,36 +229,4 @@ noois = no one older is stronger
 
 | **comp** | **black** | **white** | **result** | **date** | **kifu_link** | **who_win** | **win_by** | 
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 第51期天元戦予選 | 小野幸治 | 佐田篤史 | W+R | 2024-09-04 | kifucontents.php?id=jw%2BfLNjHm99ZG1PBAL3KRg%3D%3D | W | R | 
-| 第50期名人戦予選 | 河英一 | 結城聡 | W+R | 2024-09-04 | kifucontents.php?id=xXN0ij1wIaOpEFIpw80Uow%3D%3D | W | R | 
-| 第4期中国女子囲碁国手戦1回戦 | 方若曦 | 李思璇 | B+R | 2024-09-04 | kifucontents.php?id=k8FSBkJajfLjzixd9Ygogg%3D%3D | B | R | 
-| 第4期中国女子囲碁国手戦1回戦 | 李赫 | 丁柯文 | B+R | 2024-09-04 | kifucontents.php?id=IoiWhXKUTSCN2q84jTB7WA%3D%3D | B | R | 
-| 第4期中国女子囲碁国手戦1回戦 | 潘陽 | 陸敏全 | B+R | 2024-09-04 | kifucontents.php?id=PRKdq6OaQcGrmuHSdoSEqw%3D%3D | B | R | 
-| 第4期中国女子囲碁国手戦1回戦 | 岳佳妍 | 呉依銘 | W+R | 2024-09-04 | kifucontents.php?id=f2Qx8%2FKu4Po9O5hcXaMmEA%3D%3D | W | R | 
-| 第4期中国女子囲碁国手戦1回戦 | 劉慧玲 | 周泓余 | W+R | 2024-09-04 | kifucontents.php?id=qY41H5oaWRsbqad2n7wJ%2FA%3D%3D | W | R | 
-| 第4期中国女子囲碁国手戦1回戦 | 李小渓 | 於之瑩 | W+R | 2024-09-04 | kifucontents.php?id=JCcbZ26TIJwyheBrmpt30g%3D%3D | W | R | 
-| 第4期中国女子囲碁国手戦1回戦 | 徐海哲 | 羅楚玥 | W+¼ | 2024-09-04 | kifucontents.php?id=fQLHbqqCp6gJz%2F%2Bi443cVQ%3D%3D | W | ¼ | 
-| 第4期中国女子囲碁国手戦1回戦 | 唐嘉雯 | 劉子葭 | B+R | 2024-09-04 | kifucontents.php?id=j0ll9%2Fkp25WiN%2B36ihZDkQ%3D%3D | B | R | 
-| 第4回蘭雪軒杯全国女子囲碁大会予選 | 曺承亜 | 金秀眞 | B+6.5 | 2024-09-04 | kifucontents.php?id=WUzteFDtyTosIvjzWxYy3A%3D%3D | B | 6.5 | 
-| 第47期名人戦（韓国）2回戦 | 李志賢 | 文敏鍾 | B+R | 2024-09-04 | kifucontents.php?id=kjXdDiUhcQOt%2Fp2di%2B0ZRg%3D%3D | B | R | 
-| 第12期中環碁聖戦 | 彭景華 | 李維 | W+R | 2024-09-03 | kifucontents.php?id=nn8dAg9Cd%2FwvCWLe1yuz5A%3D%3D | W | R | 
-| 第12期中環碁聖戦 | 王惇楷 | 彭鐏徳 | W+1.5 | 2024-09-03 | kifucontents.php?id=PSaQWcBfj8vcMCSdfI8%2F5g%3D%3D | W | 1.5 | 
-| 第12期中環碁聖戦 | 林世民 | 鄭予皓 | B+5.5 | 2024-09-03 | kifucontents.php?id=2RsVC7o%2BWUHHaBqnD2WFzw%3D%3D | B | 5.5 | 
-| 第12期中環碁聖戦 | 黄彦誠 | 簡靖庭 | W+R | 2024-09-03 | kifucontents.php?id=eKi2YGHoHDNKgP4%2BkutlDA%3D%3D | W | R | 
-| 第12期中環碁聖戦 | 林瀚彰 | 周平強 | B+1.5 | 2024-09-03 | kifucontents.php?id=%2BrEPtaQPwFOdSknSAECkfQ%3D%3D | B | 1.5 | 
-| 第12期中環碁聖戦 | 林鈺娗 | 呉彦諶 | W+R | 2024-09-03 | kifucontents.php?id=iMyYIJsnbBxmNlj%2BsfBQXg%3D%3D | W | R | 
-| 第12期中環碁聖戦 | 張庭維 | 牛詩特 | W+R | 2024-09-03 | kifucontents.php?id=9T%2FCI%2F7WCPd2isgO10yqRQ%3D%3D | W | R | 
-| 第12期中環碁聖戦 | 劉一芳 | 白昕卉 | W+R | 2024-09-03 | kifucontents.php?id=Jh33IHtxN3JB9BqhUqQhbg%3D%3D | W | R | 
-| 第12期中環碁聖戦 | 盧鈺樺 | 陳威廷 | B+1.5 | 2024-09-03 | kifucontents.php?id=gHfQJa8vML746jLtUb17yQ%3D%3D | B | 1.5 | 
-| 第12期中環碁聖戦 | 林書陽 | 楊博崴 | W+R | 2024-09-03 | kifucontents.php?id=Im3DRQPdH3wRGc1kj5028A%3D%3D | W | R | 
-| 第12期中環碁聖戦 | 戴嘉伸 | 孫偉勛 | W+R | 2024-09-03 | kifucontents.php?id=hYCkRfJzbcD1MO6zuosPgw%3D%3D | W | R | 
-| 第12期中環碁聖戦 | 林怡廷 | 陳國興 | W+R | 2024-09-03 | kifucontents.php?id=lZdbLHPEmpnqOuC%2FiGI74w%3D%3D | W | R | 
-| 第12期中環碁聖戦 | 黄世元 | 楊子萱 | W+R | 2024-09-03 | kifucontents.php?id=YqK8MByqIPDAy0cT33jP%2FQ%3D%3D | W | R | 
-| 第12期中環碁聖戦 | 余炳葟 | 李奎漢 | B+R | 2024-09-03 | kifucontents.php?id=L3SUh%2FnxYLDHOd7YV90a1A%3D%3D | B | R | 
-| 第12期中環碁聖戦 | 林修平 | 黄袖圃 | B+R | 2024-09-03 | kifucontents.php?id=FGZfSlCglT2Z1%2BwzOvNygw%3D%3D | B | R | 
-| 第12期中環碁聖戦 | 周可平 | 陳首廉 | W+R | 2024-09-03 | kifucontents.php?id=d7B4ryao2zpoBUWfRshyFQ%3D%3D | W | R | 
-| 第12期中環碁聖戦 | 孫立言 | 林彦丞 | W+R | 2024-09-03 | kifucontents.php?id=oKrhB%2BNweXaONyQLZp7V7g%3D%3D | W | R | 
-| 第12期中環碁聖戦 | 曾品傑 | 陳詩淵 | W+2.5 | 2024-09-03 | kifucontents.php?id=qlRDwAVrvNssDMZzOp6KTg%3D%3D | W | 2.5 | 
-| 第12期中環碁聖戦 | 李嘉馨 | 蔡文河 | B+1.5 | 2024-09-03 | kifucontents.php?id=HX4CJLM7VPuQksdGIjPSlQ%3D%3D | B | 1.5 | 
-| 第12期中環碁聖戦 | 張凱馨 | 劉建昌 | B+R | 2024-09-03 | kifucontents.php?id=Ps6jSb6xAR2hVqhA964v%2Bg%3D%3D | B | R | 
-| 第12期中環碁聖戦 | 沈逸恩 | 林宇翔 | W+R | 2024-09-03 | kifucontents.php?id=%2Fq7RqbNHDBTWvO1KbqI2rw%3D%3D | W | R | 
+| 第51期天元戦予選 | 倉橋正行 | 余正麒 | W+4.5 | 2024-09-04 | kifucontents.php?id=Rk06jAmeVpGEFirhO9dUTw%3D%3D | W | 4.5 | 
