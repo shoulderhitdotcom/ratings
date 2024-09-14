@@ -171,7 +171,7 @@ end
 # 1) only young plyers can stronger  (noows)
 # 2) no one younger is stronger    (noyis)
 e = @chain d begin
-    @transform :date_of_birth = @passmissing Date(:date_of_birth)
+    @transform :date_of_birth = @passmissing :date_of_birth == "" ? missing : Date(:date_of_birth)
     @transform :youngest = @bycol accumulate(max, :date_of_birth)
     @transform :noyis = @passmissing begin
         :date_of_birth == :youngest ? "noyis" : ""
