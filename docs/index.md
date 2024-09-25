@@ -224,22 +224,3 @@ noois = no one older is stronger
 
 | **comp** | **black** | **white** | **result** | **date** | **kifu_link** | **who_win** | **win_by** | 
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 第49期新人王戦決勝三番勝負第1局  | 藤井浩貴 | 三浦太郎 | W+R | 2024-09-24 | kifucontents.php?id=LIqJoYqcGyhPZYmTwPACKg%3D%3D | W | R | 
-| 第1回晋城全国職業囲碁公開戦準決勝 | 連笑 | 李軒豪 | B+R | 2024-09-24 | kifucontents.php?id=cIYGuY%2B0PpM6Dq%2FzUyea%2Bg%3D%3D | B | R | 
-| 第1回晋城全国職業囲碁公開戦準決勝 | 王世一 | 楊鼎新 | W+¼ | 2024-09-24 | kifucontents.php?id=b2%2F6hleHf1sbZ1kYNCPwYg%3D%3D | W | ¼ | 
-| 第12期中環碁聖戦8強戦 | 賴均輔 | 林立祥 | B+R | 2024-09-24 | kifucontents.php?id=s34WqubA1WLRhilmqNCLLA%3D%3D | B | R | 
-| 第12期中環碁聖戦8強戦 | 林君諺 | 陳祈睿 | W+R | 2024-09-24 | kifucontents.php?id=jB4TSM4A8lIQVGr1XBOtQw%3D%3D | W | R | 
-| 2024レジェンドリーグ | 李相勲 | 呉圭喆 | B+R | 2024-09-24 | kifucontents.php?id=MwTyR%2B%2BYJaQHid3IAvvSSw%3D%3D | B | R | 
-| 2024レジェンドリーグ | 崔明勲 | 安官旭 | W+3.5 | 2024-09-24 | kifucontents.php?id=EhDzla0wsIdkMhKfVzr8oQ%3D%3D | W | 3.5 | 
-| 2024レジェンドリーグ | 梁建 | 金秀壮 | B+R | 2024-09-24 | kifucontents.php?id=eMEmzu4ny6T8KorzZ79Jxg%3D%3D | B | R | 
-| 第1回北海新繹杯韓国予選 | 趙漢乗 | 李沇 | B+0.5 | 2024-09-24 | kifucontents.php?id=n0cQ6aZtKCfIkK6d%2Fi180Q%3D%3D | B | 0.5 | 
-| 第1回北海新繹杯韓国予選 | 羅玄 | 睦鎮碩 | B+R | 2024-09-24 | kifucontents.php?id=RWT1A9BmxrnkyvIbw74PSw%3D%3D | B | R | 
-| 第17期棋王戦（台湾）リーグ | 林立祥 | 王元均 | B+R | 2024-09-23 | kifucontents.php?id=HUVuXs2UyQz%2BMpOjSWB31g%3D%3D | B | R | 
-| 第17期棋王戦（台湾）リーグ | 盧奕銓 | 蕭正浩 | B+R | 2024-09-23 | kifucontents.php?id=%2B9mWgnXVzIjbLU92Bkregg%3D%3D | B | R | 
-| 第8期女子棋聖戦（韓国）1回戦 | 呉政娥 | 金美里 | W+R | 2024-09-23 | kifucontents.php?id=k3SqsWSkWMqYi1%2BJETHahQ%3D%3D | W | R | 
-| 第7回呉清源杯予選 | 曺承亜 | 魏欣桐 | W+¼ | 2024-09-23 | kifucontents.php?id=zW0LTn9EFq7GBMa0szn5MA%3D%3D | W | ¼ | 
-| 第7回呉清源杯予選 | 徐海哲 | 許瑞玹 | B+R | 2024-09-23 | kifucontents.php?id=e9wjfdobAVrf3J9B85a7qg%3D%3D | B | R | 
-| 第7回呉清源杯予選 | 呉侑珍 | 章重恒 | B+R | 2024-09-23 | kifucontents.php?id=UGtdiXvbvMWclTkt21jStA%3D%3D | B | R | 
-| 第7回呉清源杯予選 | 朴昭律 | 陳一鳴 | W+R | 2024-09-23 | kifucontents.php?id=DqIvfzILDcKB%2FbTS5JLWKg%3D%3D | W | R | 
-| 第17期棋王戦（台湾）リーグ | 陳祈睿 | 林君諺 | B+R | 2024-09-23 | kifucontents.php?id=q242ZILg42WYWczQHaJKBA%3D%3D | B | R | 
-| 第5回早碁争覇戦決勝三番勝負第1局  | 徐靖恩 | 許皓鋐 | W+R | 2024-09-23 | kifucontents.php?id=vbvyGqXq8J6AztKy04mj0Q%3D%3D | W | R | 
