@@ -231,20 +231,3 @@ noois = no one older is stronger
 
 | **comp** | **black** | **white** | **result** | **date** | **kifu_link** | **who_win** | **win_by** | 
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 第50期碁聖戦予選 | 山下敬吾 | 富士田明彦 | W+R | 2024-10-03 | kifucontents.php?id=psOFbFak3tVnkOC%2BiYnAKw%3D%3D | W | R | 
-| 第50期碁聖戦予選 | 柳時熏 | 張栩 | B+8.5 | 2024-10-03 | kifucontents.php?id=WgvK2sp%2B4r7ghGYtlfs7wQ%3D%3D | B | 8.5 | 
-| 第49期棋聖戦Cリーグ | 西健伸 | 藤沢里菜 | B+R | 2024-10-03 | kifucontents.php?id=xA0F%2BLVdBJmo%2FVKJtBqQQg%3D%3D | B | R | 
-| 第28期ドコモ杯女流棋聖戦1回戦 | 奥田あや | 上野愛咲美 | W+R | 2024-10-03 | kifucontents.php?id=Kw%2FMWihrMq4E%2F4sCNgnmGQ%3D%3D | W | R | 
-| 第80期本因坊戦予選 | 謝依旻 | 鈴木伸二 | B+R | 2024-10-03 | kifucontents.php?id=HRd2knKd%2B7%2F%2BKUHClrLPKA%3D%3D | B | R | 
-| 2024韓国女子囲碁リーグ | 姜多情 | 李スルジュ | B+R | 2024-10-02 | kifucontents.php?id=8GsGVSe1UhsrI5bjwLNtPA%3D%3D | B | R | 
-| 2024韓国女子囲碁リーグ | 金珉舒 | 呉侑珍 | W+9.5 | 2024-10-02 | kifucontents.php?id=CKAMh0CBRsngRKDKKKo5Kw%3D%3D | W | 9.5 | 
-| 2024韓国女子囲碁リーグ | 朴昭律 | 金多瑛 | B+R | 2024-10-02 | kifucontents.php?id=%2B6ULYzBuLRUOI%2B0cjXVD0Q%3D%3D | B | R | 
-| 2024韓国女子囲碁リーグ | 高ミソ | 金恵敏 | B+R | 2024-10-02 | kifucontents.php?id=NIX%2Bta9AKdcnVJTq3RqOXg%3D%3D | B | R | 
-| 2024韓国女子囲碁リーグ | 朴泰姬 | 仲邑菫 | B+4.5 | 2024-10-02 | kifucontents.php?id=rnT0Jq3QosZdSg%2BE2%2BuQow%3D%3D | B | 4.5 | 
-| 2024韓国女子囲碁リーグ | 金湊笌 | 金京垠 | B+R | 2024-10-02 | kifucontents.php?id=9G%2B7x1uWRTgAsS2GMQwxGg%3D%3D | B | R | 
-| 2024韓国女子囲碁リーグ | 李奈炫 | 鄭有珍 | W+R | 2024-10-02 | kifucontents.php?id=ZImjeb2ULLC73TO6Y9wqww%3D%3D | W | R | 
-| 2024韓国女子囲碁リーグ | 金恩善 | 崔序妃 | B+R | 2024-10-02 | kifucontents.php?id=mFDehF%2BlcW6Pr4J%2B9JU2Hw%3D%3D | B | R | 
-| 2024韓国女子囲碁リーグ | 金彩瑛 | 許瑞玹 | B+R | 2024-10-02 | kifucontents.php?id=h445ncXelqI8SAVpdVuzig%3D%3D | B | R | 
-| 2024韓国女子囲碁リーグ | 金恩持 | 呉政娥 | B+R | 2024-10-02 | kifucontents.php?id=KzYvQm%2BmovWO4e%2BgrBzV9Q%3D%3D | B | R | 
-| 2024韓国女子囲碁リーグ | 曺承亜 | 金秀眞 | B+6.5 | 2024-10-02 | kifucontents.php?id=3juErDD7LXFyqXIP1Hncbw%3D%3D | B | 6.5 | 
-| 2024韓国女子囲碁リーグ | 趙恵連 | 金相仁 | B+R | 2024-10-02 | kifucontents.php?id=vnc7ltf7%2F5%2FlkUDqlAPMMw%3D%3D | B | R | 
