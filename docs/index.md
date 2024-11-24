@@ -244,5 +244,3 @@ noois = no one older is stronger
 
 | **comp** | **black** | **white** | **result** | **date** | **kifu_link** | **who_win** | **win_by** | 
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 第29回三星火災杯世界囲碁マスターズ決勝三番勝負第3局 | 党毅飛 | 丁浩 | W+R | 2024-11-22 | kifucontents.php?id=x3JWXoICzaCXWiPp3yB6zQ%3D%3D | W | R | 
-| 第17期棋王戦（台湾）挑戦手合七番勝負第2局  | 許皓鋐 | 陳祈睿 | B+R | 2024-11-22 | kifucontents.php?id=oA%2Fu8yNZkvWPi13vv4XcFA%3D%3D | B | R | 
