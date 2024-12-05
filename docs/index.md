@@ -120,7 +120,7 @@
 | 132 | Ahn Kukhyun | 3203 | 159 | 3032 | 37 | 13 | Korea | Male | 1992-07-23 | 安国鉉 | missing | missing | 
 | 133 | Lee Changho | 3197 | 128 | 3164 | 66 | 38 | Korea | Male | 1975-07-29 | 李昌鎬 | missing | missing | 
 | 134 | Hirose Yuichi | 3189 | 127 | 3171 | 40 | 19 | Japan | Male | 2001-08-09 | 広瀬優一 | missing | missing | 
-| 135 | Murakawa Daisuke | 3186 | 92 | 3334 | 45 | 24 | Japan | Male | 1990-12-14 | 村川大介 | missing | missing | 
+| 135 | Murakawa Daisuke | 3186 | 92 | 3334 | 46 | 25 | Japan | Male | 1990-12-14 | 村川大介 | missing | missing | 
 | 136 | Miura Taro | 3185 | 124 | 3184 | 26 | 17 | Japan | Unknown | 2004-11-14 | 三浦太郎 | missing | missing | 
 | 137 | Kim Cheayoung | 3185 | 131 | 3159 | 130 | 48 | Korea | Female | 1996-01-15 | 金彩瑛 | missing | missing | 
 | 138 | Tang Jiawen | 3183 | 113 | 3244 | 83 | 42 | missing | missing | missing | 唐嘉雯 | missing | missing | 
@@ -198,7 +198,7 @@
 | 214 | Cai Chengwei | 2879 | 184 | 2945 | 60 | 30 | Taiwan | Male | missing | 蔡丞韋 | missing | missing | 
 | 215 | Park Taehee | 2879 | 195 | 2899 | 36 | 16 | Korea | Female | missing | 朴泰姬 | missing | missing | 
 | 216 | 沈逸恩 | 2858 | 213 | 2815 | 69 | 33 | missing | missing | missing | 沈逸恩 | missing | missing | 
-| 217 | Omote Yuto | 2854 | 154 | 3058 | 26 | 15 | Japan | Unknown | 2007-06-04 | 表悠斗 | missing | missing | 
+| 217 | Omote Yuto | 2854 | 154 | 3058 | 27 | 16 | Japan | Unknown | 2007-06-04 | 表悠斗 | missing | missing | 
 | 218 | 金相仁 | 2853 | 239 | 2482 | 32 | 14 | missing | missing | missing | 金相仁 | missing | missing | 
 | 219 | Zhang Zhehao | 2848 | 243 | 2475 | 40 | 18 | Taiwan | Male | missing | 張哲豪 | missing | missing | 
 | 220 | An Kwanwuk | 2841 | 197 | 2887 | 33 | 16 | Korea | Male | 1961-11-08 | 安官旭 | missing | missing | 
@@ -213,7 +213,7 @@
 | 230 | Kim Soojang | 2748 | 245 | 2458 | 32 | 15 | Korea | Male | 1957-11-15 | 金秀壮 | missing | missing | 
 | 231 | 林瀚彰 | 2745 | 258 | 813 | 43 | 14 | missing | missing | missing | 林瀚彰 | missing | missing | 
 | 232 | Ko Miso | 2720 | 233 | 2631 | 34 | 19 | missing | missing | missing | 高ミソ | missing | missing | 
-| 233 | Tsuji Shigehito | 2713 | 189 | 2938 | 33 | 17 | Japan | Unknown | 2002-03-26 | 辻篤仁 | missing | missing | 
+| 233 | Tsuji Shigehito | 2713 | 189 | 2938 | 34 | 18 | Japan | Unknown | 2002-03-26 | 辻篤仁 | missing | missing | 
 | 234 | 陳劭全 | 2711 | 230 | 2666 | 47 | 27 | missing | missing | missing | 陳劭全 | missing | missing | 
 | 235 | 施景尭 | 2705 | 228 | 2668 | 40 | 14 | missing | missing | missing | 施景尭 | missing | missing | 
 | 236 | Kim Dongmyeon | 2671 | 235 | 2567 | 27 | 13 | Korea | Male | 1956-10-24 | 金東勉 | missing | missing | 
@@ -244,7 +244,7 @@ noois = no one older is stronger
 
 | **comp** | **black** | **white** | **result** | **date** | **kifu_link** | **who_win** | **win_by** | 
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 第26回農心辛ラーメン杯世界囲碁最強戦第9戦 | 謝爾豪 | 申旻埈 | B+1.5 | 2024-12-04 | kifucontents.php?id=785GVpKD6IC3%2BGk%2BVzAApw%3D%3D | B | 1.5 | 
-| 第8期女子棋聖戦（韓国）決勝三番勝負第1局 | 崔精 | 仲邑菫 | W+R | 2024-12-03 | kifucontents.php?id=RRqVyja87nO7R3%2FTPuzfEA%3D%3D | W | R | 
-| 第26回農心辛ラーメン杯世界囲碁最強戦第8戦 | 謝爾豪 | 一力遼 | B+R | 2024-12-03 | kifucontents.php?id=%2Bj%2BBUBHNxnImLJVMtTWB1Q%3D%3D | B | R | 
-| 第8期女子棋聖戦（韓国）3位決定戦 | 金恵敏 | 金珉舒 | B+R | 2024-12-02 | kifucontents.php?id=BwqZTso6JwCBu3DtNJ7mAQ%3D%3D | B | R | 
+| 第69期山陽新聞杯関西棋院第一位決定戦1回戦 | 内海晃希 | 村川大介 | W+R | 2024-12-04 | kifucontents.php?id=3lUuMQ4OxMTBV71GAv7tuw%3D%3D | W | R | 
+| 第4回テイケイグループ杯俊英戦予選 | 渡辺由宇 | 辻篤仁 | W+R | 2024-12-04 | kifucontents.php?id=vgZnvttptNM4MHFBeGrj0A%3D%3D | W | R | 
+| 第51期天元戦予選 | 湯川光久 | 河英一 | W+R | 2024-12-04 | kifucontents.php?id=6dqGrlAbFRmFWdfYXE2ZzQ%3D%3D | W | R | 
+| 第73期王座戦予選 | 今村俊也 | 表悠斗 | B+R | 2024-12-04 | kifucontents.php?id=jrAFqqJ9O7FkQnQPRh%2FiGA%3D%3D | B | R | 
