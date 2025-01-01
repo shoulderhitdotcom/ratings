@@ -244,23 +244,3 @@ noois = no one older is stronger
 
 | **comp** | **black** | **white** | **result** | **date** | **kifu_link** | **who_win** | **win_by** | 
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 第26回中国囲碁甲級リーグプレーオフ | 王星昊 | 時越 | W+1¼ | 2024-12-30 | kifucontents.php?id=xCiD0lZuAwN%2FcMcxFeZnOA%3D%3D | W | 1¼ | 
-| 第26回中国囲碁甲級リーグプレーオフ | 黄明宇 | 陶欣然 | W+R | 2024-12-30 | kifucontents.php?id=Ri39yvxzQy8vGcVOk0eSKA%3D%3D | W | R | 
-| 第26回中国囲碁甲級リーグプレーオフ | 朴廷桓 | 李維清 | W+R | 2024-12-30 | kifucontents.php?id=ycUPfq8PoGXQu41EAj4XBg%3D%3D | W | R | 
-| 第26回中国囲碁甲級リーグプレーオフ | 柯潔 | 胡耀宇 | B+R | 2024-12-30 | kifucontents.php?id=S7JbCqqC%2BH5peNTW%2Fw388g%3D%3D | B | R | 
-| 第26回中国囲碁甲級リーグプレーオフ | 申眞諝 | 屠暁宇 | B+R | 2024-12-30 | kifucontents.php?id=tJQBBMkZWGNie5PwWqrXfA%3D%3D | B | R | 
-| 第26回中国囲碁甲級リーグプレーオフ | 連笑 | 謝爾豪 | W+R | 2024-12-30 | kifucontents.php?id=JYQ1PCH2CT8%2FdQz9tKOJ4g%3D%3D | W | R | 
-| 第26回中国囲碁甲級リーグプレーオフ | 党毅飛 | 謝科 | W+R | 2024-12-30 | kifucontents.php?id=M2q8rGM1o4tk%2BUpf8sxiqw%3D%3D | W | R | 
-| 第26回中国囲碁甲級リーグプレーオフ | 廖元赫 | 李欽誠 | B+¾ | 2024-12-30 | kifucontents.php?id=oKAVhdq4cA1jppHpvju3ww%3D%3D | B | ¾ | 
-| 第26回中国囲碁甲級リーグプレーオフ | 邱禹然 | 范廷鈺 | W+R | 2024-12-30 | kifucontents.php?id=QiQ6vp5mEylp6aeoqcKnGA%3D%3D | W | R | 
-| 第26回中国囲碁甲級リーグプレーオフ | 李沢鋭 | 申旻埈 | W+R | 2024-12-30 | kifucontents.php?id=d8DubfmWh%2FgTGpx48pUeTg%3D%3D | W | R | 
-| 第26回中国囲碁甲級リーグプレーオフ | 許皓鋐 | 傅健恒 | W+R | 2024-12-30 | kifucontents.php?id=9W%2F3eT5b3S00eE4ciuChYA%3D%3D | W | R | 
-| 第26回中国囲碁甲級リーグプレーオフ | 周子弈 | 陳翰祺 | B+R | 2024-12-30 | kifucontents.php?id=TjxoaiUVKPeE4neHVzD2Iw%3D%3D | B | R | 
-| 第26回中国囲碁甲級リーグプレーオフ | 童夢成 | 李昌錫 | W+R | 2024-12-30 | kifucontents.php?id=dOrc9DVrZLAt0p58Xqmv6A%3D%3D | W | R | 
-| 第26回中国囲碁甲級リーグプレーオフ | 陳正勲 | 鄭載想 | W+R | 2024-12-30 | kifucontents.php?id=pvUJvAM673Vo4acss4qaJQ%3D%3D | W | R | 
-| 第26回中国囲碁甲級リーグプレーオフ | 范胤 | 李昊潼 | B+R | 2024-12-30 | kifucontents.php?id=6fhL0ud8Ko6xca%2FYZhroJw%3D%3D | B | R | 
-| 第26回中国囲碁甲級リーグプレーオフ | 王世一 | 陳豪鑫 | B+R | 2024-12-30 | kifucontents.php?id=%2Fk89UkMDNZEcN9E3Ht265g%3D%3D | B | R | 
-| 2024-2025韓国囲碁リーグ | 安成浚 | 朴鎭鍈 | B+R | 2024-12-29 | kifucontents.php?id=tO4d%2ByEVqZU59iY3CwLGqQ%3D%3D | B | R | 
-| 2024-2025韓国囲碁リーグ | 宋知勲 | 朴永訓 | B+R | 2024-12-29 | kifucontents.php?id=GEXUtOKv%2FyA50ptOv8%2B9Rw%3D%3D | B | R | 
-| 2024-2025韓国囲碁リーグ | 偰玹準 | 姜東潤 | B+R | 2024-12-29 | kifucontents.php?id=KI4bj1MFKwTUe6go693xhQ%3D%3D | B | R | 
-| 2024-2025韓国囲碁リーグ | 姜昇旼 | 沈載益 | W+R | 2024-12-29 | kifucontents.php?id=bf7IYuYMFcFaeVWf1rn1ew%3D%3D | W | R | 
