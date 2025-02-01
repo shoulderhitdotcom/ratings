@@ -236,8 +236,3 @@ noois = no one older is stronger
 
 | **comp** | **black** | **white** | **result** | **date** | **kifu_link** | **who_win** | **win_by** | 
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 第69期山陽新聞杯関西棋院第一位決定戦2回戦 | 藤井秀哉 | 國澤大斗 | W+3.5 | 2025-01-30 | kifucontents.php?id=8eaksQwc5mewUlAbTx8G3g%3D%3D | W | 3.5 | 
-| 第63期十段戦挑戦者決定戦  | 芝野虎丸 | 許家元 | B+R | 2025-01-30 | kifucontents.php?id=kR3ozIgURdsakLD8nnb%2F%2BA%3D%3D | B | R | 
-| 第36期女流名人戦リーグ | 上野愛咲美 | 牛栄子 | B+R | 2025-01-30 | kifucontents.php?id=GYzwT3DmfNMABmnnHehV%2Bw%3D%3D | B | R | 
-| 第36期女流名人戦リーグ | 横田日菜乃 | 謝依旻 | W+R | 2025-01-30 | kifucontents.php?id=suapGLzv4npgQxxzQexshg%3D%3D | W | R | 
-| 第50期名人戦リーグ  | 福岡航太朗 | 村川大介 | B+R | 2025-01-30 | kifucontents.php?id=%2FoLo9MJZQWS4DJYWsaymsQ%3D%3D | B | R | 
