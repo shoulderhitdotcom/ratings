@@ -230,4 +230,3 @@ noois = no one older is stronger
 
 | **comp** | **black** | **white** | **result** | **date** | **kifu_link** | **who_win** | **win_by** | 
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2025ハナ銀行囲碁スーパーマッチ予選 | 呉侑珍 | 李泰賢 | W+R | 2025-02-07 | kifucontents.php?id=75MSufojty0rY0%2BtOy0jhQ%3D%3D | W | R | 
