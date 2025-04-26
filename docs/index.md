@@ -238,17 +238,3 @@ noois = no one older is stronger
 
 | **comp** | **black** | **white** | **result** | **date** | **kifu_link** | **who_win** | **win_by** | 
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 第6期名人戦（台湾）準決勝第2局  | 林君諺 | 陳祈睿 | W+R | 2025-04-25 | kifucontents.php?id=xqfRSDWarO3htC%2FJhInjYg%3D%3D | W | R | 
-| 第6期名人戦（台湾）準決勝第2局 | 賴均輔 | 李維 | B+R | 2025-04-25 | kifucontents.php?id=KCuxByW4wk605uOq8ijE8Q%3D%3D | B | R | 
-| 2025中国女子囲碁名手戦予選 | 李赫 | 於之瑩 | B+R | 2025-04-25 | kifucontents.php?id=crD7e7KiTvIL4D9sItnQmQ%3D%3D | B | R | 
-| 2025中国女子囲碁名手戦予選 | 岳佳妍 | 王晨星 | W+R | 2025-04-25 | kifucontents.php?id=Uu7c24LsVhygTXsAWzddRA%3D%3D | W | R | 
-| 2025中国女子囲碁名手戦予選 | 芮廼偉 | 李思璇 | W+R | 2025-04-25 | kifucontents.php?id=8Asx74zh1VxSsBQj8znJkA%3D%3D | W | R | 
-| 2025中国女子囲碁名手戦予選 | 高星 | 潘陽 | W+R | 2025-04-25 | kifucontents.php?id=mBMBJ%2FVIpXJfqxG3VlkYAQ%3D%3D | W | R | 
-| 第12回大舟杯プロシニア最強者戦2回戦 | 睦鎮碩 | 李聖宰 | B+R | 2025-04-25 | kifucontents.php?id=UoaxE3bGinLmpDAwGYcfbA%3D%3D | B | R | 
-| 第12回大舟杯プロシニア最強者戦2回戦 | 崔明勲 | 劉昌赫 | W+R | 2025-04-25 | kifucontents.php?id=kK5QcuFZRaRynI6AEum5Aw%3D%3D | W | R | 
-| 第30回GSカルテックス杯プロ棋戦2回戦 | 李志賢 | 元晟溱 | B+R | 2025-04-25 | kifucontents.php?id=5ZShnxUipoJSYXFuRjIvhQ%3D%3D | B | R | 
-| 2024-2025韓国囲碁リーグプレーオフ | 李元栄 | 趙漢乗 | W+6.5 | 2025-04-24 | kifucontents.php?id=GRWrqtUGBaEekmRQlWsknw%3D%3D | W | 6.5 | 
-| 2024-2025韓国囲碁リーグプレーオフ | 沈載益 | 権孝珍 | B+R | 2025-04-24 | kifucontents.php?id=WoN6Y4B26fA2gnUA2vCWHA%3D%3D | B | R | 
-| 2024-2025韓国囲碁リーグプレーオフ | 金恩持 | 許皓鋐 | B+2.5 | 2025-04-24 | kifucontents.php?id=KQaJS2cro9DjCpMAjQ0HoA%3D%3D | B | 2.5 | 
-| 2024-2025韓国囲碁リーグプレーオフ | 安成浚 | 李志賢 | W+R | 2025-04-24 | kifucontents.php?id=yWHaJEH9x9%2FQuPCmR3vy5w%3D%3D | W | R | 
-| 2024-2025韓国囲碁リーグプレーオフ | 朴廷桓 | 偰玹準 | W+R | 2025-04-24 | kifucontents.php?id=xTvwyuaXixA4ie0WnC%2FAzA%3D%3D | W | R | 
