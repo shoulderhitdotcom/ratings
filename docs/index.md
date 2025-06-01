@@ -238,5 +238,3 @@ noois = no one older is stronger
 
 | **comp** | **black** | **white** | **result** | **date** | **kifu_link** | **who_win** | **win_by** | 
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 2025ハナ銀行囲碁スーパーマッチ2回戦 | 金明訓 | 申旻埈 | W+R | 2025-05-31 | kifucontents.php?id=vzQ8M8FAwKwJukdIx8B4Ag%3D%3D | W | R | 
-| 第13回河燦錫国手杯英才最強戦準決勝 | 金恩持 | 李旻䄷 | B+R | 2025-05-30 | kifucontents.php?id=Cn%2BtIxRuAiWZMt7pUiuyRQ%3D%3D | B | R | 
