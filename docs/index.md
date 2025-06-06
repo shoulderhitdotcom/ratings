@@ -236,16 +236,3 @@ noois = no one older is stronger
 
 | **comp** | **black** | **white** | **result** | **date** | **kifu_link** | **who_win** | **win_by** | 
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 第52期天元戦予選 | 上野梨紗 | 酒井真樹 | B+R | 2025-06-05 | kifucontents.php?id=AaqpoCMfZfHxUwMvt5JG4g%3D%3D | B | R | 
-| 第81期本因坊戦予選 | 小西和子 | 中野泰宏 | W+R | 2025-06-05 | kifucontents.php?id=0XT%2FZIlCENlUVrw3mUcIww%3D%3D | W | R | 
-| 第44期女流本因坊戦2回戦 | 田口美星 | 牛栄子 | W+R | 2025-06-05 | kifucontents.php?id=vVfTcGQjcBpL5o9CZVz2fg%3D%3D | W | R | 
-| 第10回扇興杯女流囲碁最強戦2回戦 | 上野愛咲美 | 加藤朋子 | B+R | 2025-06-05 | kifucontents.php?id=7wOtUz78fyCGI2Q%2FakVVZQ%3D%3D | B | R | 
-| 第51期名人戦予選 | 姚智騰 | 藤沢里菜 | W+R | 2025-06-05 | kifucontents.php?id=hpEUn6iaTw7FJyu20vi7tw%3D%3D | W | R | 
-| 第6回快棋争覇戦準決勝  | 王元均 | 林君諺 | B+R | 2025-06-05 | kifucontents.php?id=dTIOdIlmpCWRC8fgdgH1cA%3D%3D | B | R | 
-| 第6回快棋争覇戦準決勝  | 蔡丞韋 | 徐靖恩 | W+R | 2025-06-05 | kifucontents.php?id=bLRcyylLsZcn6h6Cn53Zdw%3D%3D | W | R | 
-| 第26期阿含・桐山杯中国囲碁早碁公開戦2回戦 | 陳梓健 | 党毅飛 | W+1¼ | 2025-06-05 | kifucontents.php?id=vtQx5SGnTqjiOwiSg8TqRw%3D%3D | W | 1¼ | 
-| 第26期阿含・桐山杯中国囲碁早碁公開戦2回戦 | 李維清 | 李欽誠 | W+R | 2025-06-05 | kifucontents.php?id=305I3Kx%2BKCpOia8k6AdlUA%3D%3D | W | R | 
-| 第26期阿含・桐山杯中国囲碁早碁公開戦2回戦 | 楊鼎新 | 丁浩 | W+R | 2025-06-05 | kifucontents.php?id=MaVO%2BMk61ENtmfx9cxGKLA%3D%3D | W | R | 
-| 第26期阿含・桐山杯中国囲碁早碁公開戦2回戦 | 王星昊 | 許嘉陽 | B+¾ | 2025-06-05 | kifucontents.php?id=EuQtEVm0xTU%2F%2BNF34gC88w%3D%3D | B | ¾ | 
-| 第30回GSカルテックス杯プロ棋戦敗者組4回戦 | 朴ジンソル | 卞相壹 | W+R | 2025-06-05 | kifucontents.php?id=erP6KU7KffDWz8Zff7SUIQ%3D%3D | W | R | 
-| 第5回IBK企業銀行杯女子囲碁マスターズ1回戦 | 朴泰姬 | 仲邑菫 | W+R | 2025-06-04 | kifucontents.php?id=jBMs8JLUtNuB9dzdx6d4Kg%3D%3D | W | R | 
