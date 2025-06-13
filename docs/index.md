@@ -236,16 +236,3 @@ noois = no one older is stronger
 
 | **comp** | **black** | **white** | **result** | **date** | **kifu_link** | **who_win** | **win_by** | 
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 第73期王座戦1回戦 | 富士田明彦 | 一力遼 | W+R | 2025-06-12 | kifucontents.php?id=CTnXictlgjlI3obU0vvqhg%3D%3D | W | R | 
-| 第73期王座戦予選 | 許家元 | 李沂修 | B+R | 2025-06-12 | kifucontents.php?id=eZE1QKqHOmSan4wG63V7aw%3D%3D | B | R | 
-| 第4回テイケイグループ杯レジェンド戦準決勝 | 小林泉美 | 趙治勲 | W+1.5 | 2025-06-12 | kifucontents.php?id=CimKmykEUxqqDvn1y2qSVQ%3D%3D | W | 1.5 | 
-| 第69期山陽新聞杯関西棋院第一位決定戦2回戦 | 村川大介 | 瀬戸大樹 | W+0.5 | 2025-06-12 | kifucontents.php?id=PMxTHCxsTDRq%2BPcJFA4N%2FA%3D%3D | W | 0.5 | 
-| 第51期名人戦予選 | 渡辺由宇 | 佐田篤史 | B+R | 2025-06-12 | kifucontents.php?id=PqmN%2FVrmO%2BSqNiYcfH5vxQ%3D%3D | B | R | 
-| 第51期碁聖戦予選 | 孔令文 | 上野梨紗 | B+R | 2025-06-12 | kifucontents.php?id=VAGVfIog7e4T1qJM1YdPHw%3D%3D | B | R | 
-| 第1回ソパルコサノル世界最高棋士決定戦リーグ | 屠暁宇 | 姜東潤 | B+R | 2025-06-12 | kifucontents.php?id=PFfddG5ErkncyMNC5Ji%2Fkw%3D%3D | B | R | 
-| 2025年全国囲碁錦標戦（団体）乙級リーグ  | 賴均輔 | 柳琪峰 | B+R | 2025-06-12 | kifucontents.php?id=HJ%2F2oFL56NtsGsIUxmq9Zg%3D%3D | B | R | 
-| 2025年全国囲碁錦標戦（団体）丙級リーグ | 陳昱森 | 方若曦 | B+R | 2025-06-12 | kifucontents.php?id=%2BAdj%2F0M0kBhGE7GAoq0PZQ%3D%3D | B | R | 
-| 第51期碁聖戦予選 | 河英一 | 結城聡 | W+6.5 | 2025-06-11 | kifucontents.php?id=L0wSWAU%2BjBK8htFAt5XWMA%3D%3D | W | 6.5 | 
-| 第64期十段戦予選 | 西健伸 | 内海晃希 | B+R | 2025-06-11 | kifucontents.php?id=PprNMHnr7HQ%2F1Jmu8aujTg%3D%3D | B | R | 
-| 第1回ソパルコサノル世界最高棋士決定戦リーグ | 申眞諝 | 許嘉陽 | W+R | 2025-06-11 | kifucontents.php?id=NwfuEe2AO16lrNG9Kb3gdA%3D%3D | W | R | 
-| 第1回ソパルコサノル世界最高棋士決定戦リーグ | 福岡航太朗 | 許皓鋐 | W+0.5 | 2025-06-11 | kifucontents.php?id=ioJOQuhGuEy8e5yr9r%2FRRQ%3D%3D | W | 0.5 | 
