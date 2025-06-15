@@ -236,17 +236,3 @@ noois = no one older is stronger
 
 | **comp** | **black** | **white** | **result** | **date** | **kifu_link** | **who_win** | **win_by** | 
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 第5回フマキラー囲碁女流ブレーンズマッチ決勝  | 星合志保 | 藤沢里菜 | W+R | 2025-06-14 | kifucontents.php?id=FHDCRreWGH0wH%2BmCgF1x9w%3D%3D | W | R | 
-| 第5回フマキラー囲碁女流ブレーンズマッチ準決勝 | 星合志保 | 上野愛咲美 | B+0.5 | 2025-06-14 | kifucontents.php?id=wX98%2B%2B33FY3pFZSfmx2OVQ%3D%3D | B | 0.5 | 
-| 第5回フマキラー囲碁女流ブレーンズマッチ準決勝 | 藤沢里菜 | 牛栄子 | B+R | 2025-06-14 | kifucontents.php?id=a5JHzT5IVmldUSgOUnz1zw%3D%3D | B | R | 
-| 2025年全国囲碁錦標戦（団体）女子乙級リーグ | 盧鈺樺 | 魯佳 | W+2¼ | 2025-06-14 | kifucontents.php?id=rkJpEUuArLd%2FB6aldgY5vw%3D%3D | W | 2¼ | 
-| 2025年全国囲碁錦標戦（団体）男子乙級リーグ | 王元均 | 孫騰宇 | B+R | 2025-06-14 | kifucontents.php?id=gm%2F05hRLaVTAtTYi%2F1%2FJlw%3D%3D | B | R | 
-| 2025ハナ銀行囲碁スーパーマッチ準決勝 | 朴廷桓 | 申旻埈 | B+R | 2025-06-14 | kifucontents.php?id=w9tMK9p7iCyn0j8mJfr13g%3D%3D | B | R | 
-| 大舟vs利鵬プロ連勝対抗戦第1局 | 徐奉洙 | 仲邑菫 | W+R | 2025-06-14 | kifucontents.php?id=g%2BpU1vLDCkL2zUnbkmHEXw%3D%3D | W | R | 
-| 第5回フマキラー囲碁女流ブレーンズマッチ2回戦  | 上野愛咲美 | 鈴木歩 | B+2.5 | 2025-06-13 | kifucontents.php?id=4YtAD04akztvtEOKoCfZhw%3D%3D | B | 2.5 | 
-| 第5回フマキラー囲碁女流ブレーンズマッチ2回戦  | 藤沢里菜 | 上野梨紗 | B+R | 2025-06-13 | kifucontents.php?id=o%2B%2Bapot4Tsvfhq1Evpnt4g%3D%3D | B | R | 
-| 第5回フマキラー囲碁女流ブレーンズマッチ2回戦  | 謝依旻 | 牛栄子 | W+R | 2025-06-13 | kifucontents.php?id=NTdid0e5aVPZEYqbVO8J9g%3D%3D | W | R | 
-| 第5回フマキラー囲碁女流ブレーンズマッチ2回戦  | 星合志保 | 栁原咲輝 | B+R | 2025-06-13 | kifucontents.php?id=D05bIBs87Ucfm%2FodA5W5gQ%3D%3D | B | R | 
-| 第50期棋聖戦Sリーグ | 山下敬吾 | 河野臨 | B+R | 2025-06-12 | kifucontents.php?id=%2Fi0EN648Qmw42uyfNk6HFg%3D%3D | B | R | 
-| 第1回ソパルコサノル世界最高棋士決定戦リーグ | 福岡航太朗 | 許嘉陽 | W+R | 2025-06-12 | kifucontents.php?id=%2Fzd2KPh12GusnEf2FVJPhg%3D%3D | W | R | 
-| 第1回ソパルコサノル世界最高棋士決定戦リーグ | 申眞諝 | 党毅飛 | B+R | 2025-06-12 | kifucontents.php?id=XVnG4%2BFjeQfpE9lb28DdQA%3D%3D | B | R | 
