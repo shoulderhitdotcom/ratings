@@ -107,7 +107,7 @@
 | 113 | Choi Myeonghun | 3246 | 118 | 3260 | 40 | 24 | Korea | Male | 1975-05-12 | 崔明勲 | missing | missing | 
 | 114 | Seto Taiki | 3233 | 142 | 3135 | 39 | 18 | Japan | Male | 1984-03-27 | 瀬戸大樹 | missing | missing | 
 | 115 | Seki Kotaro | 3226 | 163 | 3050 | 49 | 20 | Japan | Unknown | 2001-11-28 | 関航太郎 | missing | missing | 
-| 116 | Lee Changho | 3222 | 105 | 3286 | 69 | 45 | Korea | Male | 1975-07-29 | 李昌鎬 | missing | missing | 
+| 116 | Lee Changho | 3222 | 105 | 3286 | 70 | 46 | Korea | Male | 1975-07-29 | 李昌鎬 | missing | missing | 
 | 117 | Wu Yiming | 3219 | 108 | 3277 | 101 | 39 | missing | missing | missing | 呉依銘 | missing | missing | 
 | 118 | Oh Yujin | 3218 | 122 | 3217 | 122 | 60 | Korea | Female | 1998-06-11 | 呉侑珍 | missing | missing | 
 | 119 | Kim Cheayoung | 3218 | 124 | 3204 | 118 | 51 | Korea | Female | 1996-01-15 | 金彩瑛 | missing | missing | 
@@ -236,49 +236,4 @@ noois = no one older is stronger
 
 | **comp** | **black** | **white** | **result** | **date** | **kifu_link** | **who_win** | **win_by** | 
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 第37期女流名人戦予選 | 関山穂香 | 櫻本絢子 | W+R | 2025-06-16 | kifucontents.php?id=8M2c4XTIFr7wIrn4JpvlmA%3D%3D | W | R | 
-| 第81期本因坊戦予選 | 大西竜平 | 山下敬吾 | B+R | 2025-06-16 | kifucontents.php?id=KzrP7hhQ1pFbG4exa9cP8w%3D%3D | B | R | 
-| 第50期棋聖戦Bリーグ | 柳時熏 | 林漢傑 | W+0.5 | 2025-06-16 | kifucontents.php?id=8%2FSsDwmcgXUVj8SMcarqow%3D%3D | W | 0.5 | 
-| 第73期王座戦1回戦 | 許家元 | 芝野虎丸 | B+R | 2025-06-16 | kifucontents.php?id=ZoOShhpqkuXKtOB0ZCZ73g%3D%3D | B | R | 
-| 2025年全国囲碁錦標戦（団体）女子乙級リーグ  | 徐晶琦 | 白昕卉 | B+R | 2025-06-16 | kifucontents.php?id=zAHVEoJN%2B5uY0wZwjt1jUw%3D%3D | B | R | 
-| 2025年全国囲碁錦標戦（団体）女子乙級リーグ | 楊子萱 | 桂詩雲 | B+R | 2025-06-16 | kifucontents.php?id=8vnr4S9oJ9DHq9YGZBp%2BOg%3D%3D | B | R | 
-| 第8回国際囲碁春香選抜大会プロ春香部決勝 | 呉侑珍 | 金恩持 | B+R | 2025-06-16 | kifucontents.php?id=vbFELUxkCq1V2v2Y2TB5jw%3D%3D | B | R | 
-| 第30回GSカルテックス杯プロ棋戦敗者組5回戦 | 安成浚 | 卞相壹 | B+R | 2025-06-16 | kifucontents.php?id=Qh5fvywCdWzpLR5HDIR9yw%3D%3D | B | R | 
-| 大舟vs利鵬プロ連勝対抗戦第3局 | 仲邑菫 | 劉昌赫 | W+R | 2025-06-16 | kifucontents.php?id=T%2Fssfpi%2Bm3DvoGUCaE%2BayQ%3D%3D | W | R | 
-| 第27回中国囲碁甲級リーグ | 李軒豪 | 李欽誠 | B+R | 2025-06-15 | kifucontents.php?id=6ZJyNgcSFCvfy%2B7jjU1MqQ%3D%3D | B | R | 
-| 第27回中国囲碁甲級リーグ | 李翔宇 | 金禹丞 | W+R | 2025-06-15 | kifucontents.php?id=b5uFYDm7f6J4cQXWnXZ%2FoQ%3D%3D | W | R | 
-| 第27回中国囲碁甲級リーグ | 丁浩 | 楊鼎新 | W+R | 2025-06-15 | kifucontents.php?id=gNW6t%2B%2BEHaC9rpsR%2BKQAwA%3D%3D | W | R | 
-| 第27回中国囲碁甲級リーグ | 謝科 | 傅健恒 | B+R | 2025-06-15 | kifucontents.php?id=3517k5qN0p%2BAMBqssyGOBg%3D%3D | B | R | 
-| 第27回中国囲碁甲級リーグ | 柁嘉熹 | 陳豪鑫 | W+R | 2025-06-15 | kifucontents.php?id=KeRF1bGmE4RT6YPBItSZ8w%3D%3D | W | R | 
-| 第27回中国囲碁甲級リーグ | 陳玉儂 | 李欣宸 | B+R | 2025-06-15 | kifucontents.php?id=xR47VpdfNcJLJDe85myVAA%3D%3D | B | R | 
-| 第27回中国囲碁甲級リーグ | 鄭載想 | 劉宇航 | W+R | 2025-06-15 | kifucontents.php?id=tLrHf%2Fw%2BL5lnjwnCSkpeCg%3D%3D | W | R | 
-| 第27回中国囲碁甲級リーグ | 林子傑 | 連笑 | W+R | 2025-06-15 | kifucontents.php?id=6OsIlZuhj%2Bb1a3Z2zlwC5A%3D%3D | W | R | 
-| 第27回中国囲碁甲級リーグ | 辜梓豪 | 王碩 | W+R | 2025-06-15 | kifucontents.php?id=bRnHOHpQ1Z55G%2F8C6v9gYA%3D%3D | W | R | 
-| 第27回中国囲碁甲級リーグ | 范胤 | 許一笛 | B+R | 2025-06-15 | kifucontents.php?id=3P8llHHWZcx8A9vTL931nw%3D%3D | B | R | 
-| 第27回中国囲碁甲級リーグ | 王楚軒 | 彭立尭 | B+R | 2025-06-15 | kifucontents.php?id=oYtXXQ94c0p4q%2FHasChRjg%3D%3D | B | R | 
-| 第27回中国囲碁甲級リーグ | 李沢鋭 | 楊楷文 | W+R | 2025-06-15 | kifucontents.php?id=I%2BzCdZpsKxCbGAiK0TiSng%3D%3D | W | R | 
-| 第27回中国囲碁甲級リーグ | 薛冠華 | 黄静遠 | W+1¼ | 2025-06-15 | kifucontents.php?id=KWysEYHXDaGFKWJNmCr03Q%3D%3D | W | 1¼ | 
-| 第27回中国囲碁甲級リーグ | 徐靖恩 | 陳梓健 | W+R | 2025-06-15 | kifucontents.php?id=hNva0gEu9iGyGeAFT2NGtQ%3D%3D | W | R | 
-| 第27回中国囲碁甲級リーグ | 劉兆哲 | 陳一純 | B+R | 2025-06-15 | kifucontents.php?id=H3TC6tSzam6iEk4vxjV6kw%3D%3D | B | R | 
-| 第27回中国囲碁甲級リーグ | 陳浩 | 馬靖原 | W+R | 2025-06-15 | kifucontents.php?id=XyVSYO6SwR1sCCoWlW%2BlBA%3D%3D | W | R | 
-| 第27回中国囲碁甲級リーグ | 葉長欣 | 沈沛然 | B+R | 2025-06-15 | kifucontents.php?id=9IEt19sGdq9LS%2B7z82kJeQ%3D%3D | B | R | 
-| 第27回中国囲碁甲級リーグ | 陶欣然 | 夏晨琨 | W+¼ | 2025-06-15 | kifucontents.php?id=wjr7pkEfWw6MnHKXjk%2BAmA%3D%3D | W | ¼ | 
-| 第27回中国囲碁甲級リーグ | 李昊潼 | 戎毅 | W+R | 2025-06-15 | kifucontents.php?id=BlpEcp4g0r6myoW%2Fkb6LtA%3D%3D | W | R | 
-| 第27回中国囲碁甲級リーグ | 時越 | 王春暉 | W+R | 2025-06-15 | kifucontents.php?id=AgUx%2FSbw9M0xZaYEzHl03w%3D%3D | W | R | 
-| 第27回中国囲碁甲級リーグ | 芈昱廷 | 唐韋星 | W+R | 2025-06-15 | kifucontents.php?id=%2BJgqhaZvTApuOvXPlNuxPw%3D%3D | W | R | 
-| 第27回中国囲碁甲級リーグ | 王世一 | 陳賢 | B+R | 2025-06-15 | kifucontents.php?id=zl%2B7h80VhNgNFdquodGxvg%3D%3D | B | R | 
-| 第27回中国囲碁甲級リーグ | 張紫良 | 趙晨宇 | W+R | 2025-06-15 | kifucontents.php?id=DI0gCEel0CrDkEFUhPxw%2Bg%3D%3D | W | R | 
-| 第27回中国囲碁甲級リーグ | 黄雲嵩 | 陳正勲 | B+R | 2025-06-15 | kifucontents.php?id=9mzYUegt43VoUsm6DXOlBA%3D%3D | B | R | 
-| 第27回中国囲碁甲級リーグ | 許嘉陽 | 伊淩濤 | W+R | 2025-06-15 | kifucontents.php?id=gDpSfx1jvi3M0MPh8h09wA%3D%3D | W | R | 
-| 第27回中国囲碁甲級リーグ | 塗季康 | 檀嘯 | B+R | 2025-06-15 | kifucontents.php?id=620FI8LaQV5xzmyCK4G%2Fuw%3D%3D | B | R | 
-| 第27回中国囲碁甲級リーグ | 許皓鋐 | 童夢成 | B+R | 2025-06-15 | kifucontents.php?id=4PbVj4isTwP6Bqzwq2n98w%3D%3D | B | R | 
-| 第27回中国囲碁甲級リーグ | 蒋其潤 | 范廷鈺 | W+R | 2025-06-15 | kifucontents.php?id=Cao0ecg0PqiLDLSOrYhxmg%3D%3D | W | R | 
-| 第27回中国囲碁甲級リーグ | 屠暁宇 | 王星昊 | W+R | 2025-06-15 | kifucontents.php?id=NgyCl12TWEso5k8cXcjdGw%3D%3D | W | R | 
-| 第27回中国囲碁甲級リーグ | 黄明宇 | 廖元赫 | W+1¼ | 2025-06-15 | kifucontents.php?id=IdUB1kZt0QXEZ5jv2aBUMA%3D%3D | W | 1¼ | 
-| 第27回中国囲碁甲級リーグ | 謝爾豪 | 李維清 | W+R | 2025-06-15 | kifucontents.php?id=sdUjI9IAAPmdvMsW3Qq6aQ%3D%3D | W | R | 
-| 第27回中国囲碁甲級リーグ | 張涛 | 党毅飛 | W+R | 2025-06-15 | kifucontents.php?id=Z9HwkBduXYXZZ3YiOfNThQ%3D%3D | W | R | 
-| 2025年全国囲碁錦標戦（団体）男子乙級リーグ | 賴均輔 | 朴文尭 | B+R | 2025-06-15 | kifucontents.php?id=L33X1rElmtiZXrdUzdz1OQ%3D%3D | B | R | 
-| 2025年全国囲碁錦標戦（団体）男子乙級リーグ | 古霊益 | 周睿羊 | W+R | 2025-06-15 | kifucontents.php?id=Cg8qApCjHivJElrPuFAhiw%3D%3D | W | R | 
-| 第8回国際囲碁春香選抜大会プロ春香部準決勝 | 金珉舒 | 金恩持 | W+R | 2025-06-15 | kifucontents.php?id=CFa1XTVVVOKgpG43rJd3Tw%3D%3D | W | R | 
-| 第3回ルーキー囲碁英雄戦1回戦 | 韓遒永 | 金昇珍 | W+2.5 | 2025-06-15 | kifucontents.php?id=uRq2aIoEx6Yw1hWJKFFv1Q%3D%3D | W | 2.5 | 
-| 大舟vs利鵬プロ連勝対抗戦第2局 | 睦鎮碩 | 仲邑菫 | W+R | 2025-06-15 | kifucontents.php?id=uwWbalr1NfkOFkXeDlm44Q%3D%3D | W | R | 
+| 第19回GGオークション杯女流対シニア連勝対抗戦第2局 | 白如丁 | 李昌鎬 | W+R | 2025-06-16 | kifucontents.php?id=f6%2Ftmj7I%2BHAEm3eumyas%2Bg%3D%3D | W | R | 
