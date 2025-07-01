@@ -236,9 +236,3 @@ noois = no one older is stronger
 
 | **comp** | **black** | **white** | **result** | **date** | **kifu_link** | **who_win** | **win_by** | 
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 第51期碁聖戦予選 | 武宮正樹 | 大垣雄作 | W+1.5 | 2025-06-30 | kifucontents.php?id=%2FQH%2F3JLyTnKdJqgaOsNNlg%3D%3D | W | 1.5 | 
-| 第51期碁聖戦予選 | 大表拓都 | 上野愛咲美 | W+R | 2025-06-30 | kifucontents.php?id=JFalPhp0Qu22yDwM1NZigw%3D%3D | W | R | 
-| 第50期棋聖戦Sリーグ | 井山裕太 | 河野臨 | B+R | 2025-06-30 | kifucontents.php?id=NaXq5NM1AB5tHn3vkE2eug%3D%3D | B | R | 
-| 第32期阿含・桐山杯全日本早碁オープン戦1回戦 | 許家元 | 小山空也 | B+R | 2025-06-30 | kifucontents.php?id=gVeoKKQPHfI49LSJUGjq7A%3D%3D | B | R | 
-| 第69期山陽新聞杯関西棋院第一位決定戦3回戦 | 瀬戸大樹 | 横田茂昭 | B+R | 2025-06-30 | kifucontents.php?id=aYZxtsMxkF%2B%2BoEEzf2JNZQ%3D%3D | B | R | 
-| 第51期名人戦予選 | 高尾紳路 | 上野梨紗 | B+R | 2025-06-30 | kifucontents.php?id=QMf4mtG8Kvih%2FCOiaZMWMg%3D%3D | B | R | 
