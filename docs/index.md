@@ -237,8 +237,3 @@ noois = no one older is stronger
 
 | **comp** | **black** | **white** | **result** | **date** | **kifu_link** | **who_win** | **win_by** | 
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 第48期名人戦（韓国）予選 | 琴沚玗 | 崔精 | B+0.5 | 2025-07-04 | kifucontents.php?id=LXFYRpcAd%2BXmq4tQQNGRmg%3D%3D | B | 0.5 | 
-| 第3回ルーキー囲碁英雄戦準決勝 | 崔珉瑞 | 金昇珍 | W+R | 2025-07-04 | kifucontents.php?id=HBoM0rLvsbr3n%2BmZWem%2BXg%3D%3D | W | R | 
-| 第50期名人戦リーグ | 山下敬吾 | 福岡航太朗 | W+R | 2025-07-03 | kifucontents.php?id=ypJxriqZi1JiYedWKrhQwA%3D%3D | W | R | 
-| 2025日韓女子囲碁リーグオールスター戦第1ラウンド第2局 | 上野梨紗 | 金恩持 | W+R | 2025-07-03 | kifucontents.php?id=Fx9jOLdzuza7dQGTNZGEPQ%3D%3D | W | R | 
-| 2025日韓女子囲碁リーグオールスター戦第1ラウンド第1局 | 藤沢里菜 | 仲邑菫 | B+R | 2025-07-03 | kifucontents.php?id=GvzFFbyBnZQF8hTb9Ram8Q%3D%3D | B | R | 
