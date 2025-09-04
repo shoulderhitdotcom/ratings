@@ -239,12 +239,3 @@ noois = no one older is stronger
 
 | **comp** | **black** | **white** | **result** | **date** | **kifu_link** | **who_win** | **win_by** | 
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 第51期碁聖戦予選 | 清成哲也 | 佐田篤史 | W+R | 2025-09-03 | kifucontents.php?id=AMBHw9m3ImDJpS5a8X79qQ%3D%3D | W | R | 
-| 第74期王座戦予選 | 藤田怜央 | 平田蹴 | B+R | 2025-09-03 | kifucontents.php?id=jT9Qe5LpyGFc19IPUvDT1Q%3D%3D | B | R | 
-| 第3回農心白山水杯世界囲碁シニア最強戦第1戦 | 中野寛也 | 曹大元 | B+R | 2025-09-03 | kifucontents.php?id=8jpfAsJcZY9H%2Bp21Jbc3LA%3D%3D | B | R | 
-| 第27回農心辛ラーメン杯世界囲碁最強戦第1戦 | 李欽誠 | 李志賢 | W+R | 2025-09-03 | kifucontents.php?id=QUWGcvYJZPLtQqMH6aSd6g%3D%3D | W | R | 
-| 第5回蘭雪軒杯全国女子囲碁大会予選 | 金秀眞 | 仲邑菫 | W+R | 2025-09-03 | kifucontents.php?id=iy0M8nxbEyoF9tQPi8LOXw%3D%3D | W | R | 
-| 第18期棋王戦（台湾）リーグ | 陳祈睿 | 林新為 | B+R | 2025-09-02 | kifucontents.php?id=C%2BzGoiXyAxDkr8u8xf6s6g%3D%3D | B | R | 
-| 第18期棋王戦（台湾）リーグ | 盧奕銓 | 王元均 | W+R | 2025-09-02 | kifucontents.php?id=VhrNQy8E%2FuTn%2FIONPLea5A%3D%3D | W | R | 
-| 第18期棋王戦（台湾）リーグ | 蕭正浩 | 林君諺 | B+R | 2025-09-02 | kifucontents.php?id=7wDrE8y9FsvoxeA5xIJJgg%3D%3D | B | R | 
-| 第19回GGオークション杯女流対シニア連勝対抗戦第22局 | 金恩持 | 崔明勲 | B+14.5 | 2025-09-02 | kifucontents.php?id=yOkLgusQ7cNsWpEpiuYttw%3D%3D | B | 14.5 | 
