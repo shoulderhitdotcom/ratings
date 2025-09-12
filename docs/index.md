@@ -240,29 +240,3 @@ noois = no one older is stronger
 
 | **comp** | **black** | **white** | **result** | **date** | **kifu_link** | **who_win** | **win_by** | 
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 第50期棋聖戦Bリーグプレーオフ | 張栩 | 大竹優 | B+R | 2025-09-11 | kifucontents.php?id=dSR2mbGLafJjUkKqveWXBA%3D%3D | B | R | 
-| 第52期天元戦予選 | 西村仁 | 関山利道 | B+12.5 | 2025-09-11 | kifucontents.php?id=MYUelSYoBWOHuZqLmX%2FrSA%3D%3D | B | 12.5 | 
-| 第52期天元戦予選 | 藤井秀哉 | 金野為人 | B+R | 2025-09-11 | kifucontents.php?id=51cL5tMhTDEPmWop9o6P6Q%3D%3D | B | R | 
-| 第52期天元戦予選 | 山田拓自 | 依田紀基 | B+R | 2025-09-11 | kifucontents.php?id=tiFbVE%2FUqw1fmcpgt%2B1NEQ%3D%3D | B | R | 
-| 第1回ソパルコサノル世界最高棋士決定戦決勝三番勝負第2局 | 申眞諝 | 屠暁宇 | B+R | 2025-09-11 | kifucontents.php?id=amaLgZwvX7BvhvPEvAzjRA%3D%3D | B | R | 
-| 第21期国手戦（台湾） | 林世民 | 徐靖恩 | W+R | 2025-09-11 | kifucontents.php?id=Bc60lzUTCD9yEMZ8a1KMqw%3D%3D | W | R | 
-| 第21期国手戦（台湾） | 賴均輔 | 白昕卉 | B+R | 2025-09-11 | kifucontents.php?id=UAXp6m%2B2bIwVVC8n5AQrxw%3D%3D | B | R | 
-| 第21期国手戦（台湾） | 盧奕銓 | 陳映嘉 | B+R | 2025-09-11 | kifucontents.php?id=Tnz4nQ3%2BLfIS7EpCcsYF%2BA%3D%3D | B | R | 
-| 第21期国手戦（台湾） | 林君諺 | 李維 | B+R | 2025-09-11 | kifucontents.php?id=D%2Bg4rjaMKC%2FASGbAEJUXYg%3D%3D | B | R | 
-| 第21期国手戦（台湾） | 陳國興 | 楊博崴 | W+R | 2025-09-11 | kifucontents.php?id=bB0rXrQFpilh%2Fc441MqyGQ%3D%3D | W | R | 
-| 第21期国手戦（台湾） | 陳祈睿 | 黄袖圃 | B+R | 2025-09-11 | kifucontents.php?id=gjQjm%2F0SIx69hCQON2LOuA%3D%3D | B | R | 
-| 第21期国手戦（台湾） | 王元均 | 林彦丞 | B+R | 2025-09-11 | kifucontents.php?id=MT4G%2BQdiRwFlVjfCkEYd3g%3D%3D | B | R | 
-| 第21期国手戦（台湾） | 黄彦誠 | 王智弘 | B+4.5 | 2025-09-11 | kifucontents.php?id=bH%2BmRT516lA0RlJpLgIv8g%3D%3D | B | 4.5 | 
-| 第21期国手戦（台湾） | 林鈺娗 | 李嘉馨 | B+R | 2025-09-11 | kifucontents.php?id=EDDqxBDCKrbNB%2BmNSqSRyg%3D%3D | B | R | 
-| 第21期国手戦（台湾） | 陳首廉 | 林宇翔 | B+R | 2025-09-11 | kifucontents.php?id=tplwulQuutLDbmasDIYy5w%3D%3D | B | R | 
-| 第21期国手戦（台湾） | 盧鈺樺 | 簡靖庭 | W+R | 2025-09-11 | kifucontents.php?id=U0qDECMrZ7Xxy2HsQUKN6A%3D%3D | W | R | 
-| 第21期国手戦（台湾） | 林書陽 | 孫立言 | B+R | 2025-09-11 | kifucontents.php?id=xgdRw2zMsjdqnTnjQrfxxw%3D%3D | B | R | 
-| 第21期国手戦（台湾） | 孫偉勛 | 沈逸恩 | B+2.5 | 2025-09-11 | kifucontents.php?id=A1ysBnjhfVisUIkB7ta4Lg%3D%3D | B | 2.5 | 
-| 第21期国手戦（台湾） | 陳品樺 | 林士勛 | W+R | 2025-09-11 | kifucontents.php?id=UwTx0iM%2BHZ8PZqq%2F8nVCkQ%3D%3D | W | R | 
-| 2025 The Merriden オープン1回戦 | 睦鎮碩 | 崔珪昞 | B+R | 2025-09-11 | kifucontents.php?id=kPm5CKYIkvQAJIhEOcWRvw%3D%3D | B | R | 
-| 2025 The Merriden オープン1回戦 | 李昌鎬 | 梁建 | B+R | 2025-09-11 | kifucontents.php?id=vyRhIh%2FyxJH0JU%2BK62qraA%3D%3D | B | R | 
-| 第52期天元戦予選 | 國澤大斗 | 勝間史朗 | B+R | 2025-09-10 | kifucontents.php?id=DCyQc01AiVdDBJ17e%2FknaA%3D%3D | B | R | 
-| 第52期天元戦予選 | 渡辺貢規 | 渡辺寛大 | W+R | 2025-09-10 | kifucontents.php?id=wPXCgB3ET3saTb4PDTYOOA%3D%3D | W | R | 
-| 2025韓国女子囲碁リーグ | 朴泰姬 | 曺承亜 | W+R | 2025-09-10 | kifucontents.php?id=ggSFR69S7XUTOYJSAkb4dg%3D%3D | W | R | 
-| 2025韓国女子囲碁リーグ | 李玟眞 | 金京垠 | W+R | 2025-09-10 | kifucontents.php?id=8eTRKY8qanUxZr5bxLfbZQ%3D%3D | W | R | 
-| 2025韓国女子囲碁リーグ | 金恵敏 | 呉政娥 | B+R | 2025-09-10 | kifucontents.php?id=3gZrJzgIouWUd4n8jh6wtA%3D%3D | B | R | 
