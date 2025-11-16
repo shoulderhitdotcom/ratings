@@ -246,15 +246,3 @@ noois = no one older is stronger
 
 | **comp** | **black** | **white** | **result** | **date** | **kifu_link** | **who_win** | **win_by** | 
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 第30回三星火災杯世界囲碁マスターズ準決勝 | 丁浩 | 金志錫 | B+R | 2025-11-15 | kifucontents.php?id=QF0jYvns3xc65MP2WFgHQA%3D%3D | B | R | 
-| 2025年全国囲棋昇段戦第8戦 | 王春暉 | 鄭載想 | W+R | 2025-11-15 | kifucontents.php?id=Q1yOh1NndQYEmY8n6YHM1A%3D%3D | W | R | 
-| 2025年全国囲棋昇段戦第8戦 | 陳一純 | 段博尭 | W+R | 2025-11-15 | kifucontents.php?id=njtZeRtSmkbyaWMOvOeT7A%3D%3D | W | R | 
-| 2025韓国女子囲碁リーグプレーオフ第2戦 | 呉依銘 | 李赫 | B+R | 2025-11-14 | kifucontents.php?id=czSyNp96L6MmyM0kIs%2B9MA%3D%3D | B | R | 
-| 2025韓国女子囲碁リーグプレーオフ第2戦 | 金恩持 | 仲邑菫 | B+2.5 | 2025-11-14 | kifucontents.php?id=Wd9mdRY8j3DJwL6k3so1hg%3D%3D | B | 2.5 | 
-| 2025韓国女子囲碁リーグプレーオフ第2戦 | 金湊笌 | 権孝珍 | B+R | 2025-11-14 | kifucontents.php?id=dsd%2B5F%2B57xowxpbEyjqU5Q%3D%3D | B | R | 
-| 第73期王座戦挑戦手合五番勝負第3局  | 井山裕太 | 一力遼 | W+R | 2025-11-14 | kifucontents.php?id=MN1c1uAviibdF7rvgZnFiA%3D%3D | W | R | 
-| 第30回三星火災杯世界囲碁マスターズ準決勝 | 朴廷桓 | 廖元赫 | W+R | 2025-11-14 | kifucontents.php?id=QPlSzBUpW8r8BrLw41vN1w%3D%3D | W | R | 
-| 2025年全国囲棋昇段戦第7戦 | 王楚軒 | 韓墨陽 | B+R | 2025-11-14 | kifucontents.php?id=x1Iku0Gi%2BikRjfwZxoiYBg%3D%3D | B | R | 
-| 2025年全国囲棋昇段戦第7戦 | 鄭載想 | 陳一純 | B+R | 2025-11-14 | kifucontents.php?id=w2Iy%2F1EHIx0aOKUrk4j4jA%3D%3D | B | R | 
-| 第70期山陽新聞杯関西棋院第一位決定戦1回戦 | 河英一 | 呉柏毅 | W+0.5 | 2025-11-13 | kifucontents.php?id=VR9hyOK9YPRvJ%2FJDufNyCA%3D%3D | W | 0.5 | 
-| 第52期天元戦予選 | 余正麒 | 新谷洋佑 | B+R | 2025-11-13 | kifucontents.php?id=qAbs4wB8sPbx2YCZ1BwqsA%3D%3D | B | R | 
