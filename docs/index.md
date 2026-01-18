@@ -239,24 +239,3 @@ noois = no one older is stronger
 
 | **comp** | **black** | **white** | **result** | **date** | **kifu_link** | **who_win** | **win_by** | 
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 第40期中国囲棋天元戦3回戦 | 丁浩 | 時越 | W+R | 2026-01-17 | kifucontents.php?id=8%2FQUu40u0ZTJlTc8ZHcYgQ%3D%3D | W | R | 
-| 第40期中国囲棋天元戦3回戦 | 黄明宇 | 李沢鋭 | B+¾ | 2026-01-17 | kifucontents.php?id=jDX101uHxq9WT%2FL2Gsgbfg%3D%3D | B | ¾ | 
-| 第40期中国囲棋天元戦3回戦 | 范廷鈺 | 楊楷文 | W+1¼ | 2026-01-17 | kifucontents.php?id=%2FjiEG%2BC%2BmW4byIpWgg3gSw%3D%3D | W | 1¼ | 
-| 第40期中国囲棋天元戦3回戦 | 厳歓 | 劉宇航 | W+R | 2026-01-17 | kifucontents.php?id=4tuBgyJmriNLrlDrQlZFHA%3D%3D | W | R | 
-| 2025-2026韓国囲碁リーグ | 李元栄 | 金炯佑 | W+3.5 | 2026-01-16 | kifucontents.php?id=tmx7wgD6y0Z1BBKAlyryJQ%3D%3D | W | 3.5 | 
-| 2025-2026韓国囲碁リーグ | 金昇珍 | 朴廷桓 | W+R | 2026-01-16 | kifucontents.php?id=6PRjS7mxVHcexzuShsneFA%3D%3D | W | R | 
-| 2025-2026韓国囲碁リーグ | 金恩持 | 申旻埈 | W+R | 2026-01-16 | kifucontents.php?id=mbihDQRJydjH%2BuUI6vAOVA%3D%3D | W | R | 
-| 2025-2026韓国囲碁リーグ | 范胤 | 李志賢 | B+R | 2026-01-16 | kifucontents.php?id=1BFOCaJbcjTaWt0xXC45yw%3D%3D | B | R | 
-| 第2回日本女子囲碁リーグ（Li LEAGUE）  | 加藤千笑 | 上野梨紗 | W+R | 2026-01-16 | kifucontents.php?id=PEkW4GiJtr8%2FD4aNoxYCbw%3D%3D | W | R | 
-| 第2回日本女子囲碁リーグ（Li LEAGUE）  | 奥田あや | 牛栄子 | W+R | 2026-01-16 | kifucontents.php?id=2q3olZ1DlPtI6lD83WZBdg%3D%3D | W | R | 
-| 第2回日本女子囲碁リーグ（Li LEAGUE）  | 高雄茉莉 | 鈴木歩 | B+2.5 | 2026-01-16 | kifucontents.php?id=HuCXcUShx%2Fw5M2TYloGHWA%3D%3D | B | 2.5 | 
-| 第25期中環天元戦リーグ | 林士勛 | 賴均輔 | B+R | 2026-01-16 | kifucontents.php?id=w2uozHns9EBoU2%2BBGF1%2F7w%3D%3D | B | R | 
-| 第25期中環天元戦リーグ | 王元均 | 徐靖恩 | B+0.5 | 2026-01-16 | kifucontents.php?id=i73ZwQ6Y2UjL3IxpTniB0g%3D%3D | B | 0.5 | 
-| 第25期中環天元戦リーグ | 李維 | 林君諺 | B+1.5 | 2026-01-16 | kifucontents.php?id=AOMkXLYCEOYrj82WzlTJvw%3D%3D | B | 1.5 | 
-| 第19期中国囲棋棋王争覇戦16強戦 | 黄雲嵩 | 范廷鈺 | W+R | 2026-01-16 | kifucontents.php?id=qy0mXYZxzDyfQ2v5PBEPYA%3D%3D | W | R | 
-| 第70期山陽新聞杯関西棋院第一位決定戦1回戦 | 表悠斗 | 内海晃希 | W+R | 2026-01-15 | kifucontents.php?id=sCALk73%2BE63LegXaeqdaCw%3D%3D | W | R | 
-| 2025-2026韓国囲碁リーグ | 宋圭相 | 安国鉉 | B+R | 2026-01-15 | kifucontents.php?id=ZETM5Y6tDCOdRdRsPGfHJw%3D%3D | B | R | 
-| 2025-2026韓国囲碁リーグ | 崔珉瑞 | 柳珉瀅 | W+R | 2026-01-15 | kifucontents.php?id=%2BN0vkaY31K%2Bk%2B3KOb8fjqQ%3D%3D | W | R | 
-| 2025-2026韓国囲碁リーグ | 崔宰栄 | 朴河旼 | B+R | 2026-01-15 | kifucontents.php?id=D6nsMWNDjfDVkSf7V3mzjg%3D%3D | B | R | 
-| 2025-2026韓国囲碁リーグ | 朴常鎭 | 韓熊熙 | B+1.5 | 2026-01-15 | kifucontents.php?id=7KDArtzOAXBfyyAFkBQAAg%3D%3D | B | 1.5 | 
-| 2025-2026韓国囲碁リーグ | 安成浚 | 金明訓 | W+R | 2026-01-15 | kifucontents.php?id=bLcWS2x%2FYCOt2Ydvr%2F%2FOsA%3D%3D | W | R | 
