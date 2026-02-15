@@ -242,9 +242,3 @@ noois = no one older is stronger
 
 | **comp** | **black** | **white** | **result** | **date** | **kifu_link** | **who_win** | **win_by** | 
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 第2回日本女子囲碁リーグ（Li LEAGUE）  | 鈴木歩 | 栁原咲輝 | B+5.5 | 2026-02-13 | kifucontents.php?id=WMTJ59gHqeWV6YItMi4SoQ%3D%3D | B | 5.5 | 
-| 第2回日本女子囲碁リーグ（Li LEAGUE）  | 木部夏生 | 小林泉美 | W+R | 2026-02-13 | kifucontents.php?id=XjLBiH%2BAkx5%2BmJkNMpbLoQ%3D%3D | W | R | 
-| 第2回日本女子囲碁リーグ（Li LEAGUE）  | 星合志保 | 上野梨紗 | B+3.5 | 2026-02-13 | kifucontents.php?id=1UMLM%2BA8aYh8E9KOvc%2BTaA%3D%3D | B | 3.5 | 
-| 第51期名人戦リーグ | 許家元 | 村川大介 | W+R | 2026-02-12 | kifucontents.php?id=WLwrdRK6r2Uizdw1MoDJww%3D%3D | W | R | 
-| 2026ブリッツオープン1回戦 | 李昌鎬 | 韓鐘振 | B+R | 2026-02-12 | kifucontents.php?id=jRRcpn0NXUwOR9mcV7f4dg%3D%3D | B | R | 
-| 2026ブリッツオープン1回戦 | 金彩瑛 | 劉昌赫 | B+R | 2026-02-12 | kifucontents.php?id=yx6vInJKExMYNITg9jyXKA%3D%3D | B | R | 
