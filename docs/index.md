@@ -241,7 +241,3 @@ noois = no one older is stronger
 
 | **comp** | **black** | **white** | **result** | **date** | **kifu_link** | **who_win** | **win_by** | 
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 第45期女流本因坊戦予選 | 出口万里子 | 吉田美香 | B+R | 2026-02-18 | kifucontents.php?id=ZDr6yiAawWRlior833u7wA%3D%3D | B | R | 
-| 第27回マキシムコーヒー杯入神最強戦2回戦 | 姜儒澤 | 朴廷桓 | W+R | 2026-02-17 | kifucontents.php?id=aM%2FpWWhBVzVHH4mAc8PgBA%3D%3D | W | R | 
-| 第51期名人戦リーグ | 本木克弥 | 福岡航太朗 | B+R | 2026-02-16 | kifucontents.php?id=%2FhHYl1mldg%2B5OMZVmXTXhA%3D%3D | B | R | 
-| 第27回マキシムコーヒー杯入神最強戦2回戦 | 金明訓 | 趙漢乗 | B+R | 2026-02-16 | kifucontents.php?id=jUSGPGMNMaF7N2%2Fv%2BVxdiw%3D%3D | B | R | 
