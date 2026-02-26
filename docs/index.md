@@ -237,6 +237,3 @@ noois = no one older is stronger
 
 | **comp** | **black** | **white** | **result** | **date** | **kifu_link** | **who_win** | **win_by** | 
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 第52期碁聖戦予選 | 髙橋良侑 | 大谷健介 | W+R | 2026-02-25 | kifucontents.php?id=kWrUeDkAWdmNdTPtqg2klQ%3D%3D | W | R | 
-| 第1回新韓銀行世界棋仙戦決勝三番勝負第1局 | 王星昊 | 朴廷桓 | W+R | 2026-02-25 | kifucontents.php?id=FEF4FmFabhZLVQjEG6ypAg%3D%3D | W | R | 
-| 第27回マキシムコーヒー杯入神最強戦2回戦 | 崔精 | 李志賢 | B+R | 2026-02-24 | kifucontents.php?id=cAAZ7Z2EYjY4Pc545M%2FnXw%3D%3D | B | R | 
