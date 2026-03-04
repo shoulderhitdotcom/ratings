@@ -237,17 +237,3 @@ noois = no one older is stronger
 
 | **comp** | **black** | **white** | **result** | **date** | **kifu_link** | **who_win** | **win_by** | 
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 第64期十段戦挑戦手合五番勝負第1局 | 許家元 | 芝野虎丸 | B+R | 2026-03-03 | kifucontents.php?id=VPH%2F1tPClzQBIKIGHUc0yA%3D%3D | B | R | 
-| 第25期中環天元戦挑戦手合五番勝負第1局 | 陳祈睿 | 許皓鋐 | W+R | 2026-03-03 | kifucontents.php?id=OTS0SxHX0FUWPmaifuzZzQ%3D%3D | W | R | 
-| 第7期利鵬杯新鋭最高位戦1回戦第2局 | 仲邑菫 | 金河潤 | W+R | 2026-03-03 | kifucontents.php?id=W9%2B8C4r5hqZz67Ojqz1mvg%3D%3D | W | R | 
-| 第7期利鵬杯新鋭最高位戦1回戦第1局 | 金河潤 | 仲邑菫 | B+R | 2026-03-03 | kifucontents.php?id=YrmUH4Baz7Gh1YH0EG7BNg%3D%3D | B | R | 
-| 第51期名人戦リーグ | 桑原樹 | 伊田篤史 | B+R | 2026-03-02 | kifucontents.php?id=QlMD%2BVefv30mSQnZ4zNcGA%3D%3D | B | R | 
-| 第27回マキシムコーヒー杯入神最強戦3回戦 | 崔精 | 金明訓 | W+R | 2026-03-02 | kifucontents.php?id=j2iudw15uExO0W9b9oleQA%3D%3D | W | R | 
-| 第51期碁聖戦2回戦 | 広瀬優一 | 酒井佑規 | W+R | 2026-03-02 | kifucontents.php?id=FtNzt%2BKx%2BcJXTbMfDtn35w%3D%3D | W | R | 
-| 第52期碁聖戦予選 | 星合志保 | 青木喜久代 | B+R | 2026-03-02 | kifucontents.php?id=PlBkYCgSXA3fCbN1406iyg%3D%3D | B | R | 
-| 第18回海峰杯プロ囲碁戦決勝三番勝負第1局  | 林君諺 | 蕭正浩 | W+0.5 | 2026-03-02 | kifucontents.php?id=5jB25E4EnS63uK5KWb%2B2cg%3D%3D | W | 0.5 | 
-| 2025-2026韓国囲碁リーグプレーオフ | 韓相朝 | 姜昇旼 | W+R | 2026-03-01 | kifucontents.php?id=Uv8%2F79VtPzUblhME4JZ7Aw%3D%3D | W | R | 
-| 2025-2026韓国囲碁リーグプレーオフ | 朴珉奎 | 朴ジンソル | B+R | 2026-03-01 | kifucontents.php?id=KcX9jN5Gxceqsw9np%2BUAFw%3D%3D | B | R | 
-| 2025-2026韓国囲碁リーグプレーオフ | 安正己 | 姜東潤 | W+R | 2026-03-01 | kifucontents.php?id=sLbXRt4ZMoLJkeKrzUOTCQ%3D%3D | W | R | 
-| 2025-2026韓国囲碁リーグプレーオフ | 宋知勲 | 姜儒澤 | W+R | 2026-03-01 | kifucontents.php?id=IcmKBseLeYoMSGylX5fXrg%3D%3D | W | R | 
-| 2025-2026韓国囲碁リーグプレーオフ | 卞相壹 | 党毅飛 | B+R | 2026-03-01 | kifucontents.php?id=JQbbIfgp0OP3X4lmgSl3IA%3D%3D | B | R | 
