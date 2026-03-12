@@ -236,5 +236,6 @@ noois = no one older is stronger
 
 | **comp** | **black** | **white** | **result** | **date** | **kifu_link** | **who_win** | **win_by** | 
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 第31回GSカルテックス杯プロ棋戦1回戦 | 崔精 | 金庭賢 | W+0.5 | 2026-03-11 | kifucontents.php?id=Ft4iId8S8joh4bGjZ824Vw%3D%3D | W | 0.5 | 
-| 第27回マキシムコーヒー杯入神最強戦3回戦 | 宋知勲 | 朴廷桓 | W+R | 2026-03-10 | kifucontents.php?id=7mLo6yLOBg4nmqFGKvz6Fw%3D%3D | W | R | 
+| 第51期棋聖戦予選 | 河英一 | 安東陽向 | B+R | 2026-03-11 | kifucontents.php?id=1T9hVa2BN7igeS9a7WC68g%3D%3D | B | R | 
+| 第52期碁聖戦予選 | 星川愛生 | 藤田怜央 | W+R | 2026-03-11 | kifucontents.php?id=%2B2NL9%2FxYAE48%2BxO%2FYREFAQ%3D%3D | W | R | 
+| 第52期碁聖戦予選 | 田中健太郎 | 中川拓海 | B+R | 2026-03-11 | kifucontents.php?id=f0190Jn1VuiGD0JLFok0Gw%3D%3D | B | R | 
