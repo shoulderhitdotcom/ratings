@@ -238,5 +238,3 @@ noois = no one older is stronger
 
 | **comp** | **black** | **white** | **result** | **date** | **kifu_link** | **who_win** | **win_by** | 
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 第5回テイケイグループ杯俊英戦決勝三番勝負第2局  | 福岡航太朗 | 大竹優 | B+1.5 | 2026-04-04 | kifucontents.php?id=4q%2F9ejPeC37MNSACbuVI9g%3D%3D | B | 1.5 | 
-| 第6期ソパルコサノル最高棋士決定戦16強戦 | 崔宰栄 | 金庭賢 | B+R | 2026-04-04 | kifucontents.php?id=XA6%2F7cvHAIpwMdWaIPMgGg%3D%3D | B | R | 
