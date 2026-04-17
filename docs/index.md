@@ -237,9 +237,3 @@ noois = no one older is stronger
 
 | **comp** | **black** | **white** | **result** | **date** | **kifu_link** | **who_win** | **win_by** | 
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 第11回グロービス杯日本予選 | 朝日悠俊 | 栁原咲輝 | B+8.5 | 2026-04-16 | kifucontents.php?id=8VBYrXSa5EtwwC1CRD73DA%3D%3D | B | 8.5 | 
-| 第52期天元戦2回戦 | 河野臨 | 本木克弥 | B+R | 2026-04-16 | kifucontents.php?id=UKg9CBEizHwU5aICXMsu8w%3D%3D | B | R | 
-| 第53期天元戦予選 | 依田紀基 | 吉原由香里 | B+R | 2026-04-16 | kifucontents.php?id=D4lL68tTub3oknny%2Fof6PQ%3D%3D | B | R | 
-| 第51期碁聖戦準決勝 | 許家元 | 佐田篤史 | W+0.5 | 2026-04-16 | kifucontents.php?id=HqkxV0XRpJ11pnXvZ%2Fymmg%3D%3D | W | 0.5 | 
-| 第82期本因坊戦予選 | 藤澤ななみ | 森野節男 | B+3.5 | 2026-04-15 | kifucontents.php?id=FjggOQW4tTLuxH0Ay0rxyg%3D%3D | B | 3.5 | 
-| 第65期十段戦予選 | 田中康湧 | 三島響 | B+R | 2026-04-15 | kifucontents.php?id=ujybB1kUqvZIYd1auezqkA%3D%3D | B | R | 
