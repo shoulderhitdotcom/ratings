@@ -239,24 +239,3 @@ noois = no one older is stronger
 
 | **comp** | **black** | **white** | **result** | **date** | **kifu_link** | **who_win** | **win_by** | 
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 第20回倡棋杯中国プロ囲棋選手権戦3回戦 | 屠暁宇 | 辜梓豪 | W+R | 2026-04-21 | kifucontents.php?id=mYDSTBjHfH80%2FmCFdBIc1w%3D%3D | W | R | 
-| 第20回倡棋杯中国プロ囲棋選手権戦3回戦 | 廖元赫 | 芈昱廷 | W+R | 2026-04-21 | kifucontents.php?id=hyxbaB89zLj85KnH%2BodqiQ%3D%3D | W | R | 
-| 第20回倡棋杯中国プロ囲棋選手権戦3回戦 | 楊楷文 | 李欽誠 | W+R | 2026-04-21 | kifucontents.php?id=vGx3i%2BExO%2BO1Alax1MYoiQ%3D%3D | W | R | 
-| 第20回倡棋杯中国プロ囲棋選手権戦3回戦 | 趙晨宇 | 党毅飛 | W+R | 2026-04-21 | kifucontents.php?id=yimd6rPTx66%2F7tqGa7uwQQ%3D%3D | W | R | 
-| 第6期ソパルコサノル最高棋士決定戦16強戦 | 朴廷桓 | 李志賢 | B+R | 2026-04-21 | kifucontents.php?id=D%2B2ksBR6xU3ninz0CHkMZA%3D%3D | B | R | 
-| 第20回GGオークション杯予選 | 金京垠 | 呉政娥 | B+R | 2026-04-21 | kifucontents.php?id=2ojDI2ptWX48A0p7GxmG%2FQ%3D%3D | B | R | 
-| 第45期女流本因坊戦1回戦 | 矢代久美子 | 茂呂有紗 | W+R | 2026-04-20 | kifucontents.php?id=SYocvp1OVn4EZ66GnKiBow%3D%3D | W | R | 
-| 第11回グロービス杯日本予選 | 蕭鈺洋 | 國松聡 | B+R | 2026-04-20 | kifucontents.php?id=HuT29Hi1ZSz0dakz4puHkw%3D%3D | B | R | 
-| 第11回グロービス杯日本予選 | 熊木熙弥 | 國松聡 | W+2.5 | 2026-04-20 | kifucontents.php?id=XpnwPmEQVj66OYbfYLi5oA%3D%3D | W | 2.5 | 
-| 第52期天元戦2回戦 | 許家元 | 柳時熏 | W+R | 2026-04-20 | kifucontents.php?id=WaSZB3ZTW%2BgGfD2B3fX%2BeA%3D%3D | W | R | 
-| 第20回倡棋杯中国プロ囲棋選手権戦2回戦 | 芈昱廷 | 黄雲嵩 | B+1 | 2026-04-20 | kifucontents.php?id=tusUg24WUPDua4%2FfVPlvsw%3D%3D | B | 1 | 
-| 第20回倡棋杯中国プロ囲棋選手権戦2回戦 | 檀嘯 | 楊楷文 | W+R | 2026-04-20 | kifucontents.php?id=EwM3XLWdiII78hUCGFRvIA%3D%3D | W | R | 
-| 第20回倡棋杯中国プロ囲棋選手権戦2回戦 | 辜梓豪 | 張涛 | B+R | 2026-04-20 | kifucontents.php?id=CHAd7N8wjN2YHDCM0oXkdw%3D%3D | B | R | 
-| 第20回倡棋杯中国プロ囲棋選手権戦2回戦 | 党毅飛 | 范胤 | B+3 | 2026-04-20 | kifucontents.php?id=JqW3tDQyBn8mw1gESfbA7A%3D%3D | B | 3 | 
-| 第20回倡棋杯中国プロ囲棋選手権戦2回戦 | 李軒豪 | 趙晨宇 | W+R | 2026-04-20 | kifucontents.php?id=D9FBJlEJ1EqVZH44Jd5aHQ%3D%3D | W | R | 
-| 第20回倡棋杯中国プロ囲棋選手権戦2回戦 | 屠暁宇 | 許嘉陽 | B+1 | 2026-04-20 | kifucontents.php?id=DZ5s8D9SUzGxNVBu77JRkw%3D%3D | B | 1 | 
-| 第20回倡棋杯中国プロ囲棋選手権戦2回戦 | 丁浩 | 李欽誠 | W+5 | 2026-04-20 | kifucontents.php?id=PJVC5%2BW38kImmQ%2B8lh6kZg%3D%3D | W | 5 | 
-| 第20回倡棋杯中国プロ囲棋選手権戦2回戦 | 廖元赫 | 王星昊 | B+R | 2026-04-20 | kifucontents.php?id=o0kQPnhT6JMcsPwgQ8zmmw%3D%3D | B | R | 
-| 第20回GGオークション杯予選 | 李舒煐 | 呉侑珍 | W+R | 2026-04-20 | kifucontents.php?id=e17K96HJxYh%2FTKPpkC%2FXMw%3D%3D | W | R | 
-| 2026MOA女子最高棋士決定戦予選 | 金彩瑛 | 金恵敏 | B+R | 2026-04-20 | kifucontents.php?id=aknz4kYnwT9E%2FMWYAZbXLA%3D%3D | B | R | 
-| 2026MOA女子最高棋士決定戦予選 | 李映周 | 金多瑛 | W+1.5 | 2026-04-19 | kifucontents.php?id=rJfKNE2IVbVIF6l4y1c9jA%3D%3D | W | 1.5 | 
