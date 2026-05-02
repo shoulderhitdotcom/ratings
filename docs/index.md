@@ -238,19 +238,3 @@ noois = no one older is stronger
 
 | **comp** | **black** | **white** | **result** | **date** | **kifu_link** | **who_win** | **win_by** | 
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 第31回LG杯韓国予選 | 朴永訓 | 鄭峻宇 | B+R | 2026-05-01 | kifucontents.php?id=BJo0%2FmUP3rMDeBeOGa1mwQ%3D%3D | B | R | 
-| 第31回GSカルテックス杯プロ棋戦3回戦 | 朴廷桓 | 金昇珍 | B+R | 2026-05-01 | kifucontents.php?id=jHCXe0DOCBNEKstEz%2F4S%2FA%3D%3D | B | R | 
-| 第13回大舟杯男女プロシニア最強者戦決勝 | 睦鎮碩 | 崔明勲 | W+1.5 | 2026-05-01 | kifucontents.php?id=3cWDCdDrIr9X%2BlFkoM01%2BA%3D%3D | W | 1.5 | 
-| 第82期本因坊戦予選 | 依田紀基 | 王立誠 | W+R | 2026-04-30 | kifucontents.php?id=0Mv%2BnsI%2B0V0ZE%2BmjoyO6yA%3D%3D | W | R | 
-| 第52期天元戦2回戦 | 余正麒 | 村川大介 | W+R | 2026-04-30 | kifucontents.php?id=BGH5DkRCjmF3MjpHgFxGFg%3D%3D | W | R | 
-| 第65期十段戦予選 | 大西竜平 | 伊了 | B+R | 2026-04-30 | kifucontents.php?id=2bGpFoDtwot0iquSwSBwYg%3D%3D | B | R | 
-| 第5回テイケイグループ杯レジェンド戦準決勝 | 趙治勲 | 彦坂直人 | B+R | 2026-04-30 | kifucontents.php?id=heRBpKHKW3Qd353Me5ucMw%3D%3D | B | R | 
-| 第31回LG杯中国予選 | 党毅飛 | 楊楷文 | W+R | 2026-04-30 | kifucontents.php?id=SflKxVj6L9SoPqhQhshwwg%3D%3D | W | R | 
-| 第6期ソパルコサノル最高棋士決定戦16強戦 | 高根台 | 尹畯相 | W+R | 2026-04-30 | kifucontents.php?id=iMywdILXLmlMgTt6cah0FA%3D%3D | W | R | 
-| 第31回LG杯韓国予選 | 安成浚 | 韓昇周 | W+0.5 | 2026-04-30 | kifucontents.php?id=Ew%2B5n83ZIZh3vdYiCM2sBg%3D%3D | W | 0.5 | 
-| 第31回LG杯韓国予選 | 姜秉巻 | 崔宰栄 | W+R | 2026-04-30 | kifucontents.php?id=YjSVWiNrNp%2BaQxGLXvhrGw%3D%3D | W | R | 
-| 第31回LG杯韓国予選 | 金志錫 | 羅玄 | W+R | 2026-04-30 | kifucontents.php?id=oan46LEmyFMMFPDFCr%2BNnA%3D%3D | W | R | 
-| 第31回LG杯韓国予選 | 姜東潤 | 朴河旼 | W+R | 2026-04-30 | kifucontents.php?id=IbaPAElbOV4QJ%2BuAcVHcuw%3D%3D | W | R | 
-| 第52期名人戦予選 | 孫英世 | 河英一 | W+2.5 | 2026-04-29 | kifucontents.php?id=Sz7JeU5BPY82VQ1FnSuTaw%3D%3D | W | 2.5 | 
-| 第82期本因坊戦予選 | 西健伸 | 藤田怜央 | B+2.5 | 2026-04-29 | kifucontents.php?id=hbNyiygT%2BMSnlapSLGTw6Q%3D%3D | B | 2.5 | 
-| 第65期十段戦予選 | 倉橋正行 | 長谷川直 | B+R | 2026-04-29 | kifucontents.php?id=EYPolMoeFnF%2FNj1Y7CH1Nw%3D%3D | B | R | 
