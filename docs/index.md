@@ -238,10 +238,3 @@ noois = no one older is stronger
 
 | **comp** | **black** | **white** | **result** | **date** | **kifu_link** | **who_win** | **win_by** | 
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 第81期本因坊戦挑戦手合五番勝負第1局  | 一力遼 | 福岡航太朗 | W+R | 2026-05-13 | kifucontents.php?id=%2FtA4Z5BxkkFyUJFQ9aNc1Q%3D%3D | W | R | 
-| 第51期棋聖戦予選 | 阿部良希 | 辻篤仁 | W+1.5 | 2026-05-13 | kifucontents.php?id=npiXPV9LOU6yPbWAwr3ZvA%3D%3D | W | 1.5 | 
-| 第52期名人戦予選 | 西村仁 | 田中康湧 | W+R | 2026-05-13 | kifucontents.php?id=CJwBRROmK1XiGPm0d%2BXnuA%3D%3D | W | R | 
-| 第52期名人戦予選 | 表悠斗 | 谷口徹 | B+0.5 | 2026-05-13 | kifucontents.php?id=GAbWOwkbMyqnlWFROhoB6A%3D%3D | B | 0.5 | 
-| 第74期王座戦1回戦 | 富士田明彦 | 余正麒 | W+R | 2026-05-13 | kifucontents.php?id=MKvFf3Z%2FJDQTJrhbWxAlog%3D%3D | W | R | 
-| 2026MOA女子最高棋士決定戦敗者組1回戦 | 金彩瑛 | 金京垠 | B+R | 2026-05-13 | kifucontents.php?id=J1i4Zv0INJpco2sOAdBmWA%3D%3D | B | R | 
-| 第31回GSカルテックス杯プロ棋戦勝者組決勝 | 朴廷桓 | 申旻埈 | B+R | 2026-05-13 | kifucontents.php?id=LRmgLzB%2BfAHwLALslWGhyA%3D%3D | B | R | 
