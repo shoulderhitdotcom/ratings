@@ -239,22 +239,3 @@ noois = no one older is stronger
 
 | **comp** | **black** | **white** | **result** | **date** | **kifu_link** | **who_win** | **win_by** | 
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 第53期天元戦予選 | 渡辺由宇 | 清成哲也 | W+R | 2026-05-25 | kifucontents.php?id=7fpx4bQ0fgIAmX9CFzjyWA%3D%3D | W | R | 
-| 第65期十段戦予選 | 大熊悠人 | 今分太郎 | W+1.5 | 2026-05-25 | kifucontents.php?id=mMb7mO6KNWhFV5Qecyh6Yg%3D%3D | W | 1.5 | 
-| 第51期棋聖戦Aリーグ | 張栩 | 広瀬優一 | B+R | 2026-05-25 | kifucontents.php?id=n9pW8nn39yD96cRCL%2BcbTA%3D%3D | B | R | 
-| 第51期棋聖戦Bリーグ | 洪爽義 | 大西竜平 | B+R | 2026-05-25 | kifucontents.php?id=TZbNl61glDps7ID0e926kg%3D%3D | B | R | 
-| 第16回春蘭杯世界囲碁選手権2回戦 | 安成浚 | 王星昊 | W+R | 2026-05-25 | kifucontents.php?id=TJG2EDpnLsxtQsLP360SNg%3D%3D | W | R | 
-| 第16回春蘭杯世界囲碁選手権2回戦 | 楊楷文 | 申眞諝 | W+R | 2026-05-25 | kifucontents.php?id=v%2FDQ%2FJoK7xZYsrF0pwQiOg%3D%3D | W | R | 
-| 第16回春蘭杯世界囲碁選手権2回戦 | 丁浩 | 金明訓 | B+R | 2026-05-25 | kifucontents.php?id=WlweTov6qww9o8C67b8o5w%3D%3D | B | R | 
-| 第16回春蘭杯世界囲碁選手権2回戦 | 朴廷桓 | 屠暁宇 | W+R | 2026-05-25 | kifucontents.php?id=W02lowVJltnUV1kqbtPntQ%3D%3D | W | R | 
-| 第16回春蘭杯世界囲碁選手権2回戦 | 芝野虎丸 | 李欽誠 | W+R | 2026-05-25 | kifucontents.php?id=IDfPW8K1YAjIVyhzAknebQ%3D%3D | W | R | 
-| 第16回春蘭杯世界囲碁選手権2回戦 | 柯潔 | 福岡航太朗 | B+R | 2026-05-25 | kifucontents.php?id=ktWlUa75hVnmjHowr6WrUA%3D%3D | B | R | 
-| 第16回春蘭杯世界囲碁選手権2回戦 | 党毅飛 | 范胤 | W+R | 2026-05-25 | kifucontents.php?id=K9wRicRAIPqtApPEZa86SQ%3D%3D | W | R | 
-| 第16回春蘭杯世界囲碁選手権2回戦 | 黄雲嵩 | 申旻埈 | W+R | 2026-05-25 | kifucontents.php?id=ejzB7lSROU3RvtUXqyRo6w%3D%3D | W | R | 
-| 第7回快棋争覇戦3回戦  | 蕭正浩 | 王元均 | W+R | 2026-05-25 | kifucontents.php?id=494gBPtb3ce7Obh0zQwN2Q%3D%3D | W | R | 
-| 第7回快棋争覇戦3回戦 | 林士勛 | 徐靖恩 | W+R | 2026-05-25 | kifucontents.php?id=NzzcmAjsmU95EUTfjjIlSg%3D%3D | W | R | 
-| 第7回快棋争覇戦3回戦  | 陳祈睿 | 簡靖庭 | W+R | 2026-05-25 | kifucontents.php?id=ANUKTM61LBz1RxHwgPXWmQ%3D%3D | W | R | 
-| 第7回快棋争覇戦3回戦 | 李維 | 林立祥 | W+R | 2026-05-25 | kifucontents.php?id=O4DPvlnqvzKFJf0kHJO94w%3D%3D | W | R | 
-| 第7回快棋争覇戦3回戦 | 許皓鋐 | 陳詩淵 | B+R | 2026-05-25 | kifucontents.php?id=%2BtyeEQ5AAaGKqlpjfVodnA%3D%3D | B | R | 
-| 第7回快棋争覇戦3回戦 | 張哲豪 | 陳首廉 | W+R | 2026-05-25 | kifucontents.php?id=PK%2Fw67pRQCgi50S6xB7I6g%3D%3D | W | R | 
-| 第7回快棋争覇戦3回戦 | 陳映嘉 | 呉彦諶 | W+7.5 | 2026-05-25 | kifucontents.php?id=RO39IMFXDCpAA6pm%2FuZGFw%3D%3D | W | 7.5 | 
