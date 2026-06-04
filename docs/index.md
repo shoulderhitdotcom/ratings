@@ -240,17 +240,3 @@ noois = no one older is stronger
 
 | **comp** | **black** | **white** | **result** | **date** | **kifu_link** | **who_win** | **win_by** | 
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 第81期本因坊戦挑戦手合五番勝負第3局  | 一力遼 | 福岡航太朗 | B+R | 2026-06-03 | kifucontents.php?id=Nrsi%2Fp61owONA4OQx2AwVw%3D%3D | B | R | 
-| 第7回快棋争覇戦準決勝  | 林立祥 | 徐靖恩 | W+1.5 | 2026-06-03 | kifucontents.php?id=rZpt%2FKI9VseIddd1cENNjA%3D%3D | W | 1.5 | 
-| 第7回快棋争覇戦準決勝  | 王元均 | 賴均輔 | B+0.5 | 2026-06-03 | kifucontents.php?id=BmuzZFTygGbPtP%2BM0pfJig%3D%3D | B | 0.5 | 
-| 第6期湾区杯中国囲碁大棋士戦予選 | 黄雲嵩 | 金禹丞 | B+1¾ | 2026-06-03 | kifucontents.php?id=2pj1xtYAG%2FoRe5fEXncJHA%3D%3D | B | 1¾ | 
-| 第6期湾区杯中国囲碁大棋士戦予選 | 江維傑 | 許一笛 | B+R | 2026-06-03 | kifucontents.php?id=0v%2BMajUE9vtv2LfdNjjrOQ%3D%3D | B | R | 
-| 第6期湾区杯中国囲碁大棋士戦予選 | 芈昱廷 | 戎毅 | W+1¼ | 2026-06-03 | kifucontents.php?id=NFIOPLxXoWcJEhSvu8zpjw%3D%3D | W | 1¼ | 
-| 第6期湾区杯中国囲碁大棋士戦予選 | 王楚軒 | 陳賢 | B+R | 2026-06-03 | kifucontents.php?id=rMPtl7%2BqCRHjkMFcudQiAA%3D%3D | B | R | 
-| 第6期湾区杯中国囲碁大棋士戦予選 | 檀嘯 | 柁嘉熹 | W+R | 2026-06-03 | kifucontents.php?id=YzhG0Uuip6jBOk2dzrMkbw%3D%3D | W | R | 
-| 第6期湾区杯中国囲碁大棋士戦予選 | 芈昱廷 | 王沢錦 | B+R | 2026-06-03 | kifucontents.php?id=Xi4DUHsPtFhe%2FtyM8dTeNQ%3D%3D | B | R | 
-| 第6期湾区杯中国囲碁大棋士戦予選 | 王若宇 | 柁嘉熹 | W+¼ | 2026-06-03 | kifucontents.php?id=HWpB6mANI0QDdvwALMa%2BsA%3D%3D | W | ¼ | 
-| 第6期湾区杯中国囲碁大棋士戦予選 | 江維傑 | 李翔宇 | B+R | 2026-06-03 | kifucontents.php?id=D0bmrr4Hb9Au2UJZpFrNbg%3D%3D | B | R | 
-| 第6期湾区杯中国囲碁大棋士戦予選 | 李沢鋭 | 檀嘯 | W+R | 2026-06-03 | kifucontents.php?id=GKosws92LH%2BQPH4e5lkuVw%3D%3D | W | R | 
-| 第6期ソパルコサノル最高棋士決定戦挑戦者決定戦第1局 | 申旻埈 | 卞相壹 | W+R | 2026-06-03 | kifucontents.php?id=BlWaGGKAteavGHpMYEIhHA%3D%3D | W | R | 
-| 第20回GGオークション杯紳士・淑女・新鋭連勝対抗戦第6局 | 趙恵連 | 尹嶼願 | W+2.5 | 2026-06-02 | kifucontents.php?id=gq1r4j%2BWdfXlhzvSKivK%2FA%3D%3D | W | 2.5 | 
