@@ -240,12 +240,3 @@ noois = no one older is stronger
 
 | **comp** | **black** | **white** | **result** | **date** | **kifu_link** | **who_win** | **win_by** | 
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 第31回LG杯朝鮮日報棋王戦準決勝 | 王星昊 | 申眞諝 | B+R | 2026-06-12 | kifucontents.php?id=4HEq5JOYwNmmzU6wyJw3Fw%3D%3D | B | R | 
-| 第31回LG杯朝鮮日報棋王戦準決勝 | 楊楷文 | 申旻埈 | W+R | 2026-06-12 | kifucontents.php?id=6jCOXMbRl1ZA16lmGu8mUw%3D%3D | W | R | 
-| 2026全国囲棋錦標戦（団体）女子組第6戦 | 喩瑞琳 | 王舒瑶 | W+R | 2026-06-12 | kifucontents.php?id=W%2F7TBvv0%2FADiPGPBEupt8A%3D%3D | W | R | 
-| 2026全国囲棋錦標戦（団体）男子乙級第6戦 | 楊皓哲 | 盧奕銓 | B+R | 2026-06-12 | kifucontents.php?id=WpOtZBq%2BuAw49OGi%2BOB3oA%3D%3D | B | R | 
-| 2026全国囲棋錦標戦（団体）男子乙級第6戦 | 鄔光亜 | 肖沢彬 | B+R | 2026-06-12 | kifucontents.php?id=HVqSSURoIXMpmgMptRvEzw%3D%3D | B | R | 
-| 2026全国囲棋錦標戦（団体）男子丙級第6戦 | 馬加特 | 熊明睿 | B+R | 2026-06-12 | kifucontents.php?id=YXke8rYVvNrCRIJTGBqtAw%3D%3D | B | R | 
-| 2026韓国女子囲碁リーグ | 崔序妃 | 金伸英 | B+2.5 | 2026-06-11 | kifucontents.php?id=AJKltKbDfo7eVKX5Wevidg%3D%3D | B | 2.5 | 
-| 2026韓国女子囲碁リーグ | 朴泰姬 | 李奈炫 | W+R | 2026-06-11 | kifucontents.php?id=kpmspuPlRyQiXjuSpzMBAg%3D%3D | W | R | 
-| 2026韓国女子囲碁リーグ | 金彩瑛 | 金京垠 | W+R | 2026-06-11 | kifucontents.php?id=%2BZQ3IJhoHdY2%2FKpK8mrj3Q%3D%3D | W | R | 
