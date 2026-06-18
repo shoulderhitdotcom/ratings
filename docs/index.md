@@ -231,29 +231,3 @@
 | 242 | 彭景華 | 2540 | 268 | 2408 | 29 | 15 | missing | missing | missing | 彭景華 | missing | missing | 
 | 243 | 800.0 | 1745 | 272 | 1435 | missing | missing | missing | missing | missing | 800.0 | missing | missing | 
 | 244 | Fujita Reo | 1515 | 273 | 1272 | 27 | 15 | Japan | Unknown | 2013-04-25 | 藤田怜央 | missing | missing | 
-
-noyis = no one younger is stronger
-noois = no one older is stronger
-
-
-## Newly added games
-
-| **comp** | **black** | **white** | **result** | **date** | **kifu_link** | **who_win** | **win_by** | 
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 第7回快棋争覇戦決勝三番勝負第1局  | 徐靖恩 | 王元均 | W+R | 2026-06-17 | kifucontents.php?id=KnxZTZ8AIsEWYJmnNpGDTQ%3D%3D | W | R | 
-| 第13回中国女子囲碁甲級リーグ | 徐海哲 | 於之瑩 | W+R | 2026-06-17 | kifucontents.php?id=vuw%2BtgUWpUvfKk4AYeB97g%3D%3D | W | R | 
-| 第13回中国女子囲碁甲級リーグ | 葉子萌 | 李思璇 | W+R | 2026-06-17 | kifucontents.php?id=0GbSiYpkt6BK620Y6yV80g%3D%3D | W | R | 
-| 第13回中国女子囲碁甲級リーグ | 王晨星 | 馮韻嘉 | W+¼ | 2026-06-17 | kifucontents.php?id=I8osahEjEUJlUYSM4rNDtQ%3D%3D | W | ¼ | 
-| 第13回中国女子囲碁甲級リーグ | 潘陽 | 徐晶琦 | B+R | 2026-06-17 | kifucontents.php?id=tepOswgWu3%2Fbm6t4FQJCKQ%3D%3D | B | R | 
-| 第13回中国女子囲碁甲級リーグ | 汪雨博 | 丁柯文 | W+¼ | 2026-06-17 | kifucontents.php?id=kYaWt8SxxOTLDJpmhVARjw%3D%3D | W | ¼ | 
-| 第13回中国女子囲碁甲級リーグ | 儲可児 | 厳惜驀 | B+R | 2026-06-17 | kifucontents.php?id=pL1EeiSCtbFos0lHfVxqeg%3D%3D | B | R | 
-| 第13回中国女子囲碁甲級リーグ | 方若曦 | 李小渓 | W+R | 2026-06-17 | kifucontents.php?id=hJZZwvRDBXq%2FMCu87M5quw%3D%3D | W | R | 
-| 第13回中国女子囲碁甲級リーグ | 呉依銘 | 王爽 | B+R | 2026-06-17 | kifucontents.php?id=cifv6m3ldJFiyqomrqqBjw%3D%3D | B | R | 
-| 第13回中国女子囲碁甲級リーグ | 曾楚典 | 周泓余 | W+¼ | 2026-06-17 | kifucontents.php?id=rxYPKfH6uo4WrCje%2F9rEzw%3D%3D | W | ¼ | 
-| 第13回中国女子囲碁甲級リーグ | 羅楚玥 | 陳蔓淇 | B+3¾ | 2026-06-17 | kifucontents.php?id=c1j6mR6j%2Bih05ayqtD1wwA%3D%3D | B | 3¾ | 
-| 第13回中国女子囲碁甲級リーグ | 杭小童 | 趙奕斐 | W+R | 2026-06-17 | kifucontents.php?id=SLI%2BiIUsHQbZnOEjFBRw2A%3D%3D | W | R | 
-| 第13回中国女子囲碁甲級リーグ | 陸敏全 | 楊子萱 | W+R | 2026-06-17 | kifucontents.php?id=7UIdsPLpqSxTE5ks077Ydg%3D%3D | W | R | 
-| 第13回中国女子囲碁甲級リーグ | 唐奕 | 李赫 | B+2¼ | 2026-06-17 | kifucontents.php?id=HFT0QH5arKEBHu491lnp6A%3D%3D | B | 2¼ | 
-| 第13回中国女子囲碁甲級リーグ | 丁明君 | 唐嘉雯 | W+R | 2026-06-17 | kifucontents.php?id=%2FBpGt8SwXT1pCeNW1ox4RA%3D%3D | W | R | 
-| 第13回中国女子囲碁甲級リーグ | 張子涵 | 芮廼偉 | W+R | 2026-06-17 | kifucontents.php?id=FESBp5XQkMBGJTBn8fiTrw%3D%3D | W | R | 
-| 第20回GGオークション杯紳士・淑女・新鋭連勝対抗戦第10局 | 安祚永 | 朴昭律 | W+R | 2026-06-16 | kifucontents.php?id=fVz2wK4UmXXfrK%2BxMk6mOA%3D%3D | W | R | 
