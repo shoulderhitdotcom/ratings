@@ -239,17 +239,3 @@ noois = no one older is stronger
 
 | **comp** | **black** | **white** | **result** | **date** | **kifu_link** | **who_win** | **win_by** | 
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 第51期棋聖戦Cリーグ | 古谷裕 | 富士田明彦 | W+R | 2026-07-02 | kifucontents.php?id=4b2qVz7MtepkYuQXb9g%2Byw%3D%3D | W | R | 
-| 第52期名人戦予選 | 秋山次郎 | 上野愛咲美 | B+6.5 | 2026-07-02 | kifucontents.php?id=35C3qhxdGd4owdhpX7rb1A%3D%3D | B | 6.5 | 
-| 第65期十段戦予選 | 上野梨紗 | 河野臨 | W+R | 2026-07-02 | kifucontents.php?id=MCbpiP1Gukkyo308Z%2FUL2g%3D%3D | W | R | 
-| 第74期王座戦2回戦 | 山下敬吾 | 井山裕太 | W+R | 2026-07-02 | kifucontents.php?id=xqmkh0Lu0tvVSRfbrMqaLA%3D%3D | W | R | 
-| 第82期本因坊戦予選 | 金秀俊 | 藤沢里菜 | W+2.5 | 2026-07-02 | kifucontents.php?id=A79nUi8IEIj8tDewJzOyvg%3D%3D | W | 2.5 | 
-| 第3回晋城全国職業囲碁公開戦3回戦 | 柁嘉熹 | 陳玉儂 | W+R | 2026-07-02 | kifucontents.php?id=gZvFCDkaK9SxtHBYE2qL5w%3D%3D | W | R | 
-| 第3回晋城全国職業囲碁公開戦3回戦 | 陳賢 | 丁浩 | W+R | 2026-07-02 | kifucontents.php?id=9M3MNAfj7zjYoGqBjv8hjg%3D%3D | W | R | 
-| 第3回晋城全国職業囲碁公開戦3回戦 | 王沢錦 | 李軒豪 | B+R | 2026-07-02 | kifucontents.php?id=euYoNcMvZ0T9hfTzd6o5aA%3D%3D | B | R | 
-| 第3回晋城全国職業囲碁公開戦3回戦 | 江維傑 | 黄雲嵩 | B+1¾ | 2026-07-02 | kifucontents.php?id=oIjexxbEWDMapNGZRPWs9g%3D%3D | B | 1¾ | 
-| 第3回晋城全国職業囲碁公開戦3回戦 | 李維清 | 辜梓豪 | W+R | 2026-07-02 | kifucontents.php?id=amDQqH3aSTFx%2FptFzvORcw%3D%3D | W | R | 
-| 第3回晋城全国職業囲碁公開戦3回戦 | 范胤 | 劉宇航 | W+R | 2026-07-02 | kifucontents.php?id=cg7XtwMNaQGUIji20EwcDw%3D%3D | W | R | 
-| 第3回晋城全国職業囲碁公開戦3回戦 | 王星昊 | 趙晨宇 | W+R | 2026-07-02 | kifucontents.php?id=P%2BPXaCXO9xTz6dvnS9wuow%3D%3D | W | R | 
-| 第3回晋城全国職業囲碁公開戦3回戦 | 范廷鈺 | 党毅飛 | W+R | 2026-07-02 | kifucontents.php?id=%2F1hBNSrdbBWu6DiOWkITtg%3D%3D | W | R | 
-| 2026MOA女子最高棋士決定戦決勝三番勝負第2局 | 金恩持 | 崔精 | W+R | 2026-07-02 | kifucontents.php?id=i7SBuotokrsn2%2BSIGwZcWA%3D%3D | W | R | 
