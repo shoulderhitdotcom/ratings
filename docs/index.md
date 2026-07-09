@@ -241,13 +241,3 @@ noois = no one older is stronger
 
 | **comp** | **black** | **white** | **result** | **date** | **kifu_link** | **who_win** | **win_by** | 
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 第1回TLEOグループこの道杯・飛翔戦決勝  | 河原裕 | 竹下凌矢 | W+1.5 | 2026-07-08 | kifucontents.php?id=I3UKocy0WVObtJJv40jHiw%3D%3D | W | 1.5 | 
-| 第1回TLEOグループこの道杯・飛翔戦4回戦  | 田中佑樹 | 陳柏劭 | B+R | 2026-07-08 | kifucontents.php?id=yp4Mnhffb2knennvVsqZGg%3D%3D | B | R | 
-| 第1回TLEOグループこの道杯・飛翔戦3回戦  | 田中健太郎 | 桑原樹 | B+R | 2026-07-08 | kifucontents.php?id=cNxZv%2Bjl36796sJ78BJ3Ug%3D%3D | B | R | 
-| 第1回TLEOグループこの道杯・飛翔戦3回戦  | 竹下凌矢 | 田中佑樹 | B+R | 2026-07-08 | kifucontents.php?id=%2B6rySFh1wfOmOzDbASuCnA%3D%3D | B | R | 
-| 第1回TLEOグループこの道杯・飛翔戦3回戦  | 河原裕 | 陳柏劭 | B+R | 2026-07-08 | kifucontents.php?id=heQDTljJM4gjZlJvrtsKEw%3D%3D | B | R | 
-| 第20回倡棋杯中国プロ囲棋選手権戦準決勝第1局 | 辜梓豪 | 芈昱廷 | B+R | 2026-07-08 | kifucontents.php?id=lDwKMei7fraSVRhts5zrpQ%3D%3D | B | R | 
-| 第20回倡棋杯中国プロ囲棋選手権戦準決勝第1局 | 党毅飛 | 李欽誠 | W+R | 2026-07-08 | kifucontents.php?id=voRXKjFHxLIPMbnbXlBOSA%3D%3D | W | R | 
-| 第28回農心杯韓国予選 | 安成浚 | 金多彬 | B+0.5 | 2026-07-08 | kifucontents.php?id=jFYmvEBwYSVibpuXHVugJA%3D%3D | B | 0.5 | 
-| 第28回農心杯韓国予選 | 金恩持 | 李沇 | B+R | 2026-07-08 | kifucontents.php?id=4oUxZBHd0C815sCxFR9t3g%3D%3D | B | R | 
-| 第20回GGオークション杯紳士・淑女・新鋭連勝対抗戦第16局 | 李周泳 | 仲邑菫 | W+0.5 | 2026-07-07 | kifucontents.php?id=fXDQIdQuiADAupFXOvpoug%3D%3D | W | 0.5 | 
