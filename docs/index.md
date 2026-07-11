@@ -240,18 +240,3 @@ noois = no one older is stronger
 
 | **comp** | **black** | **white** | **result** | **date** | **kifu_link** | **who_win** | **win_by** | 
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 第51期碁聖戦挑戦手合五番勝負第2局  | 佐田篤史 | 井山裕太 | W+R | 2026-07-10 | kifucontents.php?id=L0L%2FgwVrWVyAWbz%2FtX%2BE2w%3D%3D | W | R | 
-| 第20回倡棋杯中国プロ囲棋選手権戦準決勝第2局 | 芈昱廷 | 辜梓豪 | W+R | 2026-07-10 | kifucontents.php?id=TlIiYt%2BkmnOh3b7UZ9ykiA%3D%3D | W | R | 
-| 第20回倡棋杯中国プロ囲棋選手権戦準決勝第2局 | 李欽誠 | 党毅飛 | W+R | 2026-07-10 | kifucontents.php?id=1sv2dQCOANZ0tPhhVuOXNg%3D%3D | W | R | 
-| 2026韓国女子囲碁リーグ | 金恩持 | 李奈炫 | B+3.5 | 2026-07-09 | kifucontents.php?id=ljcXxc2u1XF3PrkD1hEVEg%3D%3D | B | 3.5 | 
-| 2026韓国女子囲碁リーグ | 金彩瑛 | 李赫 | W+R | 2026-07-09 | kifucontents.php?id=Cxde8lguj1lGAAdgmUj3ow%3D%3D | W | R | 
-| 2026韓国女子囲碁リーグ | 金恩善 | 崔序妃 | B+0.5 | 2026-07-09 | kifucontents.php?id=t06uh4QWYV%2B%2BjeqfIxQKow%3D%3D | B | 0.5 | 
-| 第74期王座戦2回戦 | 余正麒 | 高尾紳路 | B+R | 2026-07-09 | kifucontents.php?id=KNHI6LB82s4lzsDFcahf6Q%3D%3D | B | R | 
-| 第51期棋聖戦Sリーグ | 一力遼 | 本木克弥 | B+R | 2026-07-09 | kifucontents.php?id=uO19Rdg5%2BdNA99wKG8Mv%2FQ%3D%3D | B | R | 
-| 第45期女流本因坊戦準決勝 | 向井千瑛 | 星合志保 | W+R | 2026-07-09 | kifucontents.php?id=WZQ3Xzo21SaRGmZW9KX1vA%3D%3D | W | R | 
-| 第53期天元戦予選 | 謝依旻 | 上野愛咲美 | W+R | 2026-07-09 | kifucontents.php?id=pPHnNfiqbQ3b%2Fve5nB%2FyHQ%3D%3D | W | R | 
-| 第28回農心杯韓国予選 | 洪性志 | 金恩持 | B+R | 2026-07-09 | kifucontents.php?id=nOtv74NtJshKTN2rhZLldQ%3D%3D | B | R | 
-| 第28回農心杯韓国予選 | 金志錫 | 元晟溱 | B+R | 2026-07-09 | kifucontents.php?id=JbIyt1bXLKMX7WADqNbgUA%3D%3D | B | R | 
-| 第52期名人戦予選 | 田中康湧 | 結城聡 | W+R | 2026-07-08 | kifucontents.php?id=D1M6eDqXNF9u%2FpK1ft9urQ%3D%3D | W | R | 
-| 第52期碁聖戦予選 | 渡辺由宇 | 木和田一臣 | W+R | 2026-07-08 | kifucontents.php?id=PcqISjUDq9gsXwyVYfZLnQ%3D%3D | W | R | 
-| 第53期天元戦予選 | 八幡直樹 | 洪爽義 | B+R | 2026-07-08 | kifucontents.php?id=%2Fs5IM0uXMLbE78I82MLnwA%3D%3D | B | R | 
