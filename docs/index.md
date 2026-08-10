@@ -247,11 +247,3 @@ noois = no one older is stronger
 
 | **comp** | **black** | **white** | **result** | **date** | **kifu_link** | **who_win** | **win_by** | 
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| 第12回健喬杯女子囲碁最強戦敗部4回戦  | 李嘉馨 | 盧鈺樺 | W+R | 2026-08-09 | kifucontents.php?id=6S0nrbFEtueXB%2FS1nrqypw%3D%3D | W | R | 
-| 2026年浙江平湖・当湖十局杯中国囲棋快棋戦決勝 | 許嘉陽 | 王星昊 | B+R | 2026-08-09 | kifucontents.php?id=clZWi6Q61v8SNV1TDvV5%2Bg%3D%3D | B | R | 
-| 第2回中国職業女子囲棋青少年争覇戦第9戦 | 厳惜驀 | 李思璇 | W+R | 2026-08-09 | kifucontents.php?id=EXFP6aBfY8HuO8o55Kqppg%3D%3D | W | R | 
-| 第2回中国職業女子囲棋青少年争覇戦第9戦 | 徐海哲 | 呉依銘 | W+R | 2026-08-09 | kifucontents.php?id=aWmNjwgd2T64gTYewpIx4w%3D%3D | W | R | 
-| 第49期名人戦（韓国）1回戦 | 沈載益 | 安成浚 | W+R | 2026-08-09 | kifucontents.php?id=zfm5ajfno0qQiszt9btTqg%3D%3D | W | R | 
-| 2026韓国女子囲碁リーグ | 李娜炅 | 金珉舒 | W+R | 2026-08-08 | kifucontents.php?id=LJxlD28BUmSDDTUC3w09%2Fg%3D%3D | W | R | 
-| 2026韓国女子囲碁リーグ | 李スルジュ | 曺承亜 | W+R | 2026-08-08 | kifucontents.php?id=SURoG6UqaAt66Yvm%2BbgShA%3D%3D | W | R | 
-| 2026韓国女子囲碁リーグ | 李昀 | 金多瑛 | W+R | 2026-08-08 | kifucontents.php?id=1mjcY7jikQ0iAfhpsXADpA%3D%3D | W | R | 
