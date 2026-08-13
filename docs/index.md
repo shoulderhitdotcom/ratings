@@ -237,22 +237,3 @@
 | 254 | 彭景華 | 2516 | 279 | 2427 | 29 | 15 | missing | missing | missing | 彭景華 | missing | missing | 
 | 255 | 800.0 | 1715 | 281 | 1338 | missing | missing | missing | missing | missing | 800.0 | missing | missing | 
 | 256 | Fujita Reo | 1367 | 282 | 1284 | 27 | 15 | Japan | Unknown | 2013-04-25 | 藤田怜央 | missing | missing | 
-
-noyis = no one younger is stronger
-noois = no one older is stronger
-
-
-## Newly added games
-
-| **comp** | **black** | **white** | **result** | **date** | **kifu_link** | **who_win** | **win_by** | 
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| 2026 IBK企業銀行杯女子囲碁ワールドマスターズ中国予選 | 方若曦 | 王晨星 | B+6.5 | 2026-08-12 | kifucontents.php?id=fg8KHmak08qhikSgZMNChw%3D%3D | B | 6.5 | 
-| 2026 IBK企業銀行杯女子囲碁ワールドマスターズ中国予選 | 丁柯文 | 王晨星 | W+0.5 | 2026-08-12 | kifucontents.php?id=81RyZ2paOu6qQINje8ivnQ%3D%3D | W | 0.5 | 
-| 2026 IBK企業銀行杯女子囲碁ワールドマスターズ韓国予選 | 金京垠 | 岳祉佑 | W+R | 2026-08-12 | kifucontents.php?id=XuG811kEP0KhKGJMWN74vw%3D%3D | W | R | 
-| 2026 IBK企業銀行杯女子囲碁ワールドマスターズ韓国予選 | 李昀 | 曺承亜 | W+R | 2026-08-12 | kifucontents.php?id=qZev6hRbxbyFCx5BbYAonQ%3D%3D | W | R | 
-| 第49期名人戦（韓国）敗者組1回戦 | 朴ジンソル | 李志賢 | W+R | 2026-08-12 | kifucontents.php?id=E5pkG%2FD3mx2IEq54lnq4eQ%3D%3D | W | R | 
-| 第49期名人戦（韓国）敗者組1回戦 | 崔精 | 沈載益 | W+0.5 | 2026-08-12 | kifucontents.php?id=JvEBklzFAyB4mfyeCUuzag%3D%3D | W | 0.5 | 
-| 第49期名人戦（韓国）敗者組1回戦 | 金旻奭 | 鄭峻宇 | B+R | 2026-08-12 | kifucontents.php?id=5xMIPYDodyxLeVXcqF5chw%3D%3D | B | R | 
-| 第49期名人戦（韓国）敗者組1回戦 | 金眞輝 | 安正己 | B+R | 2026-08-12 | kifucontents.php?id=oywJlTQUfxIVnL8bSjuVsQ%3D%3D | B | R | 
-| 第1回Sh水協銀行杯女子囲碁最強戦1回戦 | 許瑞玹 | 金多瑛 | B+R | 2026-08-12 | kifucontents.php?id=pn1FvJmRRg3Fnso5jNsDwA%3D%3D | B | R | 
-| 第20回GGオークション杯紳士・淑女・新鋭連勝対抗戦第26局 | 朴ジンソル | 金恩持 | W+0.5 | 2026-08-11 | kifucontents.php?id=tZwVfiSEA%2FXhhsiskxjRyg%3D%3D | W | 0.5 | 
